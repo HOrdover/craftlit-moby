@@ -1,4 +1,9 @@
 #moby-dick #full-text #shownotes 
+
+![[2025-05-30_18-38-10.png]]
+Heads up:   On craftlit.com. 
+We need all three filled in for search reasons as well as for people with disabilities
+
 ## CHAPTER 3. The Spouter-Inn.
 {any emphasis added by Heather—mostly for ease of seeing footnotes}
 
