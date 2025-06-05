@@ -154,6 +154,13 @@ This being told to Queequeg, he at once complied, and again politely motioned me
 
 I turned in, and never slept better in my life.
 
+
+
+
+
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+
 --- 
 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)

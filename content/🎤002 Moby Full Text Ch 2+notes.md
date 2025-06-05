@@ -26,6 +26,10 @@ Now, that Lazarus should lie stranded there on the curbstone before the door of 
 But no more of this blubbering now, we are going a-whaling, and there is plenty of that yet to come. Let us scrape the ice from our frosted feet, and see what sort of a place this “Spouter” may be.
 
 
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+
+
 --- 
 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
