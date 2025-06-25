@@ -3,9 +3,6 @@
 - [[#CHAPTER 11 | Chapter 11: Nightgown]]
 - [[#CHAPTER 12 | Chapter 12: Biographical]]
 
-Bean sprouts for Aaron: https://youtu.be/SRXfcAed6BY?si=iH1rzOLjW9U50iGR
-
-https://www.youtube.com/watch?v=hZ6kxhqlHyQ&list=PLzE7ZccX89tzkudgW3ZaGZzRmr6YlWztb
 
 ***Emphasis added by Heather - usually because I love the line. ;)***
 
@@ -79,6 +76,6 @@ His story being ended with his pipe’s last dying puff, Queequeg embraced me, p
 [^9]: Tester - canopy on a four-poster bed.
 [^10]: If that isn't 100% Transcendentalist/Hippie wisdom, I don't know what is. I love it!
 [^11]: clout - here a loincloth rather than the European clout = diaper
-[^12]: NEED MAP - north eastern long Island - whalers also left from there.
+[^12]: Sag Harbor - north eastern long Island - whalers also left from there. ![[Pasted image 20250625154328.png]]
 [^13]: ME AT UCLA
 [^14]: many religions have water-related cleansing rituals, apparently Queequeg's does, too.
