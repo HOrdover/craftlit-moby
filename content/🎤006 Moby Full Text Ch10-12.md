@@ -77,5 +77,5 @@ His story being ended with his pipe’s last dying puff, Queequeg embraced me, p
 [^10]: If that isn't 100% Transcendentalist/Hippie wisdom, I don't know what is. I love it!
 [^11]: clout - here a loincloth rather than the European clout = diaper
 [^12]: Sag Harbor - north eastern long Island - whalers also left from there. ![[Pasted image 20250625154328.png]]
-[^13]: ME AT UCLA
+[^13]: ME AT UCLA ::le sigh::
 [^14]: many religions have water-related cleansing rituals, apparently Queequeg's does, too.
