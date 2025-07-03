@@ -36,11 +36,8 @@ But it so happened just then, that it was high time for the Captain to mind his 
 Was there ever such unconsciousness?[^17] He did not seem to think that he at all deserved a medal from the Humane and Magnanimous Societies.[^18] He only asked for water—fresh water—something to wipe the brine off; that done, he put on dry clothes, lighted his pipe, and leaning against the bulwarks, and mildly eyeing those around him, seemed to be saying to himself—“It’s a mutual, joint-stock world,[^19] in all meridians. We cannibals must help these Christians.”
 
   
-  
-  
-  
 
-## CHAPTER 14. Nantucket.[^20]
+## CHAPTER 14. [Nantucket](https://lifeatbellaterra.com/a-trip-to-nantucket/.[^20]
 
 Nothing more happened on the passage worthy the mentioning; so, after a fine run, we safely arrived in Nantucket.
 
@@ -51,10 +48,6 @@ Look now at the wondrous traditional story of how this island was settled by the
 What wonder, then, that these Nantucketers, born on a beach, should take to the sea for a livelihood! They first caught crabs and quohogs in the sand; grown bolder, they waded out with nets for mackerel; more experienced, they pushed off in boats and captured cod; and at last, launching a navy of great ships on the sea, explored this watery world; put an incessant belt of circumnavigations round it; peeped in at Behring’s Straits; and in all seasons and all oceans declared everlasting war with the mightiest animated mass that has survived the flood; most monstrous and most mountainous! That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults!
 
 And thus have these naked Nantucketers, these sea hermits, issuing from their ant-hill in the sea, overrun and conquered the watery world like so many Alexanders; parcelling out among them the Atlantic, Pacific, and Indian oceans, as the three pirate powers[^24] did Poland. Let America add Mexico to Texas, and pile Cuba upon Canada; let the English overswarm all India, and hang out their blazing banner from the sun; two thirds of this terraqueous globe are the Nantucketer’s. For the sea is his; he owns it, as Emperors own empires; other seamen having but a right of way through it. Merchant ships are but extension bridges; armed ones but floating forts; even pirates and privateers, though following the sea as highwaymen the road, they but plunder other ships, other fragments of the land like themselves, without seeking to draw their living from the bottomless deep itself. The Nantucketer, he alone resides and riots on the sea; he alone, in Bible language, goes down to it in ships; to and fro ploughing it as his own special plantation. _There_ is his home; _there_ lies his business, which a Noah’s flood would not interrupt, though it overwhelmed all the millions in China. He lives on the sea, as prairie cocks in the prairie; he hides among the waves, he climbs them as chamois hunters climb the Alps. For years he knows not the land; so that when he comes to it at last, it smells like another world, more strangely than the moon would to an Earthsman. With the landless gull, that at sunset folds her wings and is rocked to sleep between billows; so at nightfall, the Nantucketer, out of sight of land, furls his sails, and lays him to his rest, while under his very pillow rush herds of walruses and whales.
-
-  
-  
-  
   
 
 ## CHAPTER 15. Chowder.
@@ -96,27 +89,27 @@ Supper concluded, we received a lamp, and directions from Mrs. Hussey concerning
 
 ## FOOTNOTES
 [^1]: Block - wig block
-[^2]: Fanciful stories - watch Steve Coogan’s ”Tristram Shandy: a Cock and Bull Story” to seer one in action - someday we will do tristram shandy on CraftLit
-[^3]: Gourd
+[^2]: Fanciful stories - watch Steve Coogan’s ”Tristram Shandy: a Cock and Bull Story” to see one in action - someday we will do Tristram Shandy on CraftLit. I swear it.
+[^3]: [A gourd](https://en.wikipedia.org/wiki/Calabash)
 [^4]: EEK!!!!! Dear God… please mean this was a CEREMONIAL wedding!
 [^5]: Finger bowl
-[^6]: Acushnet is both the name of the river between New Bedford and Fairhaven, but it is also the port from which Melville sailed ON the Acushnet on January 3, 1841!)
+[^6]: [Acushnet](https://wbsm.com/massachusetts-longest-rivers-acushnet/) is both the name of the river between New Bedford and Fairhaven, but it is also the port from which [Melville sailed ON the Acushnet on January 3, 1841](https://slate.com/human-interest/2014/10/history-of-herman-melville-crew-list-for-the-whaler-acushnet.html#:~:text=Although%20he%20had%20signed%20up,before%20the%20trip%20was%20over)! (The river link I provided is an odd one, but scroll down for some amazing vintage photos!)
 [^7]: Casks of Whale oil
 [^8]: coopers - barrel makers
-[^9]: My theory of why people “go postal” - the never-ending-ness
+[^9]: My theory of why people “go postal” - the never-ending-ness of a single task
 [^10]: Tartars - combined Mongol/Turkish raiders - also here, likely meaning crisp and strong.
 [^11]: Real? yes! This was a thing in Fiji, Solomon Islands, New Guinea, some parts of Indonesia and Borneo (less Common in Tahiti or Hawai’i) 
 [^12]: Let it sit in that this was written in 1850….just… wow!
-[^13]: This is a tonally-lightened version of a moment from a book “The New Zealanders” by Sanborn 
+[^13]: This is a tonally-lightened version of a moment from a book [“The New Zealanders” by George Lillie Craik (1830)](https://www.rct.uk/collection/1026109/the-new-zealanders) I misspoke on the episode. 
 [^14]: The rope holding the sails against the force of the wind.
 [^15]: duuuuuuuddddeeeee!
 [^16]: Also a true story about the Queequeg analog in “The New Zealanders” saving the Captain of that ship.
 [^17]: unconsciousness = lack of ego
-[^18]: HA! Melville will keep making up these Dapartments of Things That Should Exist.
+[^18]: HA! Melville will keep making up these Departments of Things That Should Exist.
 [^19]: a company where stockholders share responsibilities and profits.
-[^20]: Full disclosure—Melville didn’t visit Nantucket unitl 1852 - AFTER *Moby Dick* was published.
+[^20]: Full disclosure—Melville didn’t visit Nantucket until 1852 - AFTER *Moby Dick* was published.
 [^21]: Eddystone Lighthouse is in the English Channel https://stephenliddell.co.uk/wp-content/uploads/2020/11/screenshot-2020-11-02-at-09.56.22.png and it is VERY LONELY LOOKING  https://www.natureplprints.com/p/729/eddystone-lighthouse-marking-dangerous-eddystone-24027758.jpg.webp
-[^22]: If you didn’t have an ink blotter, you could shake fine sand onto your ink-writing to dry it more quickly (to soak up wet ink)
+[^22]: If you didn’t have an ink blotter, you could [shake fine sand onto your ink-writing to dry it more quickly (to soak up wet ink)](https://penenthusiastsnorthernsociety.wordpress.com/2022/03/18/sand-sifters-by-jim-nelson/#:~:text=Old%20paper%20didn't%20absorb%20ink%20uniformly%20and%20dip%20pens,sander%20to%20be%20used%20again.)
 [^23]: a wooden plug
 [^24]: Russia, Austria, and Prussia (according to Norton)
 [^25]: opened = sighted
