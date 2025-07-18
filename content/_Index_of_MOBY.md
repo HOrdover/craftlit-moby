@@ -10,7 +10,7 @@
  [[MOBY/🎤006 Moby Full Text Ch10-12|🎤006 Moby Full Text Ch10-12]]
  [[MOBY/🎤007 Moby Full Text Chs13-15|🎤007 Moby Full Text Chs13-15]]
  [[MOBY/🎤008 Moby Full Text Ch16|🎤008 Moby Full Text Ch16]]
- [[🎤009 Moby Full Text Ch17-19|🎤009 Moby Full Text Ch17-19]]
+ [[MOBY/🎤009 Moby Full Text Ch17-19|🎤009 Moby Full Text Ch17-19]]
  [[MOBY/index|index]]
  [[MOBY/List of funniest chapters|List of funniest chapters]]
  [[MOBY/List of most-dramatic-saddest chapters|List of most-dramatic-saddest chapters]]
