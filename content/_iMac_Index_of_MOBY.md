@@ -7,7 +7,7 @@
  [[MOBY/🎤003 Moby Full Text Ch3+notes|🎤003 Moby Full Text Ch3+notes]]
  [[MOBY/🎤004 Moby Full Text Chs-4-5-6-7-8+notes|🎤004 Moby Full Text Chs-4-5-6-7-8+notes]]
  [[MOBY/🎤005 Moby Full Text Ch9+notes|🎤005 Moby Full Text Ch9+notes]]
- [[MOBY/🎤006 Moby Full Text Ch10-12|🎤006 Moby Full Text Ch10-12]]
+ [[🎤006 Moby Full Text Chs10-12|🎤006 Moby Full Text Chs10-12]]
  [[🎤007 Moby Full Text Chs13-15|🎤007 Moby Full Text Chs13-15]]
  [[MOBY/index|index]]
  [[MOBY/List of funniest chapters|List of funniest chapters]]
