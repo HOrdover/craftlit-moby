@@ -20,6 +20,10 @@ Below please find links to the full text of each chapter with my annotations for
 - [[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]]
 - [[🎤005 Moby Full Text Ch9+notes]]
 - [[🎤006 Moby Full Text Chs10-12]]
+- [[🎤007 Moby Full Text Chs13-15]]
+- [[🎤008 Moby Full Text Ch16]]
+- [[🎤009 Moby Full Text Chs17-19]]
+- [[🎤010 Moby Full Text Chs20-22]]
 
 ---
 
