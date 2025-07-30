@@ -3,28 +3,6 @@
 [[#CHAPTER 24. The Advocate.]]
 [[#CHAPTER 25. Postscript.]]
 
-Bulkington is not important - WHAT he's doing and the fact that he doesn't seem to be able to stand being on land, THAT is what's important (and will propel Melville into his next two chapters in defense of Whaling).
-
-Not often that you get such a strong (and consistent) narrative voice in non-plot chapters. And it's a DRAMATIC voice.
-
-And it's often used, like here, to point out the unsung but incredible people in the world.
-
-24 - REMINDER - BOOK IS BEING WRITTEN BY OLD ISHAMEL - who came home from the Pequod.
-First real shift to a non-narrative chapter (he doesn't really need a reason to do this as we go through the book, however)  in this one it seems like his awe of Bulkington has propelled him to advocate for whaling as a respectable profession.
-And yes, it's a bit like a high school essay in that he will lay out his thesis and then go point by point by point, and gets more and more riled as he goes. (and BJ harrison is MASTERFUL at this!)
-The main thrusts of his argument are thus:
-
-- Whalers are no worse butchers than the average soldier, and they are accorded all sorts of honor and respect by society.
-- Whaling makes _a lot of money_.
-- Whalers have explored the furthest reaches of the globe and made important inroads in previously uncontacted nations.
-
-POST NOTE - why coddle the military: The answer is very simple and direct: you give them respect because they’re the ones with the weapons. You want to keep them happy, keep them bound by their reason in some sort of system of honor and respectability. Otherwise, you get more violence. You get coups. You get horrific massacres. Especially with modern weaponry, but even back in Melville’s time. A military run amok can utterly destroy a population many times its size.
-WHALERS in contrast, are out on a ship far away from you.
-
-But whaling produces something NEEDED and useful (many thinks)
-
-
-25 - This is Melville writing one "AND ANOTHER THING" chapter :) 
 
 ## CHAPTER 23. The Lee Shore.
 
