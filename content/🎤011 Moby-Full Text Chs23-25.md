@@ -3,7 +3,6 @@
 [[#CHAPTER 24. The Advocate.]]
 [[#CHAPTER 25. Postscript.]]
 
-
 ## CHAPTER 23. The Lee Shore.
 
 Some chapters back, one Bulkington was spoken of,[^1] a tall, newlanded mariner, encountered in New Bedford at the inn.
