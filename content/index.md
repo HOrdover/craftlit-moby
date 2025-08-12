@@ -24,6 +24,9 @@ Below please find links to the full text of each chapter with my annotations for
 - [[🎤008 Moby Full Text Ch16]]
 - [[🎤009 Moby Full Text Chs17-19]]
 - [[🎤010 Moby Full Text Chs20-22]]
+- [[🎤011 Moby-Full Text Chs23-25]]
+- [[🎤012 Moby Full Text Chs26-28]]
+- [[🎤013 Moby Full Text Chs29-30]]
 
 ---
 

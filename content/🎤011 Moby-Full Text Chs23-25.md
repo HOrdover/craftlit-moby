@@ -1,13 +1,19 @@
+#moby-dick #full-text #shownotes 
+
 ## Contents
 [[#CHAPTER 23. The Lee Shore.]]
 [[#CHAPTER 24. The Advocate.]]
 [[#CHAPTER 25. Postscript.]]
+[[#FOOTNOTES]]
+
+[PREVIOUS chapter]([[🎤010 Moby Full Text Chs20-22]])                                                                                  [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
+ 
 
 ## CHAPTER 23. The Lee Shore.
 
 Some chapters back, one Bulkington was spoken of,[^1] a tall, newlanded mariner, encountered in New Bedford at the inn.
 
-When on that shivering winter’s night, the Pequod thrust her vindictive bows into the cold malicious waves, who should I see standing at her helm but Bulkington! I looked with sympathetic awe and fearfulness upon the man, who in mid-winter just landed from a four years’ dangerous voyage, could so unrestingly push off again for still another tempestuous term. The land seemed scorching to his feet. Wonderfullest things are ever the unmentionable; deep memories yield no epitaphs; this six-inch chapter is the stoneless grave of Bulkington. Let me only say that it fared with him as with the storm-tossed ship, that miserably drives along the leeward land.[^2] The port would fain[^3] give succor;[^4] the port is pitiful;[^5] in the port is safety, comfort, hearthstone, supper, warm blankets, friends, all that’s kind to our mortalities.[^6] But in that gale, the port, the land, is that ship’s direst jeopardy; she must fly[^7] all hospitality; one touch of land, though it but graze the keel, would make her shudder through and through. With all her might she crowds all sail off shore; in so doing, fights ’gainst the very winds that fain would blow her homeward; seeks all the lashed sea’s landlessness again; for refuge’s sake forlornly rushing into peril; her only friend her bitterest foe!
+When on that shivering winter’s night, the Pequod thrust her vindictive bows into the cold malicious waves, who should I see standing at her helm but Bulkington! I looked with sympathetic awe and fearfulness upon the man, who in mid-winter just landed from a four years’ dangerous voyage, could so unrestingly push off again for still another tempestuous term. The land seemed scorching to his feet. Wonderfullest things are ever the unmentionable; deep memories yield no epitaphs; *==this six-inch chapter is the stoneless grave of Bulkington==*. Let me only say that it fared with him as with the storm-tossed ship, that miserably drives along the leeward land.[^2] The port would fain[^3] give succor;[^4] the port is pitiful;[^5] in the port is safety, comfort, hearthstone, supper, warm blankets, friends, all that’s kind to our mortalities.[^6] But in that gale, the port, the land, is that ship’s direst jeopardy; she must fly[^7] all hospitality; one touch of land, though it but graze the keel, would make her shudder through and through. With all her might she crowds all sail off shore; in so doing, fights ’gainst the very winds that fain would blow her homeward; seeks all the lashed sea’s landlessness again; for refuge’s sake forlornly rushing into peril; her only friend her bitterest foe!
 
 Know ye now, Bulkington? Glimpses do ye seem to see of that mortally intolerable truth; that all deep, earnest thinking is but the intrepid effort of the soul to keep the open independence of her sea; while the wildest winds of heaven and earth conspire to cast her on the treacherous, slavish shore?
 
@@ -80,11 +86,17 @@ Think of that, ye loyal Britons! we whalemen supply your kings and queens with c
 
 Back to [[#Contents]]
 
------
+[PREVIOUS chapter]([[🎤010 Moby Full Text Chs20-22]])                                                                                  [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
+ 
 
-## Footnotes
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
-[^1]: chapter 3
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
+
+---
+## FOOTNOTES
+
+[^1]: Bulkington appears in [Chapter 3]([[Moby - Cross-chapter References]])
 [^2]: The lee side of the ship is the downwind side, Leeward land is a coastline on that side of the ship.
 [^3]: fain = like to (i.e., *I would fain sit in a room with you and talk about this book rather than sending you audio.•*)
 [^4]: succor = aid

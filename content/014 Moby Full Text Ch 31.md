@@ -1,3 +1,4 @@
+#moby-dick #full-text #shownotes 
 
 ## Contents
 [[#CHAPTER 31. Queen Mab.]]

@@ -1,8 +1,13 @@
+#moby-dick #full-text #shownotes 
+
 ## Contents
 [[#CHAPTER 20. All Astir.]]
 [[#CHAPTER 21. Going Aboard.]]
 [[#CHAPTER 22. Merry Christmas.]]
+[[#Footnotes]]
 
+[PREVIOUS chapter]([[🎤009 Moby Full Text Chs17-19]])                                                                                  [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
+ 
 any *emphasis added by Heather*
 
 - found a [very detailed 3-D model of a 19th Century Explorer's sailing ship](https://youtu.be/3pYqXrFx6S8?si=AwlWw1X2gpYwuNuh). It includes exterior, and around 7min it starts showing the interior (including a mispronunciation of fo'c'sle 🤷‍♀️). (Here's the same for an [18th C. Warship](https://youtu.be/3pYqXrFx6S8?si=Ynfy7jdWjbTYbPdq), if you're interested—he's got a lot of cool explainer videos on his channel!)
@@ -163,8 +168,15 @@ Ship and boat diverged; the cold, damp night breeze blew between; a screaming gu
 
 Back to [[#Contents]]
 
-## Footnotes
+[PREVIOUS chapter]([[🎤009 Moby Full Text Chs17-19]])                                                                                  [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
+ 
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
+
 ---
+## Footnotes
+
 
 [^1]: We put our things in the hold below, (trappings)
 [^2]: There are fishmongers—fish sellers—there are also costermongers (costard = cooking apple) —fruit and veg sellers from their street carts

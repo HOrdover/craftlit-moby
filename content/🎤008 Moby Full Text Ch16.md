@@ -1,4 +1,11 @@
+#moby-dick #full-text #shownotes 
 
+## Contents
+[[#CHAPTER 16. The Ship.]]
+[[#Footnotes]]
+
+[PREVIOUS chapter]([[🎤007 Moby Full Text Chs13-15]])                                                                                  [NEXT chapter]([[🎤009 Moby Full Text Chs17-19]]) 
+ 
 ## CHAPTER 16. The Ship.
 
 In bed we concocted our plans for the morrow. But to my surprise and no small concern, Queequeg now gave me to understand, that he had been diligently consulting Yojo[^1]—the name of his black little god—and Yojo had told him two or three times over, and strongly insisted upon it everyway, that instead of our going together among the whaling-fleet in harbor, and in concert selecting our craft; instead of this, I say, Yojo earnestly enjoined[^2] that the selection of the ship should rest wholly with me, inasmuch as Yojo purposed befriending us; and, in order to do so, had already pitched upon a vessel, which, if left to myself, I, Ishmael, should infallibly light upon, for all the world as though it had turned out by chance; and in that vessel I must immediately ship myself, for the present irrespective of Queequeg.[^3]
@@ -165,11 +172,17 @@ But I had not proceeded far, when I began to bethink me that the Captain with wh
 
 As I walked away, I was full of thoughtfulness; what had been incidentally revealed to me of Captain Ahab, filled me with a certain wild vagueness of painfulness concerning him. And somehow, at the time, I felt a sympathy and a sorrow for him, but for I don’t know what, unless it was the cruel loss of his leg. And yet I also felt a strange awe of him; but that sort of awe, which I cannot at all describe, was not exactly awe; I do not know what it was. But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then. However, my thoughts were at length carried in other directions, so that for the present dark Ahab slipped my mind.
 
------
+[PREVIOUS chapter]([[🎤007 Moby Full Text Chs13-15]])                                                                                  [NEXT chapter]([[🎤009 Moby Full Text Chs17-19]]) 
+
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
+
+---
 
 ## Footnotes
 
-[^1]: Yojo: "Queequeg [likely] came from a fictionalized version of the Cook Islands, specifically the primary island Rarotonga, as his native home has been called Rokovoko or Kokovoko by Ishmael. Islanders believed in mythology and various gods for their religion prior to the mass conversion done by Christian missionaries. One of the main gods for the Cook Islanders was Tangaroa, the god of the sea. [citation](https://eng365melville.wordpress.com/2014/10/17/yojo-and-tangaroa/)
+[^1]: Yojo: "Queequeg [likely] came from a fictionalized version of the Cook Islands, specifically the primary island Rarotonga, as his native home has been called Rokovoko or Kokovoko by Ishmael. Islanders believed in mythology and various gods for their religion prior to the mass conversion done by Christian missionaries. One of the main gods for the Cook Islanders was Tangaroa, the god of the sea." [citation](https://eng365melville.wordpress.com/2014/10/17/yojo-and-tangaroa/)
 [^2]: Instructed
 [^3]: I thought it was interesting to have Queequeg's God be the one who can see the future so clearly. Of course, in a Christian land, the assumption would be that it was in fact Queequeg who was deciding this and telling Ishmael.
 [^4]: And Ishmael knows it ;) 

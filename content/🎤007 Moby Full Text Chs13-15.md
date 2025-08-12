@@ -1,7 +1,14 @@
+#moby-dick #full-text #shownotes 
+
+## Contents
+
 [[#CHAPTER 13. Wheelbarrow.]]
 [[#CHAPTER 14. Nantucket.]]
 [[#CHAPTER 15. Chowder.]]
+[[#FOOTNOTES]]
 
+[PREVIOUS chapter]([[🎤006 Moby Full Text Chs10-12]])                                                                                  [NEXT chapter]([[🎤006 Moby Full Text Chs10-12]]) 
+ 
 
 ## CHAPTER 13. Wheelbarrow.
 
@@ -35,7 +42,7 @@ But it so happened just then, that it was high time for the Captain to mind his 
 
 Was there ever such unconsciousness?[^17] He did not seem to think that he at all deserved a medal from the Humane and Magnanimous Societies.[^18] He only asked for water—fresh water—something to wipe the brine off; that done, he put on dry clothes, lighted his pipe, and leaning against the bulwarks, and mildly eyeing those around him, seemed to be saying to himself—“It’s a mutual, joint-stock world,[^19] in all meridians. We cannibals must help these Christians.”
 
-  
+ [[#Contents]] 
 
 ## CHAPTER 14. [Nantucket](https://lifeatbellaterra.com/a-trip-to-nantucket/.[^20]
 
@@ -84,8 +91,16 @@ Supper concluded, we received a lamp, and directions from Mrs. Hussey concerning
 
 “Both,” says I; “and let’s have a couple of smoked herring by way of variety.”
 
+[[#Contents]]
+
+[PREVIOUS chapter]([[🎤006 Moby Full Text Chs10-12]])                                                                                  [NEXT chapter]([[🎤006 Moby Full Text Chs10-12]]) 
 
 
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
+
+---
 
 ## FOOTNOTES
 [^1]: Block - wig block

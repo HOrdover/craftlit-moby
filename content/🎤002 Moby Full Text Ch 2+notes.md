@@ -1,4 +1,10 @@
 #moby-dick #full-text #shownotes 
+## Contents
+[[#CHAPTER 2. The Carpet-Bag.]]
+[[#Footnotes]]
+
+[PREVIOUS chapter]([[MOBY/🎤001 Moby Full Text+notes|🎤001 Moby Full Text+notes]])                                                                                  [NEXT chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002 Moby Full Text Ch 2+notes]]) 
+
 ## CHAPTER 2. The Carpet-Bag.
 
 I stuffed a shirt or two into my old carpet-bag,[^1] tucked it under my arm, and started for Cape Horn and the Pacific.[^2] Quitting the good city of old Manhatto, I duly arrived in [New Bedford](http://en.wikipedia.org/wiki/New_Bedford). It was a Saturday night in December.[^3] Much was I disappointed upon learning that the little packet[^4] for Nantucket[^5] had already sailed, and that no way of reaching that place would offer,[^6] till the following Monday.
@@ -24,11 +30,12 @@ But what thinks Lazarus? Can he warm his blue hands by holding them up to the gr
 Now, that Lazarus should lie stranded there on the curbstone before the door of Dives, this is more wonderful than that an iceberg should be moored to one of the Moluccas.[^39] Yet Dives himself, he too lives like a Czar in an ice palace made of frozen sighs, and being a president of a temperance[^40] society, he only drinks the tepid tears of orphans.
 
 But no more of this blubbering now, we are going a-whaling, and there is plenty of that yet to come. Let us scrape the ice from our frosted feet, and see what sort of a place this “Spouter” may be.
+[[#Contents]]
 
+[PREVIOUS chapter]([[MOBY/🎤001 Moby Full Text+notes|🎤001 Moby Full Text+notes]])                                                                                  [NEXT chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002 Moby Full Text Ch 2+notes]]) 
+ 
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
-
-
 
 --- 
 

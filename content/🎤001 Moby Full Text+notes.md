@@ -1,5 +1,13 @@
 #full-book #moby-dick #Melville #annotated
 
+## Contents
+[[#CHAPTER 1. Loomings.]]
+[[#FOOTNOTES]]
+
+[PREVIOUS chapter]([[MOBY/🎤000-MOBY START|🎤000-MOBY START]])                                                                                  [NEXT chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002]]) 
+ 
+
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
   Aaron's classic response to the first four chapters, "I don’t know why people say this book is dry—it’s ALL ABOUT WATER!"
   
@@ -38,16 +46,18 @@ Though I cannot tell why it was exactly that those stage managers, the Fates, pu
 Chief among these motives was the overwhelming idea of the great whale himself. Such a ***portentous and mysterious monster***[^32] roused all my curiosity. Then the wild and distant seas where he rolled his island bulk; the undeliverable, nameless perils of the whale; these, ***with all the attending marvels of a thousand Patagonian sights and sounds***,[^33] helped to sway me to my wish. With other men, perhaps, such things would not have been inducements; but as for me, I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on ***barbarous coasts***.[^34] Not ignoring what is good, **I am quick to perceive a horror, and could still be social with it—would they let me—since it is but well to be on friendly terms with all the inmates of the place one lodges in**. {{HA!}}
 
 By reason of these things, then, the whaling voyage was welcome; the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale, and, mid most of them all, one grand hooded phantom, like a snow hill in the air.
+[[#Contents]]
+
+[PREVIOUS chapter]([[MOBY/🎤000-MOBY START|🎤000-MOBY START]])                                                                                  [NEXT chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002]]) 
+ 
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
-
-
 
 --- 
 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 
-FOOTNOTES
+## FOOTNOTES
 [^1]: Using the name Ishmael tells us a lot about our narrator before we begin. Origin: The biblical story of Abraham tells us that his wife, Sarah, couldn’t have a child. Instead he has a child with his bondservant, Hagar—one of the few non-main character women who are named in the Bible. That child is Ishmael. As the oldest, he should inherit everything from Abraham. But suddenly Sarah is blessed with a child, Isaac, and Ishmael and Hagar are summarily dismissed, making Ishamel the OG outcast.
 [^2]: Spleen-temper / ill-humor + melancholy or low spirits
 [^3]: hypos - hypochondria

@@ -1,5 +1,11 @@
 #moby-dick #full-text #shownotes 
 
+## Contents
+[[#CHAPTER 3. The Spouter-Inn.]]
+[[#Footnotes]]
+
+[PREVIOUS chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002 Moby Full Text Ch 2+notes]])                                                                                  [NEXT chapter]([[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]]) 
+ 
 ## CHAPTER 3. The Spouter-Inn.
 {any emphasis added by Heather—mostly for ease of seeing footnotes}
 
@@ -151,6 +157,8 @@ This being told to Queequeg, he at once complied, and again politely motioned me
 I turned in, and never slept better in my life.
 
 
+[PREVIOUS chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002 Moby Full Text Ch 2+notes]])                                                                                  [NEXT chapter]([[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]]) 
+ 
 
 
 

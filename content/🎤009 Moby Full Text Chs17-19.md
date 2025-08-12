@@ -1,16 +1,15 @@
+#moby-dick #full-text #shownotes 
+
 ## Contents
 [[#CHAPTER 17. The Ramadan.]]
 [[#CHAPTER 18. His Mark.]]
-[[#CHAPTER 19. The Prophet.]]
+[[#CHAPTER 19. The Prophet.
+[[#Footnotes]]]]
 
+[PREVIOUS chapter]([[🎤008 Moby Full Text Ch16]])                                                                                  [NEXT chapter]([[🎤010 Moby Full Text Chs20-22]]) 
+ 
 *emphasis added by Heather*
 
-- More Ishmael open minded religious man
-- Slapstick with Ishmael and Housekeeper
-
-- More "fun" with Peleg and Bildad—and Queequeg proves to be an utter badass
-
-- And the Ancient Mariner
 ## CHAPTER 17. The Ramadan.
 
 As Queequeg’s Ramadan, or Fasting and Humiliation, was to continue all day, I did not choose to disturb him till towards night-fall; for I cherish the greatest respect towards everybody’s religious obligations, never mind how comical, and could not find it in my heart to undervalue even a congregation of ants worshipping a toad-stool; or those other creatures in certain parts of our earth, who with a degree of footmanism[^1] quite unprecedented in other planets, bow down before the torso of a deceased landed proprietor merely on account of the inordinate possessions yet owned and rented in his name.
@@ -75,9 +74,6 @@ At last we rose and dressed; and Queequeg, taking a prodigiously hearty breakfas
 
 Back to [[#Contents]]
   
-  
-  
-
 ## CHAPTER 18. His Mark.
 
 As we were walking down the end of the wharf towards the ship, Queequeg carrying his harpoon, Captain Peleg in his gruff voice loudly hailed us from his wigwam, saying he had not suspected my friend was a cannibal, and furthermore announcing that he let no cannibals on board that craft, unless they previously produced their papers.[^17]
@@ -212,8 +208,14 @@ I was resolved to satisfy myself whether this ragged Elijah was really dogging u
 
 Back to [[#Contents]]
 
-## Footnotes
+[PREVIOUS chapter]([[🎤008 Moby Full Text Ch16]])                                                                                  [NEXT chapter]([[🎤010 Moby Full Text Chs20-22]]) 
+ 
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
+
 ---
+## Footnotes
 
 [^1]: I love that! Nice way to say 'boot licker'.
 [^2]: Have a stroke.

@@ -1,15 +1,21 @@
+#moby-dick #full-text #shownotes 
+
 ## Contents
 [Whaling glossary](https://whalesite.org/whaling/Ashley%20whaling%20glossary.htm) 
 
+[[#Figures]]
+[[#CHAPTER 26. Knights and Squires.]]
+[[#CHAPTER 27. Knights and Squires.]]
+[[#CHAPTER 28. Ahab.]]
+[[#FOOTNOTES]]
+
+[PREVIOUS chapter]([[🎤011 Moby-Full Text Chs23-25]])                                                                                       [NEXT chapter]([[🎤013 Moby Full Text Chs29-30]]) 
+ 
+## Figures
 Now that we're aboard, I thought this might be useful:
 ![[Pasted image 20250804115052.png]]
 
 ![[Pasted image 20250804115123.png]]
-
-[[#CHAPTER 26. Knights and Squires.]]
-[[#CHAPTER 27. Knights and Squires.]]
-[[#CHAPTER 28. Ahab.]]
-
 ## CHAPTER 26. Knights and Squires.
 
 The chief mate of the Pequod was Starbuck, a native of Nantucket, and a Quaker by descent. He was a long, earnest man, and though born on an icy coast, seemed well adapted to endure hot latitudes, his flesh being hard as twice-baked biscuit. Transported to the Indies, his live blood would not spoil like bottled ale. He must have been born in some time of general drought and famine, or upon one of those fast days for which his state is famous.[^1] Only some thirty arid summers had he seen; those summers had dried up all his physical superfluousness. But this, his thinness, so to speak, seemed no more the token of wasting anxieties and cares, than it seemed the indication of any bodily blight. It was merely the condensation of the man. He was by no means ill-looking; quite the contrary. His pure tight skin was an excellent fit; and closely wrapped up in it, and embalmed with inner health and strength, like a revivified Egyptian[^28], this Starbuck seemed prepared to endure for long ages to come, and to endure always, as now; for be it Polar snow or torrid sun, like a patent chronometer,[^2] his interior vitality was warranted to do well in all climates. Looking into his eyes, you seemed to see there the yet lingering images of those thousand-fold perils he had calmly confronted through life. A staid, steadfast man, whose life for the most part was a telling pantomime[^3] of action, and not a tame chapter of sounds. Yet, for all his hardy sobriety and fortitude, there were certain qualities in him which at times affected, and in some cases seemed well nigh to overbalance all the rest. Uncommonly conscientious for a seaman, and endued[^4] with a deep natural reverence, the wild watery loneliness of his life did therefore strongly incline him to superstition; *but to that sort of superstition, which in some organizations seems rather to spring, somehow, from intelligence than from ignorance*. Outward portents and inward presentiments were his. And if at times these things bent the welded iron of his soul, much more did his far-away domestic memories of his young Cape wife and child, tend to bend him still more from the original ruggedness of his nature, and open him still further to those latent influences which, in some honest-hearted men, restrain the gush of dare-devil daring, so often evinced[^5] by others in the more perilous vicissitudes[^6] of the fishery. *“I will have no man in my boat,” said Starbuck, “who is not afraid of a whale.” By this, he seemed to mean, not only that the most reliable and useful courage was that which arises from the fair estimation of the encountered peril, but that an utterly fearless man is a far more dangerous comrade than a coward.*
@@ -23,12 +29,9 @@ With memories like these in him, and, moreover, given to a certain superstitious
 But were the coming narrative to reveal in any instance, the complete abasement of poor Starbuck’s fortitude, scarce might I have the heart to write it; for it is a thing most sorrowful, nay shocking, to expose the fall of valour in the soul[^29]. Men may seem detestable as joint stock-companies and nations; knaves, fools, and murderers there may be; men may have mean and meagre faces; but man, in the ideal, is so noble and so sparkling, such a grand and glowing creature, that over any ignominious blemish in him all his fellows should run to throw their costliest robes. That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man. Nor can piety itself, at such a shameful sight, completely stifle her upbraidings against the permitting stars[^27]. But this august dignity I treat of, is not the dignity of kings and robes, but *that abounding dignity which has no robed investiture.* Thou shalt see it shining in the arm that wields a pick or drives a spike; that democratic dignity which, on all hands, radiates without end from God; Himself! The great God absolute! The centre and circumference of all democracy! His omnipresence, our divine equality!
 
 If, then, to meanest mariners, and renegades and castaways, *I shall hereafter ascribe high qualities, though dark; weave round them tragic graces; if even the most mournful, perchance the most abased, among them all, shall at times lift himself to the exalted mounts; if I shall touch that workman’s arm with some ethereal light; if I shall spread a rainbow over his disastrous set of sun; then against all mortal critics bear me out in it, thou just Spirit of Equality*, which hast spread one royal mantle of humanity over all my kind! Bear me out in it, thou great democratic God! who didst not refuse to the swart[^7] convict, Bunyan,[^8] the pale, poetic pearl; Thou who didst clothe with doubly hammered leaves of finest gold, the stumped and paupered arm of old Cervantes;[^9] Thou who didst pick up [^10]Andrew Jackson from the pebbles; who didst hurl him upon a war-horse; who didst thunder him higher than a throne! Thou who, in all Thy mighty, earthly marchings, ever cullest Thy selectest champions from the kingly commons; bear me out in it, O God![^30]
-
   
   [[#Contents]]
   
-  
-
 ## CHAPTER 27. Knights and Squires.
 
 **Stubb was the second mate**. He was a native of Cape Cod; and hence, according to local usage, was called a Cape-Cod-man. A *happy-go-lucky; neither craven nor valiant; taking perils as they came with an indifferent air; and while engaged in the most imminent crisis of the chase, toiling away, calm and collected as a journeyman joiner engaged for the year[^31]*. Good-humored, easy, and careless, he presided over his whale-boat as if the most deadly encounter were but a dinner, and his crew all invited guests. He was as particular about the comfortable arrangement of his part of the boat, as an old stage-driver is about the snugness of his box. When close to the whale, in the very death-lock of the fight, he handled his unpitying lance[^32] coolly and off-handedly, as a whistling tinker his hammer. He would hum over his old rigadig[^37] tunes while flank and flank with the most exasperated monster. *Long usage had, for this Stubb, converted the jaws of death into an easy chair.* What he thought of death itself, there is no telling. Whether he ever thought of it at all, might be a question; but, if he ever did chance to cast his mind that way after a comfortable dinner, no doubt, like a good sailor, he took it to be a sort of call of the watch to tumble aloft, and bestir themselves there, about something which he would find out when he obeyed the order, and not sooner.
@@ -49,11 +52,8 @@ Next was **Tashtego, an unmixed Indian from Gay Head**,[^12] the most westerly p
 
 **Third among the harpooneers was Daggoo, a gigantic, coal-black negro-savage, with a lion-like trea**d—an Ahasuerus[^36] to behold. Suspended from his ears were two golden hoops, so large that the sailors called them ring-bolts, and would talk of securing the top-sail halyards[^43] to them. In his youth Daggoo had voluntarily shipped on board of a whaler, lying in a lonely bay on his native coast. And never having been anywhere in the world but in Africa, Nantucket, and the pagan harbors most frequented by whalemen; and having now led for many years the bold life of the fishery in the ships of owners uncommonly heedful of what manner of men they shipped; Daggoo retained all his barbaric virtues, and erect as a giraffe, moved about the decks in all the pomp of six feet five in his socks. There was a corporeal humility in looking up at him; and a white man standing before him seemed a white flag come to beg truce of a fortress. Curious to tell, this imperial negro, Ahasuerus Daggoo, was the Squire of little Flask, who looked like a chess-man beside him. As for the residue of the Pequod’s company, be it said, that at the present day not one in two of the many thousand men before the mast employed in the American whale fishery, are Americans born, though pretty nearly all the officers are. Herein it is the same with the American whale fishery as with the American army and military and merchant navies, and the engineering forces employed in the construction of the American Canals and Railroads. The same, I say, because in all these cases the **native American[^14]** liberally provides the brains, the rest of the world as generously supplying the muscles. No small number of these whaling seamen belong to the Azores[^44], where the outward bound Nantucket whalers frequently touch to augment their crews from the hardy peasants of those rocky shores. In like manner, the Greenland whalers sailing out of Hull[^45] or London, put in at the Shetland Islands[^46], to receive the full complement of their crew. Upon the passage homewards, they drop them there again. How it is, there is no telling, but Islanders seem to make the best whalemen. They were nearly all Islanders in the Pequod, _Isolatoes[^15]_ too, I call such, not acknowledging the common continent of men, but each _Isolato_ living on a separate continent of his own. Yet now, federated[^47] along one keel, what a set these Isolatoes were! An Anacharsis Clootz[^16] deputation from all the isles of the sea, and all the ends of the earth, accompanying Old Ahab in the Pequod to lay the world’s grievances before that bar[^48] from which not very many of them ever come back. Black Little Pip—he never did—oh, no! he went before. Poor Alabama boy! On the grim Pequod’s forecastle, ye shall ere long see him, beating his tambourine; prelusive[^49] of the eternal time, when sent for, to the great quarter-deck on high, he was bid strike in with angels, and beat his tambourine in glory; called a coward here, hailed a hero there!
   
+[[#Contents]]
   
-  [[#Contents]]
-  
-  
-
 ## CHAPTER 28. Ahab.
 
 For several days after leaving Nantucket, nothing above hatches was seen of Captain Ahab. The mates regularly relieved each other at the watches, and for aught that could be seen to the contrary, they seemed to be the only commanders of the ship; only they sometimes issued from the cabin with orders so sudden and peremptory[^50], that after all it was plain they but commanded vicariously. Yes, their supreme lord and dictator was there, though hitherto unseen by any eyes not permitted to penetrate into the now sacred retreat of the cabin.[^17]
@@ -70,12 +70,16 @@ Ere long, from his first visit in the air, he withdrew into his cabin. But after
 
 Nevertheless, ere long, the warm, warbling persuasiveness of the pleasant, holiday weather we came to, seemed gradually to charm him from his mood. For, as when the red-cheeked, dancing girls, April and May, trip home to the wintry, misanthropic woods; even the barest, ruggedest, most thunder-cloven[^57] old oak will at least send forth some few green sprouts, to welcome such glad-hearted visitants[^58]; so Ahab did, in the end, a little respond to the playful allurings of that girlish air. More than once did he put forth the faint blossom of a look, which, in any other man, would have soon flowered out in a smile.
 
-
+[PREVIOUS chapter]([[🎤011 Moby-Full Text Chs23-25]])                                                                              [NEXT chapter]([[🎤013 Moby Full Text Chs29-30]])
   
-  [[#Contents]]
+ [[#Contents]]
+
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 
 ---
-
+## FOOTNOTES
 [^1]: MA established fast days in 1670 (abolished in 1894)
 [^2]: very accurate shipboard clock
 [^3]: Like a Christmas Panto in England, an amateur play that encourages audience participation and occasionally humor the kids won't understand but the adults will. 

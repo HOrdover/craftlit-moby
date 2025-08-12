@@ -1,3 +1,11 @@
+#moby-dick #full-text #shownotes 
+
+## Contents
+[[#CHAPTER 9. The Sermon.]]
+[[#Footnotes]]
+
+[PREVIOUS chapter]([[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]])                                                                                  [NEXT chapter]([[🎤006 Moby Full Text Chs10-12]]) 
+ 
 ## CHAPTER 9. The Sermon.
 
 [^1]Father Mapple rose, and in a mild voice of unassuming authority ordered the scattered people to condense.[*“Starboard gangway, there! side away to larboard—larboard gangway to starboard! Midships! midships!”*](https://youtu.be/iCFdPSPThk0?si=rrlCzQwqA0bVeG4g)
@@ -54,7 +62,7 @@ Nearly all joined in singing this hymn, which swelled high above the howling of 
 
 *“‘I am a Hebrew,’ he cries—and then—‘I fear the Lord the God of Heaven who hath made the sea and the dry land!’ Fear him, O Jonah? Aye, well mightest thou fear the Lord God then! Straightway, he now goes on to make a full confession; whereupon the mariners became more and more appalled, but still are pitiful. For when Jonah, not yet supplicating God for mercy, since he but too well knew the darkness of his deserts,—when wretched Jonah cries out to them to take him and cast him forth into the sea, for he knew that for his sake this great tempest was upon them; they mercifully turn from him, and seek by other means to save the ship.[^27] But all in vain; the indignant gale howls louder; then, with one hand raised invokingly to God, with the other they not unreluctantly lay hold of Jonah.*
 
-*“And now behold Jonah taken up as an anchor and dropped into the sea; when instantly an oily calmness[^28] floats out from the east, and the sea is still, as Jonah carries down the gale with him, leaving smooth water behind. He goes down in the whirling heart of such a masterless commotion that he scarce heeds the moment when he drops seething into the yawning jaws awaiting him; and the whale shoots-to[^29] all his ivory teeth, like so many white bolts, upon his prison. Then Jonah prayed unto the Lord out of the fish’s belly. But observe his prayer, and learn a weighty lesson. For sinful as he is, Jonah does not weep and wail for direct deliverance. **He feels that his dreadful punishment is just[^30]**. He leaves all his deliverance to God, contenting himself with this, that spite of all his pains and pangs, he will still look towards His holy temple. And here, shipmates, is true and faithful repentance; **not clamorous for pardon, but grateful for punishment.** [[[[[[**ERIK - THIS IS A YOUTUBE SHORT MOMENT***]]]]] And how pleasing to God was this conduct in Jonah, is shown in the eventual deliverance of him from the sea and the whale. Shipmates, I do not place Jonah before you to be copied for his sin but I do place him before you as a model for repentance. **Sin not; but if you do, take heed to repent of it like Jonah.”***[^31]
+*“And now behold Jonah taken up as an anchor and dropped into the sea; when instantly an oily calmness[^28] floats out from the east, and the sea is still, as Jonah carries down the gale with him, leaving smooth water behind. He goes down in the whirling heart of such a masterless commotion that he scarce heeds the moment when he drops seething into the yawning jaws awaiting him; and the whale shoots-to[^29] all his ivory teeth, like so many white bolts, upon his prison. Then Jonah prayed unto the Lord out of the fish’s belly. But observe his prayer, and learn a weighty lesson. For sinful as he is, Jonah does not weep and wail for direct deliverance. **He feels that his dreadful punishment is just[^30]**. He leaves all his deliverance to God, contenting himself with this, that spite of all his pains and pangs, he will still look towards His holy temple. And here, shipmates, is true and faithful repentance; **not clamorous for pardon, but grateful for punishment.** And how pleasing to God was this conduct in Jonah, is shown in the eventual deliverance of him from the sea and the whale. Shipmates, I do not place Jonah before you to be copied for his sin but I do place him before you as a model for repentance. **Sin not; but if you do, take heed to repent of it like Jonah.”***[^31]
 
 While he was speaking these words, the howling of the shrieking, slanting storm without seemed to add new power to the preacher, who, when describing Jonah’s sea-storm, seemed tossed by a storm himself. His deep chest heaved as with a ground-swell; his tossed arms seemed the warring elements at work; and the thunders that rolled away from off his swarthy brow, and the light leaping from his eye, made all his simple hearers look on him with a quick fear that was strange to them.
 
@@ -69,6 +77,15 @@ But again he leaned over towards the people, and bowing his head lowly, with an 
 He dropped and fell away from himself for a moment; then lifting his face to them again, showed a deep joy in his eyes, as he cried out with a heavenly enthusiasm,—“But oh! shipmates! on the starboard[^35] hand of every woe, there is a sure delight; and higher the top of that delight, than the bottom of the woe is deep. Is not the main-truck higher than the kelson is low?[^36] Delight is to him—a far, far upward, and inward delight—who against the proud gods and commodores of this earth, ever stands forth his own inexorable self. Delight is to him whose strong arms yet support him, when the ship of this base treacherous world has gone down beneath him. Delight is to him, who gives no quarter in the truth, and kills, burns, and destroys all sin though he pluck it out from under the robes of Senators and Judges. Delight,—top-gallant delight is to him, who acknowledges no law or lord, but the Lord his God, and is only a patriot to heaven. Delight is to him, whom all the waves of the billows of the seas of the boisterous mob can never shake from this sure Keel of the Ages. And eternal delight and deliciousness will be his, who coming to lay him down, can say with his final breath—O Father!—chiefly known to me by Thy rod—mortal or immortal, here I die. I have striven to be Thine, more than to be this world’s, or mine own. Yet this is nothing: I leave eternity to Thee; for what is man that he should live out the lifetime of his God?”
 
 He said no more, but slowly waving a benediction, covered his face with his hands, and so remained kneeling, till all the people had departed, and he was left alone in the place.[^37]
+
+[PREVIOUS chapter]([[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]])                                                                                  [NEXT chapter]([[🎤006 Moby Full Text Chs10-12]]) 
+ 
+  
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
+
+---
 # Footnotes
 
 [^1]: This chapter is going to bounce between Ishmael telling you what Maple is doing/saying and the actual sermon Mapple gives. For this online text, I’ve italicized Mapple’s words and left Ishmael’s words as unformatted text.

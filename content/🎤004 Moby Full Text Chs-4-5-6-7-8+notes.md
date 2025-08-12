@@ -1,5 +1,16 @@
 #moby-dick #full-text #shownotes 
 
+## Contents
+[[#CHAPTER 4. The Counterpane.]]
+[[#CHAPTER 5. Breakfast.]]
+[[#CHAPTER 6. The Street.]]
+[[#CHAPTER 7. The Chapel.]]
+[[#CHAPTER 8. The Pulpit.]]
+[[#Footnotes]]
+
+[PREVIOUS chapter]([[MOBY/🎤003 Moby Full Text Ch3+notes|🎤003 Moby Full Text Ch3+notes]])                                                                                  [NEXT chapter]([[🎤005 Moby Full Text Ch9+notes]]) 
+ 
+
 {any emphasis is added by me, Heather}
 
 
@@ -19,8 +30,7 @@ Seeing, now, that there were no curtains to the window, and that the street bein
 
 The rest of his toilet was soon achieved, and he proudly marched out of the room, wrapped up in his great pilot monkey jacket, and sporting his harpoon like a marshal’s baton.
 
-  ---
-  
+  [[#Contents]]
   
 ## CHAPTER 5. Breakfast.
 
@@ -43,7 +53,7 @@ But as for Queequeg—why, Queequeg sat there among them—at the head of the ta
 We will not speak of all Queequeg’s peculiarities here; how he eschewed coffee and hot rolls, and applied his undivided attention to beefsteaks, done rare. Enough, that when breakfast was over he withdrew like the rest into the public room, lighted his tomahawk-pipe, and was sitting there quietly digesting and smoking with his inseparable hat on, when I sallied out for a stroll.
 
   
-  
+  [[#Contents]]
   
   
 
@@ -68,7 +78,7 @@ In summer time, the town is sweet to see; full of fine maples—long avenues of 
 And the women of New Bedford, they bloom like their own red roses. But roses only bloom in summer; whereas the fine carnation of their cheeks is perennial as sunlight in the seventh heavens. Elsewhere match that bloom of theirs, ye cannot, save in Salem, where they tell me the young girls breathe such musk, their sailor sweethearts smell them miles off shore, as though they were drawing nigh the odorous Moluccas[^33] instead of the Puritanic sands.
 
   
-  
+  [[#Contents]]
   
   
 
@@ -94,7 +104,7 @@ But Faith, like a jackal, feeds among the tombs, and even from these dead doubts
 
 It needs scarcely to be told, with what feelings, on the eve of a Nantucket voyage, I regarded those marble tablets, and by the murky light of that darkened, doleful day read the fate of the whalemen who had gone before me. Yes, Ishmael, the same fate may be thine. But somehow I grew merry again. Delightful inducements to embark, fine chance for promotion, it seems—aye, a stove boat[^48] will make me an immortal by brevet.[^49] Yes, there is death in this business of whaling—a speechlessly quick chaotic bundling of a man into Eternity. But what then? *Methinks we have hugely mistaken this matter of Life and Death. Methinks that what they call my shadow here on earth is my true substance. Methinks that in looking at things spiritual, we are too much like oysters observing the sun through the water, and thinking that thick water the thinnest of air. Methinks my body is but the lees[^50] of my better being. In fact take my body who will, take it I say, it is not me. And therefore three cheers for Nantucket; and come a stove boat and stove body when they will, for stave my soul, Jove himself cannot.*[^51]
 
-  ---
+  [[#Contents]]
   
 ## CHAPTER 8. The Pulpit.
 
@@ -111,11 +121,11 @@ But the side ladder was not the only strange feature of the place, borrowed from
 Nor was the pulpit itself without a trace of the same sea-taste that had achieved the ladder and the picture. Its panelled front was in the likeness of a ship’s bluff bows, and the Holy Bible rested on a projecting piece of scroll work, fashioned after a ship’s fiddle-headed[^65] beak.
 
 What could be more full of meaning?—for the pulpit is ever this earth’s foremost part; all the rest comes in its rear; the pulpit leads the world. From thence it is the storm of God’s quick wrath is first descried,[^66] and the bow must bear the earliest brunt. From thence it is the God of breezes fair or foul is first invoked for favourable winds. Yes, the world’s a ship on its passage out, and not a voyage complete; and the pulpit is its prow.
+[[#Contents]]
+[PREVIOUS chapter]([[MOBY/🎤003 Moby Full Text Ch3+notes|🎤003 Moby Full Text Ch3+notes]])                                                                                  [NEXT chapter]([[🎤005 Moby Full Text Ch9+notes]]) 
 
-  ---
+   ---
   **Homework:** read up on Jonah (perhaps even the [Reform Judiasm take on this Hebrew Prophet](https://reformjudaism.org/blog/running-away-returning-and-teaching-story-jonah#:~:text=We%20see%20in%20Jonah's%20flight,story%20to%20my%20boys!)).
-  
-  
   
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
