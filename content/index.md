@@ -41,14 +41,6 @@ Below please find links to the full text of each chapter with my annotations for
 
 ---
 
----
-
-**Visits:**  
-![Visit counter](https://api.countapi.xyz/hit/craftlit-moby/index?render=true)
-<div style="text-align: center; margin-top: 2em;">
-  <small>Visits:</small>
-  <span id="visit-counter">Loading...</span>
-</div>
 
 <script>
   fetch('https://api.countapi.xyz/hit/craftlit-moby/index')
