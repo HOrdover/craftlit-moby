@@ -41,12 +41,10 @@ Below please find links to the full text of each chapter with my annotations for
 
 ---
 
+---
 
-
-> Visits:
-
-![Visitor count](https://visitor-badge.lithub.cc/badge?page_id=craftlit-moby)
-
+**Visits:**  
+![Visit counter](https://api.countapi.xyz/hit/craftlit-moby/index?render=true)
 <div style="text-align: center; margin-top: 2em;">
   <small>Visits:</small>
   <span id="visit-counter">Loading...</span>
