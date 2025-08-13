@@ -54,6 +54,9 @@ const config: QuartzConfig = {
         },
       },
     },
+    customHead: `
+      <script defer src="https://cdn.counter.dev/script.js" data-id="2d3b7abb-cb57-4c4f-a92d-f8719a8ff6a9" data-utcoffset="-4"></script>
+    `,
   },
   plugins: {
     transformers: [
