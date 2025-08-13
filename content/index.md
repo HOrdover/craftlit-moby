@@ -39,13 +39,7 @@ Below please find links to the full text of each chapter with my annotations for
 
 > _This index was last updated by Zoottelkeeper or manually curated. Use it to navigate the CraftLit Moby-Dick experience!_
 
----
+------
 
-
-<script>
-  fetch('https://api.countapi.xyz/hit/craftlit-moby/index')
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById('visit-counter').innerText = data.value;
-    });
-</script>
+**Visits:**  
+![Visit counter](https://api.countapi.xyz/hit/craftlit-moby/index?render=true)
