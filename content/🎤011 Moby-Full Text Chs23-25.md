@@ -1,12 +1,12 @@
 #moby-dick #full-text #shownotes 
 
 ## Contents
-[[#CHAPTER 23. The Lee Shore.]]
-[[#CHAPTER 24. The Advocate.]]
-[[#CHAPTER 25. Postscript.]]
-[[#FOOTNOTES]]
+- [[#CHAPTER 23. The Lee Shore.]]
+- [[#CHAPTER 24. The Advocate.]]
+- [[#CHAPTER 25. Postscript.]]
+- [[#FOOTNOTES]]
 
-[PREVIOUS chapter]([[🎤010 Moby Full Text Chs20-22]])                                                                                  [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
+[PREVIOUS chapter]([[🎤010 Moby Full Text Chs20-22]])                                            [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
  
 
 ## CHAPTER 23. The Lee Shore.
