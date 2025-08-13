@@ -38,3 +38,7 @@ Below please find links to the full text of each chapter with my annotations for
 ---
 
 > _This index was last updated by Zoottelkeeper or manually curated. Use it to navigate the CraftLit Moby-Dick experience!_
+
+---
+
+![Visitor Counter](https://counter.dev/2d3b7abb-cb57-4c4f-a92d-f8719a8ff6a9.svg)
