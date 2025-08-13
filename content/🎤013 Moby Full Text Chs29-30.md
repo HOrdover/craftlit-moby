@@ -66,7 +66,7 @@ He tossed the still lighted pipe into the sea. The fire hissed in the waves; the
 [^5]: Wow! That is beautiful!
 [^6]: IS THIS Ahab IS HAVING MYSTICAL DREAMS AND PORTENTS OR JUST WEIRD VIBES?
 [^7]: Okay, wow… I sleep less now but dang, that’s a harshly poetic way to explain it.
-[^8]: Narrow scuttle - he’s casting aspersions on the staircase he would use to go down to his room - a scuttle is (as we came across before in [footnote 12]([[Moby - Cross-chapter References]]) a drain on the ship.
+[^8]: Narrow <span id="fn-scuttle">scuttle</span> - he’s casting aspersions on the staircase he would use to go down to his room - a scuttle is (as we came across before in [footnote 12]([[Moby - Cross-chapter References]]) a drain on the ship.
 [^9]: Sentinelled - Guarded the sleep of the people below deck.
 [^10]: Sometimes “considering” is “considerating” - same meaning.
 [^11]: Forgot to bring this up - if you’ve read *Heart of Darkness* this won’t be news, but if not: pay attention to the usage of the color ”white” as we go.
