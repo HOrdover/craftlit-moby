@@ -4,7 +4,7 @@
 [[#CHAPTER 1. Loomings.]]
 [[#FOOTNOTES]]
 
-[PREVIOUS chapter]([[MOBY/🎤000-MOBY START|🎤000-MOBY START]])                                                                                  [NEXT chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002]]) 
+[PREVIOUS chapter]([[MOBY/🎤000-MOBY START|🎤000-MOBY START]])                                                                                  [NEXT chapter]([[🎤002 Moby Full Text Ch 2-notes|🎤002]]) 
  
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
@@ -48,7 +48,7 @@ Chief among these motives was the overwhelming idea of the great whale himself. 
 By reason of these things, then, the whaling voyage was welcome; the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale, and, mid most of them all, one grand hooded phantom, like a snow hill in the air.
 [[#Contents]]
 
-[PREVIOUS chapter]([[MOBY/🎤000-MOBY START|🎤000-MOBY START]])                                                                                  [NEXT chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002]]) 
+[PREVIOUS chapter]([[MOBY/🎤000-MOBY START|🎤000-MOBY START]])                                                                                  [NEXT chapter]([[🎤002 Moby Full Text Ch 2-notes|🎤002]]) 
  
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==

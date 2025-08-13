@@ -3,7 +3,7 @@
 [[#CHAPTER 2. The Carpet-Bag.]]
 [[#Footnotes]]
 
-[PREVIOUS chapter]([[🎤001 Moby Full Text-notes|🎤001 Moby Full Text-notes]])                                                                                  [NEXT chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002 Moby Full Text Ch 2+notes]]) 
+[PREVIOUS chapter]([[🎤001 Moby Full Text-notes|🎤001 Moby Full Text-notes]])                                                                                  [NEXT chapter]([[🎤002 Moby Full Text Ch 2-notes|🎤002 Moby Full Text Ch 2-notes]]) 
 
 ## CHAPTER 2. The Carpet-Bag.
 
@@ -32,7 +32,7 @@ Now, that Lazarus should lie stranded there on the curbstone before the door of 
 But no more of this blubbering now, we are going a-whaling, and there is plenty of that yet to come. Let us scrape the ice from our frosted feet, and see what sort of a place this “Spouter” may be.
 [[#Contents]]
 
-[PREVIOUS chapter]([[🎤001 Moby Full Text-notes|🎤001 Moby Full Text-notes]])                                                                                  [NEXT chapter]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002 Moby Full Text Ch 2+notes]]) 
+[PREVIOUS chapter]([[🎤001 Moby Full Text-notes|🎤001 Moby Full Text-notes]])                                                                                  [NEXT chapter]([[🎤002 Moby Full Text Ch 2-notes|🎤002 Moby Full Text Ch 2-notes]]) 
  
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==

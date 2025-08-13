@@ -1,6 +1,6 @@
 Links go to Episode-based Full Text notes     
 - [Chapter 1]([[🎤001 Moby Full Text-notes]])     
-- [Chapter 2]([[MOBY/🎤002 Moby Full Text Ch 2+notes|🎤002 Moby Full Text Ch 2+notes]])     
+- [Chapter 2]([[🎤002 Moby Full Text Ch 2-notes]])     
 - [Chapter 3]([[MOBY/🎤003 Moby Full Text Ch3+notes|🎤003 Moby Full Text Ch3+notes]])     
 	- one of the two times Bulkington is mentioned is here. The second time in [Ch 23]([[🎤011 Moby-Full Text Chs23-25]]).   
 - [Chapter 4-8]([[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]])      
