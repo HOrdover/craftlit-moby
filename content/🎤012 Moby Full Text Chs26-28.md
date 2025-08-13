@@ -1,18 +1,18 @@
 #moby-dick #full-text #shownotes 
 
 ## Contents
-[Whaling glossary](https://whalesite.org/whaling/Ashley%20whaling%20glossary.htm) 
+- [Whaling glossary](https://whalesite.org/whaling/Ashley%20whaling%20glossary.htm) 
 
-[[#Figures]]
-[[#CHAPTER 26. Knights and Squires.]]
-[[#CHAPTER 27. Knights and Squires.]]
-[[#CHAPTER 28. Ahab.]]
-[[#FOOTNOTES]]
+- [[#Figures]]
+- [[#CHAPTER 26. Knights and Squires.]]
+- [[#CHAPTER 27. Knights and Squires.]]
+- [[#CHAPTER 28. Ahab.]]
+- [[#FOOTNOTES]]
 
-[PREVIOUS chapter]([[🎤011 Moby-Full Text Chs23-25]])                                                                                       [NEXT chapter]([[🎤013 Moby Full Text Chs29-30]]) 
+[[🎤011 Moby-Full Text Chs23-25|PREVIOUS chapter]]                                     [[🎤013 Moby Full Text Chs29-30|NEXT chapter]] 
  
 ## Figures
-Now that we're aboard, I thought this might be useful:
+Now that we're aboard, I thought <span id="fn-schematics">schematics</span> of shipboard directions</span> might be useful:
 ![[Pasted image 20250804115052.png]]
 
 ![[Pasted image 20250804115123.png]]

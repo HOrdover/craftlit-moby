@@ -1,3 +1,6 @@
+#### Oft' Needed References
+- [[🎤012 Moby Full Text Chs26-28#fn-schematics|Shipboard Schematics]]
+
 #### Links go to Episode-based Full Text notes     
 - [[🎤001 Moby Full Text-notes|Chapter 1]]     
 - [[🎤002 Moby Full Text Ch 2-notes|Chapter 2]]     
@@ -16,7 +19,7 @@
 - [[🎤012 Moby Full Text Chs26-28|Chapters 26-28]]     
 	- ***Taffrail*** defined here, used again in [[🎤013 Moby Full Text Chs29-30|Chapter 2]]     
 - [[🎤013 Moby Full Text Chs29-30|Chapters 29-30]]     
-	- [***taffrail***]([[🎤012 Moby Full Text Chs26-28]]) originally defined in [[🎤012 Moby Full Text Chs26-28|Ch 28]]
+	- [[🎤012 Moby Full Text Chs26-28|Taffrail]] originally defined in [[🎤012 Moby Full Text Chs26-28|Ch 28]]
 	- [[🎤013 Moby Full Text Chs29-30#fn-dough|In footnote 19]] the "Dough-boy steward" refers to a character we get to know better in chapter 34.
 	- Footnote XXX refers to “***scuttle***” used differently in Footnote 12 [[🎤011 Moby-Full Text Chs23-25|Chapters 23 - 25]].      
 - Chapter 30     
