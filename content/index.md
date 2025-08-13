@@ -41,14 +41,10 @@ Below please find links to the full text of each chapter with my annotations for
 
 ------
 <div style="text-align: center; margin-top: 2em;">
-  <p><strong>Raw JSON from CountAPI:</strong></p>
-  <pre id="json-response">Loading...</pre>
-
-  <script>
-    fetch('https://api.countapi.xyz/hit/craftlit-moby/index')
-      .then(res => res.json())
-      .then(data => {
-        document.getElementById('json-response').innerText = JSON.stringify(data, null, 2);
-      });
-  </script>
+  <small>Live Visitor Count:</small><br>
+  <a href='https://www.free-counters.org/' target="_blank" rel="noopener">
+    powered by Free-Counters.org
+  </a>
+  <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d74c9ff1119bb2279b21215ab0afa71bde0b404a'></script>
+  <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1376367/t/13"></script>
 </div>
