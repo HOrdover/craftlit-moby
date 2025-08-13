@@ -1,12 +1,12 @@
 #moby-dick #full-text #shownotes 
 
 ## Contents
-[[#CHAPTER 20. All Astir.]]
-[[#CHAPTER 21. Going Aboard.]]
-[[#CHAPTER 22. Merry Christmas.]]
-[[#Footnotes]]
+- [[#CHAPTER 20. All Astir.]]
+- [[#CHAPTER 21. Going Aboard.]]
+- [[#CHAPTER 22. Merry Christmas.]]
+- [[#Footnotes]]
 
-[PREVIOUS chapter]([[🎤009 Moby Full Text Chs17-19]])                                                                                  [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
+[PREVIOUS chapter]([[🎤009 Moby Full Text Chs17-19]])                                                              [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
  
 any *emphasis added by Heather*
 
@@ -115,8 +115,6 @@ It was now clear sunrise. Soon the crew came on board in twos and threes; the ri
   Back to [[#Contents]]
   
   
-  
-
 ## CHAPTER 22. Merry Christmas.[^19]
 
 At length, towards noon, upon the final dismissal of the ship’s riggers, and after the Pequod had been hauled out from the wharf, and after the ever-thoughtful Charity had come off in a whale-boat, with her last gift—a night-cap for Stubb, the second mate, her brother-in-law, and a spare Bible for the steward—after all this, the two Captains, Peleg and Bildad, issued from the cabin, and turning to the chief mate, Peleg said:
@@ -189,7 +187,7 @@ Back to [[#Contents]]
 [^9]: grand jury = The Last Judgement
 [^10]: FROM within
 [^11]: fo'c'sle = below deck, forward part of ship, usually where the before-the-mast crew sleeps
-[^12]: scuttle = porthole, (to "scuttle a ship" is to punch a bunch of holes into the hull, allowing it to sink).
+[^12]: <span id="fn-scuttle">scuttle</span> = porthole, (to "scuttle a ship" is to punch a bunch of holes into the hull, allowing it to sink).
 [^13]: RiggER = a guy who hangs the rigging, the ropes for the sails.
 [^14]: because they think he's dead. Some cultures have someone stay with a newly dead body for the first 24 hours or so.
 [^15]: Isaiah 3:15: "What mean ye that ye beat my people to pieces, and grind the faces of the poor?"
