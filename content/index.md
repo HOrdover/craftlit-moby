@@ -41,8 +41,8 @@ Below please find links to the full text of each chapter with my annotations for
 
 ---
 
-<div style="text-align: center; margin-top: 2em;">
-  <a href="https://counter.dev" target="_blank">
-    <img src="https://cdn.counter.dev/2d3b7abb-cb57-4c4f-a92d-f8719a8ff6a9.svg" alt="Visitor counter" />
-  </a>
-</div>
+
+
+> Visits:
+
+![Visitor count](https://visitor-badge.lithub.cc/badge?page_id=craftlit-moby)
