@@ -41,13 +41,14 @@ Below please find links to the full text of each chapter with my annotations for
 
 ------
 <div style="text-align: center; margin-top: 2em;">
-  <p><strong>Visits:</strong> <span id="visit-counter">Loading...</span></p>
+  <p><strong>Raw JSON from CountAPI:</strong></p>
+  <pre id="json-response">Loading...</pre>
 
   <script>
     fetch('https://api.countapi.xyz/hit/craftlit-moby/index')
       .then(res => res.json())
       .then(data => {
-        document.getElementById('visit-counter').innerText = data.value;
+        document.getElementById('json-response').innerText = JSON.stringify(data, null, 2);
       });
   </script>
 </div>
