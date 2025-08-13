@@ -40,11 +40,6 @@ Below please find links to the full text of each chapter with my annotations for
 > _This index was last updated by Zoottelkeeper or manually curated. Use it to navigate the CraftLit Moby-Dick experience!_
 
 ------
-
-**Visits:**  
-![Visit counter](https://api.countapi.xyz/hit/craftlit-moby/index?render=true)
-
----
 <div style="text-align: center; margin-top: 2em;">
   <p><strong>Visits:</strong> <span id="visit-counter">Loading...</span></p>
 
