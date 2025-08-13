@@ -1,12 +1,12 @@
 #moby-dick #full-text #shownotes 
 
+[[🎤005 Moby Full Text Ch9|PREVIOUS chapter]]                                  [[🎤007 Moby Full Text Chs13-15|NEXT chapter]]     
+
 ## Contents
 - [[#CHAPTER 10 | Chapter 10: A Bosom Friend]]
 - [[#CHAPTER 11 | Chapter 11: Nightgown]]
 - [[#CHAPTER 12 | Chapter 12: Biographical]]
-
-[PREVIOUS chapter]([[🎤005 Moby Full Text Ch9+notes]])                                                                                  [NEXT chapter]([[🎤007 Moby Full Text Chs13-15]]) 
- 
+- [[#Footnotes]]
 
 ***Emphasis added by Heather - usually because I love the line. ;)***
 
@@ -64,10 +64,9 @@ By hints, I asked him whether he did not propose going back, and having a corona
 I asked him what might be his immediate purpose, touching his future movements. He answered, to go to sea again, in his old vocation. Upon this, I told him that whaling was my own design, and informed him of my intention to sail out of Nantucket, as being the most promising port for an adventurous whaleman to embark from. He at once resolved to accompany me to that island, ship aboard the same vessel, get into the same watch, the same boat, the same mess with me, in short to share my every hap; with both my hands in his, boldly dip into the Potluck of both worlds. To all this I joyously assented; for besides the affection I now felt for Queequeg, he was an experienced harpooneer, and as such, could not fail to be of great usefulness to one, who, like me, was wholly ignorant of the mysteries of whaling, though well acquainted with the sea, as known to merchant seamen.
 
 His story being ended with his pipe’s last dying puff, Queequeg embraced me, pressed his forehead against mine, and blowing out the light, we rolled over from each other, this way and that, and very soon were sleeping.
-
 [[#Contents]]
 
-[PREVIOUS chapter]([[🎤005 Moby Full Text Ch9+notes]])                                                                                  [NEXT chapter]([[🎤007 Moby Full Text Chs13-15]]) 
+[[🎤005 Moby Full Text Ch9|PREVIOUS chapter]]                                  [[🎤007 Moby Full Text Chs13-15|NEXT chapter]]     
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
@@ -75,7 +74,7 @@ His story being ended with his pipe’s last dying puff, Queequeg embraced me, p
 
 ---
 
-## FOOTNOTES
+# Footnotes
 
 [^1]: Digester - He’s satirizing self-proclaimed philosophers—those who talk the talk but are not at ease with themselves or the world, unlike Queequeg. The digester metaphor slyly suggests these “philosophers” are mentally or spiritually constipated, unable to process experience naturally or healthily. In contrast, Queequeg lives with an instinctive balance—no pretense, no ego.
 [^2]: Phrenology - the pseudoscience that claimed to gauge particular traits and abilities by measuring conformations of the skull.

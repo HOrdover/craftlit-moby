@@ -1,13 +1,12 @@
 #moby-dick #full-text #shownotes 
 
+[[🎤012 Moby Full Text Chs26-28|PREVIOUS chapter]]                                  [[014 Moby Full Text Ch 31|NEXT chapter]]     
+ 
 ## Contents
-
 - [[#CHAPTER 29. Enter Ahab; to Him, Stubb.]]
 - [[#CHAPTER 30. The Pipe.]]
 - [[#FOOTNOTES]]
 
-[PREVIOUS chapters]([[🎤012 Moby Full Text Chs26-28]])                                                      [NEXT chapters]([[014 Moby Full Text Ch 31]])
- 
 ## 5:12:50
 ## CHAPTER 29. Enter Ahab; to Him, Stubb.[^1]
 
@@ -47,17 +46,17 @@ Some moments passed, during which the thick vapor came from his mouth in quick a
 He tossed the still lighted pipe into the sea. The fire hissed in the waves; the same instant the ship shot by the bubble the sinking pipe made. With slouched hat, Ahab lurchingly paced the planks.[^33]
   
 [[#Contents]]
-
 ## 5:23:49
 
-[PREVIOUS chapters]([[🎤012 Moby Full Text Chs26-28]])                                                                                      [NEXT chapters]([[014 Moby Full Text Ch 31]])
+[[🎤012 Moby Full Text Chs26-28|PREVIOUS chapter]]                                  [[014 Moby Full Text Ch 31|NEXT chapter]]     
+ 
   
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 
 ---
-## FOOTNOTES
+# Footnotes
 
 [^1]: This is supposed to be a stage direction - Ahab enters then Stubb goes to him. This will connect to [Ch. 33]([[Moby - Cross-chapter References]]) when we get there. It’s Melville adding to the Drama that is Ahab - Drama and stature as a tragic hero - like in a Greek Tragedy. Hubris and all. Or like Shakespeare, who is alluded to several times in this chapter. Stubb gets a big Hamlet-like monologue here that says as much about himself as about Ahab.
 [^2]: In Equador, the weather there is… well, the same weather as it always is. Apparently it was called “the City of Eternal Spring”...which isn’t the first thing I think of when “August” comes to mind, but… ¯\(ツ)/¯
@@ -66,7 +65,7 @@ He tossed the still lighted pipe into the sea. The fire hissed in the waves; the
 [^5]: Wow! That is beautiful!
 [^6]: IS THIS Ahab IS HAVING MYSTICAL DREAMS AND PORTENTS OR JUST WEIRD VIBES?
 [^7]: Okay, wow… I sleep less now but dang, that’s a harshly poetic way to explain it.
-[^8]: Narrow <span id="fn-scuttle">scuttle</span> - he’s casting aspersions on the staircase he would use to go down to his room - a scuttle is (as we came across before in [footnote 12]([[Moby - Cross-chapter References]]) a drain on the ship.
+[^8]: Narrow <span id="fn-scuttle">scuttle<> - he’s casting aspersions on the staircase he would use to go down to his room - a scuttle is (as we came across before in [footnote 12]([[Moby - Cross-chapter References]]) a drain on the ship.
 [^9]: Sentinelled - Guarded the sleep of the people below deck.
 [^10]: Sometimes “considering” is “considerating” - same meaning.
 [^11]: Forgot to bring this up - if you’ve read *Heart of Darkness* this won’t be news, but if not: pay attention to the usage of the color ”white” as we go.

@@ -1,11 +1,11 @@
 #moby-dick #full-text #shownotes 
 
-## Contents
-[[#CHAPTER 16. The Ship.]]
-[[#Footnotes]]
+[[🎤007 Moby Full Text Chs13-15|PREVIOUS chapter]]                                  [[🎤009 Moby Full Text Chs17-19|NEXT chapter]]     
 
-[PREVIOUS chapter]([[🎤007 Moby Full Text Chs13-15]])                                                                                  [NEXT chapter]([[🎤009 Moby Full Text Chs17-19]]) 
- 
+## Contents
+- [[#CHAPTER 16. The Ship.]]
+- [[#Footnotes]]
+
 ## CHAPTER 16. The Ship.
 
 In bed we concocted our plans for the morrow. But to my surprise and no small concern, Queequeg now gave me to understand, that he had been diligently consulting Yojo[^1]—the name of his black little god—and Yojo had told him two or three times over, and strongly insisted upon it everyway, that instead of our going together among the whaling-fleet in harbor, and in concert selecting our craft; instead of this, I say, Yojo earnestly enjoined[^2] that the selection of the ship should rest wholly with me, inasmuch as Yojo purposed befriending us; and, in order to do so, had already pitched upon a vessel, which, if left to myself, I, Ishmael, should infallibly light upon, for all the world as though it had turned out by chance; and in that vessel I must immediately ship myself, for the present irrespective of Queequeg.[^3]
@@ -171,8 +171,10 @@ But I had not proceeded far, when I began to bethink me that the Captain with wh
 “Come hither to me—hither, hither,” said Peleg, with a significance in his eye that almost startled me. “Look ye, lad; never say that on board the Pequod. Never say it anywhere. Captain Ahab did not name himself. ’Twas a foolish, ignorant whim of his crazy, widowed mother, who died when he was only a twelvemonth old. And yet **the old squaw Tistig**,[^62] at Gayhead,[^63] said that the name would somehow prove prophetic. And, perhaps, other fools like her may tell thee the same. I wish to warn thee. It’s a lie. I know Captain Ahab well; I’ve sailed with him as mate years ago; I know what he is—a good man—not a pious, good man, like Bildad, but a swearing good man—something like me—only there’s a good deal more of him. Aye, aye, I know that he was never very jolly; and I know that on the passage home, he was a little out of his mind for a spell; but it was the sharp shooting pains in his bleeding stump that brought that about, as any one might see. I know, too, that ever since he lost his leg last voyage by that accursed whale, he’s been a kind of moody—desperate moody, and savage sometimes; but that will all pass off. And once for all, let me tell thee and assure thee, young man, it’s better to sail with a moody good captain than a laughing bad one. So good-bye to thee—and wrong not Captain Ahab, because he happens to have a wicked name. Besides, my boy, he has a wife—not three voyages wedded—a sweet, resigned girl. Think of that; by that sweet girl that old man has a child: hold ye then there can be any utter, hopeless harm in Ahab? No, no, my lad; stricken, blasted, if he be, Ahab has his humanities!”
 
 As I walked away, I was full of thoughtfulness; what had been incidentally revealed to me of Captain Ahab, filled me with a certain wild vagueness of painfulness concerning him. And somehow, at the time, I felt a sympathy and a sorrow for him, but for I don’t know what, unless it was the cruel loss of his leg. And yet I also felt a strange awe of him; but that sort of awe, which I cannot at all describe, was not exactly awe; I do not know what it was. But I felt it; and it did not disincline me towards him; though I felt impatience at what seemed like mystery in him, so imperfectly as he was known to me then. However, my thoughts were at length carried in other directions, so that for the present dark Ahab slipped my mind.
+[[#Contents]]
 
-[PREVIOUS chapter]([[🎤007 Moby Full Text Chs13-15]])                                                                                  [NEXT chapter]([[🎤009 Moby Full Text Chs17-19]]) 
+[[🎤007 Moby Full Text Chs13-15|PREVIOUS chapter]]                                  [[🎤009 Moby Full Text Chs17-19|NEXT chapter]]     
+
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
@@ -180,7 +182,7 @@ As I walked away, I was full of thoughtfulness; what had been incidentally revea
 
 ---
 
-## Footnotes
+# Footnotes
 
 [^1]: Yojo: "Queequeg [likely] came from a fictionalized version of the Cook Islands, specifically the primary island Rarotonga, as his native home has been called Rokovoko or Kokovoko by Ishmael. Islanders believed in mythology and various gods for their religion prior to the mass conversion done by Christian missionaries. One of the main gods for the Cook Islanders was Tangaroa, the god of the sea." [citation](https://eng365melville.wordpress.com/2014/10/17/yojo-and-tangaroa/)
 [^2]: Instructed

@@ -1,18 +1,16 @@
 #moby-dick #full-text #shownotes 
 
-## Contents
-[[#CHAPTER 4. The Counterpane.]]
-[[#CHAPTER 5. Breakfast.]]
-[[#CHAPTER 6. The Street.]]
-[[#CHAPTER 7. The Chapel.]]
-[[#CHAPTER 8. The Pulpit.]]
-[[#Footnotes]]
+[[🎤003 Moby Full Text Ch3-notes|PREVIOUS chapter]]                                  [[🎤005 Moby Full Text Ch9|NEXT chapter]]     
 
-[PREVIOUS chapter]([[🎤003 Moby Full Text Ch3-notes|🎤003 Moby Full Text Ch3-notes]])                                                                                  [NEXT chapter]([[🎤005 Moby Full Text Ch9+notes]]) 
- 
+## Contents
+- [[#CHAPTER 4. The Counterpane.]]
+- [[#CHAPTER 5. Breakfast.]]
+- [[#CHAPTER 6. The Street.]]
+- [[#CHAPTER 7. The Chapel.]]
+- [[#CHAPTER 8. The Pulpit.]]
+- [[#Footnotes]]
 
 {any emphasis is added by me, Heather}
-
 
 ## CHAPTER 4. The Counterpane.
 
@@ -76,11 +74,9 @@ In New Bedford, fathers, they say, give whales for dowers to their daughters, an
 In summer time, the town is sweet to see; full of fine maples—long avenues of green and gold. And in August, high in air, the beautiful and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by their tapering upright cones of congregated blossoms. So omnipotent is art; which in many a district of New Bedford has superinduced bright terraces of flowers upon the barren refuse rocks thrown aside at creation’s final day.
 
 And the women of New Bedford, they bloom like their own red roses. But roses only bloom in summer; whereas the fine carnation of their cheeks is perennial as sunlight in the seventh heavens. Elsewhere match that bloom of theirs, ye cannot, save in Salem, where they tell me the young girls breathe such musk, their sailor sweethearts smell them miles off shore, as though they were drawing nigh the odorous Moluccas[^33] instead of the Puritanic sands.
-
   
   [[#Contents]]
-  
-  
+   
 
 ## CHAPTER 7. The Chapel.
 
@@ -122,9 +118,10 @@ Nor was the pulpit itself without a trace of the same sea-taste that had achieve
 
 What could be more full of meaning?—for the pulpit is ever this earth’s foremost part; all the rest comes in its rear; the pulpit leads the world. From thence it is the storm of God’s quick wrath is first descried,[^66] and the bow must bear the earliest brunt. From thence it is the God of breezes fair or foul is first invoked for favourable winds. Yes, the world’s a ship on its passage out, and not a voyage complete; and the pulpit is its prow.
 [[#Contents]]
-[PREVIOUS chapter]([[🎤003 Moby Full Text Ch3-notes|🎤003 Moby Full Text Ch3-notes]])                                                                                  [NEXT chapter]([[🎤005 Moby Full Text Ch9+notes]]) 
 
-   ---
+[[🎤003 Moby Full Text Ch3-notes|PREVIOUS chapter]]                                  [[🎤005 Moby Full Text Ch9|NEXT chapter]]       
+
+---
   **Homework:** read up on Jonah (perhaps even the [Reform Judiasm take on this Hebrew Prophet](https://reformjudaism.org/blog/running-away-returning-and-teaching-story-jonah#:~:text=We%20see%20in%20Jonah's%20flight,story%20to%20my%20boys!)).
   
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==

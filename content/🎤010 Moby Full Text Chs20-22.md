@@ -1,12 +1,12 @@
 #moby-dick #full-text #shownotes 
 
+[[🎤009 Moby Full Text Chs17-19|PREVIOUS chapter]]                                  [[🎤011 Moby-Full Text Chs23-25|NEXT chapter]]     
+ 
 ## Contents
 - [[#CHAPTER 20. All Astir.]]
 - [[#CHAPTER 21. Going Aboard.]]
 - [[#CHAPTER 22. Merry Christmas.]]
 - [[#Footnotes]]
-
-[PREVIOUS chapter]([[🎤009 Moby Full Text Chs17-19]])                                                              [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
  
 any *emphasis added by Heather*
 
@@ -164,16 +164,16 @@ But, at last, he turned to his comrade, with a final sort of look about him,—�
 
 Ship and boat diverged; the cold, damp night breeze blew between; a screaming gull flew overhead; the two hulls wildly rolled; we gave three heavy-hearted cheers, and blindly plunged like fate into the lone Atlantic.
 
-Back to [[#Contents]]
+Back up to [[#Contents]]
 
-[PREVIOUS chapter]([[🎤009 Moby Full Text Chs17-19]])                                                                                  [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
+[[🎤009 Moby Full Text Chs17-19|PREVIOUS chapter]]                                  [[🎤011 Moby-Full Text Chs23-25|NEXT chapter]]     
  
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 
 ---
-## Footnotes
+# Footnotes
 
 
 [^1]: We put our things in the hold below, (trappings)
@@ -199,7 +199,7 @@ Back to [[#Contents]]
 [^21]: aft - the rear (stern) of the ship
 [^22]: "blast" = a slightly nicer "damn"
 [^23]: under weigh - not under WAY - means the anchor is up
-[^24]: recall from [[🎤005 Moby Full Text Ch9+notes]] the pilot is usually a dock worker who knows that harbor very well. They come aboard the ships to pilot them out of the dock area and into clear water, then they're picked up and come back to port.
+[^24]: recall from [[🎤005 Moby Full Text Ch9]] the pilot is usually a dock worker who knows that harbor very well. They come aboard the ships to pilot them out of the dock area and into clear water, then they're picked up and come back to port.
 [^25]: much nicer way of saying "bastard"
 [^26]: used to raise the (very heavy) anchor. It was NEVER as easy as in this [Pirates of the Caribbean clip](https://youtu.be/5jhMt5ikgKk?si=ukvoU2gzPqmJ0-uQ) though when Elizabeth Swann meets the pirates is my [fave capstan scene](https://youtu.be/8UI6yKa3q4g?si=lm8n-70CSTS6aXK9). However, in this clip you can see what I think is the trickiest bit - [walking over the anchor chain without tripping while reeling the anchor up](https://youtu.be/zLP3By7Fyec?si=Epg3ZVQkdgymmwFx&t=33). ![[Pasted image 20250722091452.png]]
 [^27]: the iron tipped wooden rods that are inserted into the capstan wheel

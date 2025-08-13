@@ -1,13 +1,13 @@
 #moby-dick #full-text #shownotes 
 
-## Contents
-[[#CHAPTER 17. The Ramadan.]]
-[[#CHAPTER 18. His Mark.]]
-[[#CHAPTER 19. The Prophet.
-[[#Footnotes]]]]
-
-[PREVIOUS chapter]([[🎤008 Moby Full Text Ch16]])                                                                                  [NEXT chapter]([[🎤010 Moby Full Text Chs20-22]]) 
+[[🎤008 Moby Full Text Ch16|PREVIOUS chapter]]                                  [[🎤010 Moby Full Text Chs20-22|NEXT chapter]]     
  
+## Contents
+- [[#CHAPTER 17. The Ramadan.]]
+- [[#CHAPTER 18. His Mark.]]
+- [[#CHAPTER 19. The Prophet.]]
+- [[#Footnotes]]
+
 *emphasis added by Heather*
 
 ## CHAPTER 17. The Ramadan.
@@ -206,16 +206,17 @@ Elijah! thought I, and we walked away, both commenting, after each other’s fas
 
 I was resolved to satisfy myself whether this ragged Elijah was really dogging us or not,[^45] and with that intent crossed the way with Queequeg, and on that side of it retraced our steps. But Elijah passed on, without seeming to notice us. This relieved me; and once more, and finally as it seemed to me, I pronounced him in my heart, a humbug.[^46]
 
-Back to [[#Contents]]
+Back up to [[#Contents]]
 
-[PREVIOUS chapter]([[🎤008 Moby Full Text Ch16]])                                                                                  [NEXT chapter]([[🎤010 Moby Full Text Chs20-22]]) 
+[[🎤008 Moby Full Text Ch16|PREVIOUS chapter]]                                  [[🎤010 Moby Full Text Chs20-22|NEXT chapter]]     
+ 
  
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 
 ---
-## Footnotes
+# Footnotes
 
 [^1]: I love that! Nice way to say 'boot licker'.
 [^2]: Have a stroke.

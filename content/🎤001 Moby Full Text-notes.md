@@ -1,15 +1,12 @@
 #full-book #moby-dick #Melville #annotated
 
-## Contents
-[[#CHAPTER 1. Loomings.]]
-[[#FOOTNOTES]]
-
-[PREVIOUS chapter]([[MOBY/🎤000-MOBY START|🎤000-MOBY START]])                                                                                  [NEXT chapter]([[🎤002 Moby Full Text Ch 2-notes|🎤002]]) 
+[[🎤001 Moby Full Text-notes|PREVIOUS chapter]]                                               [[🎤002 Moby Full Text Ch 2-notes|NEXT chapter]] 
  
+## Contents
+- [[#CHAPTER 1. Loomings.]]
+- [[#Footnotes]]
 
-==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
-
-  Aaron's classic response to the first four chapters, "I don’t know why people say this book is dry—it’s ALL ABOUT WATER!"
+  Aaron's classic response to the first four chapters, "I don’t know why people say this book is dry—it’s ALL ABOUT WATER!" ;)
   
 **[The Map of the Pequod's Journey**](http://www.powermobydick.com/images/Path_of_Pequod_full.jpg)
 
@@ -57,7 +54,7 @@ By reason of these things, then, the whaling voyage was welcome; the great flood
 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 
-## FOOTNOTES
+## Footnotes
 [^1]: Using the name Ishmael tells us a lot about our narrator before we begin. Origin: The biblical story of Abraham tells us that his wife, Sarah, couldn’t have a child. Instead he has a child with his bondservant, Hagar—one of the few non-main character women who are named in the Bible. That child is Ishmael. As the oldest, he should inherit everything from Abraham. But suddenly Sarah is blessed with a child, Isaac, and Ishmael and Hagar are summarily dismissed, making Ishamel the OG outcast.
 [^2]: Spleen-temper / ill-humor + melancholy or low spirits
 [^3]: hypos - hypochondria

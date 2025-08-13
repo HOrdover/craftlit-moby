@@ -1,13 +1,12 @@
 #moby-dick #full-text #shownotes 
 
+[[🎤010 Moby Full Text Chs20-22|PREVIOUS chapter]]                                  [[🎤012 Moby Full Text Chs26-28|NEXT chapter]]     
+ 
 ## Contents
 - [[#CHAPTER 23. The Lee Shore.]]
 - [[#CHAPTER 24. The Advocate.]]
 - [[#CHAPTER 25. Postscript.]]
 - [[#FOOTNOTES]]
-
-[PREVIOUS chapter]([[🎤010 Moby Full Text Chs20-22]])                                            [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
- 
 
 ## CHAPTER 23. The Lee Shore.
 
@@ -86,7 +85,7 @@ Think of that, ye loyal Britons! we whalemen supply your kings and queens with c
 
 Back to [[#Contents]]
 
-[PREVIOUS chapter]([[🎤010 Moby Full Text Chs20-22]])                                                                                  [NEXT chapter]([[🎤012 Moby Full Text Chs26-28]]) 
+[[🎤010 Moby Full Text Chs20-22|PREVIOUS chapter]]                                  [[🎤012 Moby Full Text Chs26-28|NEXT chapter]]     
  
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
@@ -94,7 +93,7 @@ Back to [[#Contents]]
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 
 ---
-## FOOTNOTES
+# Footnotes
 
 [^1]: Bulkington appears in [Chapter 3]([[Moby - Cross-chapter References]])
 [^2]: The lee side of the ship is the downwind side, Leeward land is a coastline on that side of the ship.

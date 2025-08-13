@@ -1,11 +1,11 @@
 #moby-dick #full-text #shownotes 
 
-## Contents
-[[#CHAPTER 9. The Sermon.]]
-[[#Footnotes]]
+[[🎤004 Moby Full Text Chs-4-5-6-7-8|PREVIOUS chapter]]                                  [[🎤006 Moby Full Text Chs10-12|NEXT chapter]]     
 
-[PREVIOUS chapter]([[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]])                                                                                  [NEXT chapter]([[🎤006 Moby Full Text Chs10-12]]) 
- 
+## Contents
+- [[#CHAPTER 9. The Sermon.]]
+- [[#Footnotes]]
+
 ## CHAPTER 9. The Sermon.
 
 [^1]Father Mapple rose, and in a mild voice of unassuming authority ordered the scattered people to condense.[*“Starboard gangway, there! side away to larboard—larboard gangway to starboard! Midships! midships!”*](https://youtu.be/iCFdPSPThk0?si=rrlCzQwqA0bVeG4g)
@@ -78,8 +78,8 @@ He dropped and fell away from himself for a moment; then lifting his face to the
 
 He said no more, but slowly waving a benediction, covered his face with his hands, and so remained kneeling, till all the people had departed, and he was left alone in the place.[^37]
 
-[PREVIOUS chapter]([[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]])                                                                                  [NEXT chapter]([[🎤006 Moby Full Text Chs10-12]]) 
- 
+[[🎤004 Moby Full Text Chs-4-5-6-7-8|PREVIOUS chapter]]                                  [[🎤006 Moby Full Text Chs10-12|NEXT chapter]]     
+
   
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 

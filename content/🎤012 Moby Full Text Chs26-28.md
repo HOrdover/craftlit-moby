@@ -9,8 +9,9 @@
 - [[#CHAPTER 28. Ahab.]]
 - [[#FOOTNOTES]]
 
-[[🎤011 Moby-Full Text Chs23-25|PREVIOUS chapter]]                                     [[🎤013 Moby Full Text Chs29-30|NEXT chapter]] 
+[[🎤011 Moby-Full Text Chs23-25|PREVIOUS chapter]]                                  [[🎤013 Moby Full Text Chs29-30|NEXT chapter]]     
  
+
 ## Figures
 Now that we're aboard, I thought <span id="fn-schematics">schematics</span> of shipboard directions</span> might be useful:
 ![[Pasted image 20250804115052.png]]
@@ -69,17 +70,16 @@ I was struck with the singular posture he maintained. Upon each side of the Pequ
 Ere long, from his first visit in the air, he withdrew into his cabin. But after that morning, he was every day visible to the crew; either standing in his pivot-hole, or seated upon an ivory stool he had; or heavily walking the deck. As the sky grew less gloomy; indeed, began to grow a little genial, he became still less and less a recluse; as if, when the ship had sailed from home, nothing but the dead wintry bleakness of the sea had then kept him so secluded. And, by and by, it came to pass, that he was almost continually in the air; but, as yet, for all that he said, or perceptibly did, on the at last sunny deck, he seemed as unnecessary there as another mast. But the Pequod was only making a passage now; not regularly cruising; nearly all whaling preparatives needing supervision the mates were fully competent to, so that there was little or nothing, out of himself, to employ or excite Ahab, now; and thus chase away, for that one interval, the clouds that layer upon layer were piled upon his brow, as ever all clouds choose the loftiest peaks to pile themselves upon.
 
 Nevertheless, ere long, the warm, warbling persuasiveness of the pleasant, holiday weather we came to, seemed gradually to charm him from his mood. For, as when the red-cheeked, dancing girls, April and May, trip home to the wintry, misanthropic woods; even the barest, ruggedest, most thunder-cloven[^57] old oak will at least send forth some few green sprouts, to welcome such glad-hearted visitants[^58]; so Ahab did, in the end, a little respond to the playful allurings of that girlish air. More than once did he put forth the faint blossom of a look, which, in any other man, would have soon flowered out in a smile.
-
-[PREVIOUS chapter]([[🎤011 Moby-Full Text Chs23-25]])                                                                              [NEXT chapter]([[🎤013 Moby Full Text Chs29-30]])
-  
- [[#Contents]]
-
+[[#Contents]]
+ 
+[[🎤011 Moby-Full Text Chs23-25|PREVIOUS chapter]]                                  [[🎤013 Moby Full Text Chs29-30|NEXT chapter]]     
+ 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 
 ---
-## FOOTNOTES
+# Footnotes
 [^1]: MA established fast days in 1670 (abolished in 1894)
 [^2]: very accurate shipboard clock
 [^3]: Like a Christmas Panto in England, an amateur play that encourages audience participation and occasionally humor the kids won't understand but the adults will. 

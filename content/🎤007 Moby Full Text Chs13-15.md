@@ -1,14 +1,12 @@
 #moby-dick #full-text #shownotes 
 
+[[🎤006 Moby Full Text Chs10-12|PREVIOUS chapter]]                                  [[🎤008 Moby Full Text Ch16|NEXT chapter]]     
+
 ## Contents
-
-[[#CHAPTER 13. Wheelbarrow.]]
-[[#CHAPTER 14. Nantucket.]]
-[[#CHAPTER 15. Chowder.]]
-[[#FOOTNOTES]]
-
-[PREVIOUS chapter]([[🎤006 Moby Full Text Chs10-12]])                                                                                  [NEXT chapter]([[🎤006 Moby Full Text Chs10-12]]) 
- 
+- [[#CHAPTER 13. Wheelbarrow.]]
+- [[#CHAPTER 14. Nantucket.]]
+- [[#CHAPTER 15. Chowder.]]
+- [[#Footnotes]]
 
 ## CHAPTER 13. Wheelbarrow.
 
@@ -44,7 +42,7 @@ Was there ever such unconsciousness?[^17] He did not seem to think that he at al
 
  [[#Contents]] 
 
-## CHAPTER 14. [Nantucket](https://lifeatbellaterra.com/a-trip-to-nantucket/.[^20]
+## CHAPTER 14. [Nantucket](https://lifeatbellaterra.com/a-trip-to-nantucket/)
 
 Nothing more happened on the passage worthy the mentioning; so, after a fine run, we safely arrived in Nantucket.
 
@@ -90,10 +88,9 @@ Fishiest of all fishy places was the Try Pots, which well deserved its name; for
 Supper concluded, we received a lamp, and directions from Mrs. Hussey concerning the nearest way to bed; but, as Queequeg was about to precede me up the stairs, the lady reached forth her arm, and demanded his harpoon; she allowed no harpoon in her chambers. “Why not?” said I; “every true whaleman sleeps with his harpoon—but why not?” “Because it’s dangerous,” says she. “Ever since young Stiggs coming from that unfort’nt v’y’ge of his, when he was gone four years and a half, with only three barrels of _ile_, was found dead in my first floor back, with his harpoon in his side; ever since then I allow no boarders to take sich dangerous weepons in their rooms at night. So, Mr. Queequeg” (for she had learned his name), “I will just take this here iron, and keep it for you till morning. But the chowder; clam or cod to-morrow for breakfast, men?”
 
 “Both,” says I; “and let’s have a couple of smoked herring by way of variety.”
-
 [[#Contents]]
 
-[PREVIOUS chapter]([[🎤006 Moby Full Text Chs10-12]])                                                                                  [NEXT chapter]([[🎤006 Moby Full Text Chs10-12]]) 
+[[🎤006 Moby Full Text Chs10-12|PREVIOUS chapter]]                                  [[🎤008 Moby Full Text Ch16|NEXT chapter]]     
 
 
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
@@ -102,7 +99,7 @@ Supper concluded, we received a lamp, and directions from Mrs. Hussey concerning
 
 ---
 
-## FOOTNOTES
+# Footnotes
 [^1]: Block - wig block
 [^2]: Fanciful stories - watch Steve Coogan’s ”Tristram Shandy: a Cock and Bull Story” to see one in action - someday we will do Tristram Shandy on CraftLit. I swear it.
 [^3]: [A gourd](https://en.wikipedia.org/wiki/Calabash)

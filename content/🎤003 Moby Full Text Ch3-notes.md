@@ -1,13 +1,13 @@
 #moby-dick #full-text #shownotes 
 
-## Contents
-[[#CHAPTER 3. The Spouter-Inn.]]
-[[#Footnotes]]
-
-[[🎤002 Moby Full Text Ch 2-notes|PREVIOUS chapter]]                                  [[🎤004 Moby Full Text Chs-4-5-6-7-8+notes|NEXT chapter]]     
+[[🎤002 Moby Full Text Ch 2-notes|PREVIOUS chapter]]                                  [[🎤004 Moby Full Text Chs-4-5-6-7-8|NEXT chapter]]     
  
+## Contents
+- [[#CHAPTER 3. The Spouter-Inn.]]
+- [[#Footnotes]]
+
 ## CHAPTER 3. The Spouter-Inn.
-{. ny emphasis added by Heather—mostly for ease of seeing footnotes}
+{any emphasis added by Heather—mostly for ease of seeing footnotes}
 
 Entering that gable-ended Spouter-Inn, you found yourself in a wide, low, straggling entry with old-fashioned **wainscots**,[^1] reminding one of the bulwarks of some condemned old craft. On one side hung a very large oilpainting so thoroughly besmoked, and every way defaced, that in the unequal crosslights by which you viewed it, it was only by diligent study and a series of systematic visits to it, and careful inquiry of the neighbors, that you could any way arrive at an understanding of its purpose. Such unaccountable masses of shades and shadows, that at first you almost thought some ambitious young artist, in the time of the **New England hags**,[^2] had endeavored to delineate chaos bewitched. But by dint of much and earnest contemplation, and oft repeated ponderings, and especially by throwing open the little window towards the back of the entry, you at last come to the conclusion that such an idea, however wild, might not be altogether unwarranted.
 
@@ -155,15 +155,12 @@ This being told to Queequeg, he at once complied, and again politely motioned me
 “Good night, landlord,” said I, “you may go.”
 
 I turned in, and never slept better in my life.
+[[#Contents]]
 
-
-[PREVIOUS chapter]([[🎤002 Moby Full Text Ch 2-notes|🎤002 Moby Full Text Ch 2-notes]])                                                                                  [NEXT chapter]([[🎤004 Moby Full Text Chs-4-5-6-7-8+notes]]) 
+[[🎤002 Moby Full Text Ch 2-notes|PREVIOUS chapter]]                                  [[🎤004 Moby Full Text Chs-4-5-6-7-8|NEXT chapter]]     
  
 
-
-
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
-
 
 --- 
 

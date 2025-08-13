@@ -1,5 +1,7 @@
 #moby-dick #full-text #shownotes 
 
+[[🎤013 Moby Full Text Chs29-30|PREVIOUS chapter]]                                  [[015|NEXT chapter]]     
+ 
 ## Contents
 [[#CHAPTER 31. Queen Mab.]]
 
