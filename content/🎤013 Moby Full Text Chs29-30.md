@@ -2,11 +2,11 @@
 
 ## Contents
 
-[[#CHAPTER 29. Enter Ahab; to Him, Stubb.]]
-[[#CHAPTER 30. The Pipe.]]
-[[#FOOTNOTES]]
+- [[#CHAPTER 29. Enter Ahab; to Him, Stubb.]]
+- [[#CHAPTER 30. The Pipe.]]
+- [[#FOOTNOTES]]
 
-[PREVIOUS chapters]([[🎤012 Moby Full Text Chs26-28]])                                                                                      [NEXT chapters]([[014 Moby Full Text Ch 31]])
+[PREVIOUS chapters]([[🎤012 Moby Full Text Chs26-28]])                                                      [NEXT chapters]([[014 Moby Full Text Ch 31]])
  
 ## 5:12:50
 ## CHAPTER 29. Enter Ahab; to Him, Stubb.[^1]

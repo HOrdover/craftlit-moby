@@ -40,9 +40,7 @@ Below please find links to the full text of each chapter with my annotations for
 > _This index was last updated by Zoottelkeeper or manually curated. Use it to navigate the CraftLit Moby-Dick experience!_
 
 ---
----
 
-<div style="text-align: center; margin-top: 2em;">
-  <small>Visitor Counter:</small><br>
-  <script src="https://cdn.counter.dev/script.js" data-id="2d3b7abb-cb57-4c4f-a92d-f8719a8ff6a9" data-utcoffset="-4"></script>
-</div>
+<a href="https://counter.dev" target="_blank">
+  <img src="https://cdn.counter.dev/2d3b7abb-cb57-4c4f-a92d-f8719a8ff6a9.svg" alt="Counter" />
+</a>
