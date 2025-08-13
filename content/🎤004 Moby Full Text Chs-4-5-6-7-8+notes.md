@@ -8,7 +8,7 @@
 [[#CHAPTER 8. The Pulpit.]]
 [[#Footnotes]]
 
-[PREVIOUS chapter]([[MOBY/🎤003 Moby Full Text Ch3+notes|🎤003 Moby Full Text Ch3+notes]])                                                                                  [NEXT chapter]([[🎤005 Moby Full Text Ch9+notes]]) 
+[PREVIOUS chapter]([[🎤003 Moby Full Text Ch3-notes|🎤003 Moby Full Text Ch3-notes]])                                                                                  [NEXT chapter]([[🎤005 Moby Full Text Ch9+notes]]) 
  
 
 {any emphasis is added by me, Heather}
@@ -122,7 +122,7 @@ Nor was the pulpit itself without a trace of the same sea-taste that had achieve
 
 What could be more full of meaning?—for the pulpit is ever this earth’s foremost part; all the rest comes in its rear; the pulpit leads the world. From thence it is the storm of God’s quick wrath is first descried,[^66] and the bow must bear the earliest brunt. From thence it is the God of breezes fair or foul is first invoked for favourable winds. Yes, the world’s a ship on its passage out, and not a voyage complete; and the pulpit is its prow.
 [[#Contents]]
-[PREVIOUS chapter]([[MOBY/🎤003 Moby Full Text Ch3+notes|🎤003 Moby Full Text Ch3+notes]])                                                                                  [NEXT chapter]([[🎤005 Moby Full Text Ch9+notes]]) 
+[PREVIOUS chapter]([[🎤003 Moby Full Text Ch3-notes|🎤003 Moby Full Text Ch3-notes]])                                                                                  [NEXT chapter]([[🎤005 Moby Full Text Ch9+notes]]) 
 
    ---
   **Homework:** read up on Jonah (perhaps even the [Reform Judiasm take on this Hebrew Prophet](https://reformjudaism.org/blog/running-away-returning-and-teaching-story-jonah#:~:text=We%20see%20in%20Jonah's%20flight,story%20to%20my%20boys!)).
