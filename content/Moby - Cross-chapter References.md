@@ -11,7 +11,7 @@ Links go to Episode-based Full Text notes
 - [Chapter 17-19]([[🎤009 Moby Full Text Chs17-19]])     
 - [Chapter 20-22]([[🎤010 Moby Full Text Chs20-22]])     
 	- [🎤010 Moby Full Text Chs20-22]([[🎤010 Moby Full Text Chs20-22]]) Footnote 12 refers to “***scuttle***”, used again but differently in chapter [30]([[🎤013 Moby Full Text Chs29-30]])
-- [Chapters 23-25]([[🎤011 Moby-Full Text Ch. 23-25]]) 
+- [Chapters 23-25]([[🎤011 Moby-Full Text Chs23-25]]) 
 	- Ch23 Footnote 1 refers to Bulkington in [Chapter 3]([[Clippings/MOBY-OLD/🎤003 Moby Full Text Ch3+notes|🎤003 Moby Full Text Ch3+notes]])      
 - [Chapters 26-28]([[🎤012 Moby Full Text Chs26-28]])     
 	- ***Taffrail*** defined here, used again [Ch 2. ]([[🎤013 Moby Full Text Chs29-30]],     
