@@ -5,7 +5,7 @@
 ## Contents
 - [[#CHAPTER 29. Enter Ahab; to Him, Stubb.]]
 - [[#CHAPTER 30. The Pipe.]]
-- [[#FOOTNOTES]]
+- [[#Footnotes]]
 
 ## 5:12:50
 ## CHAPTER 29. Enter Ahab; to Him, Stubb.[^1]
@@ -63,13 +63,13 @@ He tossed the still lighted pipe into the sea. The fire hissed in the waves; the
 [^3]: The tropics fall between the Tropic of Cancer, at 23°26'13"N, the northernmost point at which the sun passes directly overhead and the Tropic of Capricorn, 23°26'13"S (ditto for the southernmost point).
 [^4]: A cooling drink of syrup, rosewater, herbs and shaved ice—[recipe](https://www.theiranianvegan.com/recipes/Sharbat-e-Golab-Persian-Rosewater-Syrup-Summer-Cooler-Drink)!
 [^5]: Wow! That is beautiful!
-[^6]: IS THIS Ahab IS HAVING MYSTICAL DREAMS AND PORTENTS OR JUST WEIRD VIBES?
-[^7]: Okay, wow… I sleep less now but dang, that’s a harshly poetic way to explain it.
-[^8]: Narrow <span id="fn-scuttle">scuttle<> - he’s casting aspersions on the staircase he would use to go down to his room - a scuttle is (as we came across before in [footnote 12]([[Moby - Cross-chapter References]]) a drain on the ship.
+[^6]: Is this Ahab having visions and portents…or just weird vibes.?
+[^7]: Okay, wow… I sleep less as I near 60 but dang, that’s a harshly poetic way to explain it.
+[^8]: Narrow <span id="fn-scuttle">scuttle</span> - he’s casting aspersions on the staircase he would use to go down to his room - a scuttle is (as we came across before in [[Moby - Cross-chapter References|Episode 10, footnote 12]] a drain on the ship.
 [^9]: Sentinelled - Guarded the sleep of the people below deck.
 [^10]: Sometimes “considering” is “considerating” - same meaning.
 [^11]: Forgot to bring this up - if you’ve read *Heart of Darkness* this won’t be news, but if not: pay attention to the usage of the color ”white” as we go.
-[^12]: [taffrail]([[Moby - Cross-chapter References]]) referred to in Chapter 28, mainmast referred to in Ch 28, too, but only as a footnote describing where the Quarterdeck was located - behind the mainmast. 
+[^12]: [[Moby - Cross-chapter References|Taffrail]] referred to in Chapter 28, mainmast referred to in Ch 28, too, but only as a footnote describing where the Quarterdeck was located - behind the mainmast. 
 [^13]: Same idea as putting felt on the bottom of chair legs - a “globe of tow” would be a little ball of unspun flax (light brown, like “tow-headed”) that he could stick his peg leg into. He’s punning that  the  ball of twine to stuff his leg into would be like stuffing wadding into a cannon.
 [11]: King Lear 1.4.115: “Truth’s a dog must to kennel.”
 [^14]: WOW - okay - we now know that this is absolutely the first voyage Ahab has shipped out with this crew (or at least we know about Ishamel, Queequg, and Stubb… likely true for the rest of the crew). That seems VERY odd to me.
