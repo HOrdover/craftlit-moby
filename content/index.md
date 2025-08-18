@@ -1,5 +1,8 @@
+---
+tags: [Welcome to the Moby Dick Companion]
+---
+
 ![[Moby Banner.png]]
-# Welcome to the Moby Dick Companion
 
 tags: [book-index, moby-dick, melville, craftlit]
 

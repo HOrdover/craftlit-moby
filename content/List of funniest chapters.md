@@ -1,9 +1,12 @@
+---
+tags: [Funniest Chapters in Moby-Dick]
+---
+
 
 Here’s a list of some of the funniest chapters, with bullet-point notes on what makes each one hilarious:
 
   
 
-### Funniest Chapters in Moby-Dick
 
 • Chapter 2: “The Carpet-Bag”
 

@@ -1,4 +1,7 @@
-#moby-dick #full-text #shownotes 
+---
+tags: [moby-dick, full-text, shownotes]
+---
+
 
 [[🎤008 Moby Full Text Ch16|PREVIOUS chapter]]                                  [[🎤010 Moby Full Text Chs20-22|NEXT chapter]]     
  

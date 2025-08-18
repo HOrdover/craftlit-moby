@@ -1,8 +1,11 @@
+---
+tags: [Most Dramatic Chapters in Moby-Dick]
+---
+
 
 Here's a list of the most dramatic chapters, and then the saddest in Moby-Dick. Each bullet gives you a taste of what makes it emotionally or narratively intense.
 
 
-### Most Dramatic Chapters in Moby-Dick
 
 • Chapter 28: “Ahab”
 

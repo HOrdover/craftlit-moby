@@ -1,4 +1,7 @@
-#### Oft' Needed References
+---
+tags: [Oft' Needed References]
+---
+
 - **[The Map of the Pequod's Journey**](http://www.powermobydick.com/images/Path_of_Pequod_full.jpg) - see Chapters 23, 29, 51, 52, 58, 87, 109, 111, 114, 118, 126
 - [[🎤012 Moby Full Text Chs26-28#fn-schematics|Shipboard Schematics]]
 - - found a [very detailed 3-D model of a 19th Century Explorer's sailing ship](https://youtu.be/3pYqXrFx6S8?si=AwlWw1X2gpYwuNuh). It includes exterior, and around 7min it starts showing the interior (including a mispronunciation of fo'c'sle 🤷‍♀️). (Here's the same for an [18th C. Warship](https://youtu.be/3pYqXrFx6S8?si=Ynfy7jdWjbTYbPdq), if you're interested—he's got a lot of cool explainer videos on his channel!)

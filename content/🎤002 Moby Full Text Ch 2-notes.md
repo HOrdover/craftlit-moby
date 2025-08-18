@@ -1,4 +1,7 @@
-#moby-dick #full-text #shownotes 
+---
+tags: [moby-dick, full-text, shownotes]
+---
+
 
 [[🎤001 Moby Full Text-notes|PREVIOUS chapter]]                                   [[🎤002 Moby Full Text Ch 2-notes|NEXT chapter]]
 ## Contents

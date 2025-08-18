@@ -1,4 +1,7 @@
-#full-book #moby-dick #Melville #annotated
+---
+tags: [full-book, moby-dick, Melville, annotated]
+---
+
 
 [[🎤001 Moby Full Text-notes|PREVIOUS chapter]]                                               [[🎤002 Moby Full Text Ch 2-notes|NEXT chapter]] 
  

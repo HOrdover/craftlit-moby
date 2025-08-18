@@ -1,4 +1,7 @@
-#moby-dick #full-text #shownotes 
+---
+tags: [moby-dick, full-text, shownotes]
+---
+
 
 ## Contents
 - [Whaling glossary](https://whalesite.org/whaling/Ashley%20whaling%20glossary.htm) 

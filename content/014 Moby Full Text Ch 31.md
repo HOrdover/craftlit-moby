@@ -1,4 +1,7 @@
-#moby-dick #full-text #shownotes 
+---
+tags: [moby-dick, full-text, shownotes]
+---
+
 
 [[🎤013 Moby Full Text Chs29-30|PREVIOUS chapter]]                                  [[015|NEXT chapter]]     
  

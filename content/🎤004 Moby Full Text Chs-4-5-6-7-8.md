@@ -1,4 +1,7 @@
-#moby-dick #full-text #shownotes 
+---
+tags: [moby-dick, full-text, shownotes]
+---
+
 
 [[🎤003 Moby Full Text Ch3-notes|PREVIOUS chapter]]                                  [[🎤005 Moby Full Text Ch9|NEXT chapter]]     
 

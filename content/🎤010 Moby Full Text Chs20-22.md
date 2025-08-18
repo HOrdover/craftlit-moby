@@ -1,4 +1,7 @@
-#moby-dick #full-text #shownotes 
+---
+tags: [moby-dick, full-text, shownotes]
+---
+
 
 [[🎤009 Moby Full Text Chs17-19|PREVIOUS chapter]]                                  [[🎤011 Moby-Full Text Chs23-25|NEXT chapter]]     
  
