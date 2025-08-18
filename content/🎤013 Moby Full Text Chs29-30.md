@@ -1,4 +1,6 @@
+---
 #moby-dick #full-text #shownotes 
+---
 
 [[🎤012 Moby Full Text Chs26-28|PREVIOUS chapter]]                                  [[014 Moby Full Text Ch 31|NEXT chapter]]     
  
