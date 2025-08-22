@@ -1,9 +1,9 @@
 ---
-tags: [moby-dick, full-text, shownotes]
+tags: [moby-dick, full-text, shownotes, Ahab, Stubb, pipe, psychology, foreshadowing]
 ---
 
 
-[[🎤012 Moby Full Text Chs26-28|PREVIOUS chapter]]                                  [[014 Moby Full Text Ch 31|NEXT chapter]]     
+[[🎤012 Moby Full Text Chs26-28|PREVIOUS chapter]]                                  [[🎤014 Moby Full Text Ch 31|NEXT chapter]]     
  
 ## Contents
 - [[#CHAPTER 29. Enter Ahab; to Him, Stubb.]]
@@ -51,7 +51,7 @@ He tossed the still lighted pipe into the sea. The fire hissed in the waves; the
 [[#Contents]]
 ## 5:23:49
 
-[[🎤012 Moby Full Text Chs26-28|PREVIOUS chapter]]                                  [[014 Moby Full Text Ch 31|NEXT chapter]]     
+[[🎤012 Moby Full Text Chs26-28|PREVIOUS chapter]]                                  [[🎤014 Moby Full Text Ch 31|NEXT chapter]]     
  
   
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==

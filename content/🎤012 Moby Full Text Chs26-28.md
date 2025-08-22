@@ -1,5 +1,5 @@
 ---
-tags: [moby-dick, full-text, shownotes]
+tags: [moby-dick, full-text, shownotes, Knights, Squires, Starbuck, Stubb, Flask, Tashtego, Dagoo, glossary, Ahab, characterization]
 ---
 
 
@@ -16,7 +16,7 @@ tags: [moby-dick, full-text, shownotes]
  
 
 ## Figures
-Now that we're aboard, I thought <span id="fn-schematics">schematics</span> of shipboard directions</span> might be useful:
+Now that we're aboard, I thought <span id="fn-schematics">schematics</span> of <span id="ship-directions">shipboard directions</span> might be useful:
 ![[Pasted image 20250804115052.png]]
 
 ![[Pasted image 20250804115123.png]]

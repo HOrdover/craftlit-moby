@@ -1,5 +1,5 @@
 ---
-tags: [moby-dick, full-text, shownotes]
+tags: [moby-dick, full-text, shownotes, Queen-Mab, dreams, Stubb, foreshadowing]
 ---
 
 
