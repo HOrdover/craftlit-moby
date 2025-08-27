@@ -3,13 +3,13 @@ tags: [moby-dick, full-text, shownotes, Queen-Mab, dreams, Stubb, foreshadowing]
 ---
 
 
-| [[🎤013 Moby Full Text Chs29-30\|PREVIOUS chapter]] |     |     | [[015 Moby Full Text Ch 32pt1\|NEXT chapter]] |
+| [[🎤013 Moby Full Text Chs29-30\|PREVIOUS chapter]] |     |     | [[🎤015 Moby Full Text Ch 32pt1\|NEXT chapter]] |
 | --------------------------------------------------- | --- | --- | --------------------------------------------- |
 
 ## Contents
 [[#CHAPTER 31. Queen Mab.]]
 [[#Footnotes]]
-# 5:23:49
+
 ## CHAPTER 31. [Queen Mab.](https://chopbard.libsyn.com/05-its-the-mercutio-show)[^1]
 
 Next morning Stubb accosted[^2] Flask.
@@ -31,7 +31,7 @@ If ye see a white one, split your lungs for him!”
   
 [[#Contents]]
 
-| [[🎤013 Moby Full Text Chs29-30\|PREVIOUS chapter]] |     |     | [[015 Moby Full Text Ch 32pt1\|NEXT chapter]] |
+| [[🎤013 Moby Full Text Chs29-30\|PREVIOUS chapter]] |     |     | [[🎤015 Moby Full Text Ch 32pt1\|NEXT chapter]] |
 | --------------------------------------------------- | --- | --- | --------------------------------------------- |
 
   
