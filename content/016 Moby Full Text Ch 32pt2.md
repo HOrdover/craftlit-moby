@@ -25,6 +25,7 @@ So Adjusted for Inflation (2025) he made approximately:
 
 # BJ Time Code
 ![[IMG_2819.webp]]
+
 <span class="caption">Melville focuses first on the Sperm Whale, the Grampus, and the Porpoise, then moves down in size in each category, or “Book”</span>
 ## CHAPTER 32. Cetology. (sec. 2)
 
