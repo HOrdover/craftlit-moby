@@ -6,8 +6,8 @@ tags: [Oft' Needed References]
 - [[🎤012 Moby Full Text Chs26-28#fn-schematics|Shipboard Schematics]]
 - - found a [very detailed 3-D model of a 19th Century Explorer's sailing ship](https://youtu.be/3pYqXrFx6S8?si=AwlWw1X2gpYwuNuh). It includes exterior, and around 7min it starts showing the interior (including a mispronunciation of fo'c'sle 🤷‍♀️). (Here's the same for an [18th C. Warship](https://youtu.be/3pYqXrFx6S8?si=Ynfy7jdWjbTYbPdq), if you're interested—he's got a lot of cool explainer videos on his channel!)
 ```
-- <span id="fn-bulkington">Bulkington</span>
-- [[011 Moby-Full Text Chs23-25#fn-bulkington|Episode 11, footnote on “Bulkington”]]
+- <span id="fn-TERM-lower-case">Bulkington</span>
+- [[011 Title#fn-TERM-lower-case|Episode 11, footnote on “Bulkington”]]
 - 
 → [Return to Moby-Dick Index](🧠-Index_of_MOBY)
 - [[🎤001 Moby Full Text-notes|PREVIOUS chapter]]                      [[🎤002 Moby Full Text Ch 2-notes|NEXT chapter]]
@@ -37,9 +37,9 @@ tags: [Oft' Needed References]
 	- [[🎤012 Moby Full Text Chs26-28|Taffrail]] originally defined in the previous episode, [[🎤012 Moby Full Text Chs26-28|Ch 28]]
 	- [[🎤013 Moby Full Text Chs29-30#fn-dough|In footnote 19]] the "Dough-boy steward" refers to a character we get to know better in chapter 34.
 	- [[🎤013 Moby Full Text Chs29-30|Footnote 8]] refers to “***scuttle***” used differently in Footnote 12, [[🎤011 Moby-Full Text Chs23-25|Chapter23]].      
-- Episode 014—Chapter 30     
-- Episode 015—Chapter 31     
-- Chapter 32     
+- Episode 014—Chapter 31     
+- Episode 015—Chapter 32 pt 1     
+- Chapter 016—[[016 Moby Full Text Ch 32pt2#fn=baleen|Chapter 32 footnote 11]] points to chapter 75 where we learn more about the Right Whale; [[016 Moby Full Text Ch 32pt2#brazil|and Footnote 13]] is also mentioned in Chapter 58      
 - Chapter 33     
 - Chapter 34     
 - Chapter 35     
