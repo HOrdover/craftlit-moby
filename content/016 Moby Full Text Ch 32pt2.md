@@ -18,14 +18,14 @@ So Adjusted for Inflation (2025) he made approximately:
 
 | [[🎤014 Moby Full Text Chs29-30\|PREVIOUS chapter]] |     |     | [[016 Moby Full Text Chs33\|NEXT chapter]] |
 | --------------------------------------------------- | --- | --- | ------------------------------------------ |
-
+|                                                     |     |     |                                            |
 ## Contents
 [[#CHAPTER 32. Cetology. (sec. 2)]]
 [[#Footnotes]]
 
 # BJ Time Code
 ![[IMG_2819.webp]]
-*Melville focuses first on the Sperm Whale, the Grampus, and the Porpoise, then moves down in size in each category, or “Book”*
+<span class="caption">Melville focuses first on the Sperm Whale, the Grampus, and the Porpoise, then moves down in size in each category, or “Book”</span>
 ## CHAPTER 32. Cetology. (sec. 2)
 
 First: According to magnitude I divide the whales into three primary BOOKS (subdivisible into CHAPTERS), and these shall comprehend them all, both small and large.
