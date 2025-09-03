@@ -40,7 +40,11 @@ I. THE FOLIO WHALE; II. the OCTAVO WHALE; III. the DUODECIMO WHALE.[^1]
 As the type of the FOLIO I present the _Sperm Whale_; of the OCTAVO, the _Grampus_; of the DUODECIMO, the _Porpoise_.
 
 FOLIOS. Among these I here include the following chapters:—I. The_Sperm Whale_; II. the _Right Whale_; III. the _Fin-Back Whale_; IV. the_Hump-backed Whale_; V. the _Razor Back Whale_; VI. the _Sulphur Bottom Whale_.[^2]      
+
 ![[IMG_2845.png]]
+
+<span class="caption">Sperm Whale</span>
+
 BOOK I. (_Folio_), CHAPTER I. (_Sperm Whale_).—This whale, among the English of old vaguely known as the Trumpa whale,[^3] and the Physeter whale, and the Anvil Headed whale, is the present Cachalot of the French, and the Pottsfich of the Germans, and the Macrocephalus of the Long Words.[^4] He is, without doubt, the largest inhabitant of the globe;[^5] the most formidable of all whales to encounter; the most majestic in aspect; and lastly, by far the most valuable in commerce; he being the only creature from which that valuable substance, spermaceti, is obtained. All his peculiarities will, in many other places, be enlarged upon. It is chiefly with his name that I now have to do. Philologically[^6] considered, it is absurd. Some centuries ago, when the Sperm whale was almost wholly unknown in his own proper individuality, and when his oil was only accidentally obtained from the stranded fish;[^7] in those days spermaceti, it would seem, was popularly supposed to be derived from a creature identical with the one then known in England as the Greenland or Right Whale. It was the idea also, that this same spermaceti[^8] was that quickening humor[^9] of the Greenland Whale which the first syllable of the word literally expresses. In those times, also, spermaceti was exceedingly scarce, not being used for light, but only as an ointment and medicament. It was only to be had from the druggists as you nowadays buy an ounce of rhubarb.[^10] When, as I opine, in the course of time, the true nature of spermaceti became known, its original name was still retained by the dealers; no doubt to enhance its value by a notion so strangely significant of its scarcity. And so the appellation must at last have come to be bestowed upon the whale from which this spermaceti was really derived.
 
 ![[IMG_2847.jpeg]]
@@ -103,6 +107,7 @@ BOOK II. (_Octavo_), CHAPTER V. (_Thrasher_).—This gentleman is famous for his
 To those who have not chanced specially to study the subject, it may possibly seem strange, that fishes not commonly exceeding four or five feet should be marshalled among WHALES—a word, which, in the popular sense, always conveys an idea of hugeness. But the creatures set down above as Duodecimoes are infallibly whales, by the terms of my definition of what a whale is—_i.e._ a spouting fish, with a horizontal tail.
 
 ![[IMG_2855.jpeg]]
+
 <span class="caption"> <strong>Text Appearing After Image in orig. source:</strong> <i>Common dolphin Delphinus dclphis Linnaeus, 1758 Common dolphins frequently assemble into enormous herds, a thousand or more individuals, which create a highly visible ruckus as they travel. This was likely the species that Melville had in mind when he wrote of dolphins (^the huzza porpoise) "which upon the sea keep tossing themselves to heaven like caps in a Fourth of July crowd." They are often very active, with many animals leaping clear of the water at a given time. They are eager and proficient bow riders and may approach a vessel from a considerable distance to hitch a ride. Once on the bow they may ride for long periods of time. We are inclined to agree with Melville's further observation that "if you yourself can withhold three cheers at beholding these vivacious fish then heaven help ye, the spirit of godly gamesomeness is not in ye."</i> (Image from page 33 of "Cetaceans of the Channel Islands National Marine Sanctuary" (1987))</span>
 
 
