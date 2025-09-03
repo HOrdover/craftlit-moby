@@ -1,7 +1,7 @@
 ---
 tags: [moby-dick, full-text, shownotes]
 ---
-Melville was paid $150 or...
+Melville was paid $150 or...         
 - **£20,250 in today’s money**
 - roughly **$26,000 USD (2025 value)**
     So for _Moby-Dick_ — one of the most significant novels in world literature — he earned about the equivalent of a modest one-time paycheck today.
