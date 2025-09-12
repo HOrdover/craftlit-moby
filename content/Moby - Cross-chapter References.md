@@ -39,7 +39,7 @@ tags: [Oft' Needed References]
 	- [[🎤013 Moby Full Text Chs29-30|Footnote 8]] refers to “***scuttle***” used differently in Footnote 12, [[🎤011 Moby-Full Text Chs23-25|Chapter23]].      
 - Episode 014—Chapter 31     
 - Episode 015—Chapter 32 pt 1     
-- Chapter 016—[[016 Moby Full Text Ch 32pt2#fn=baleen|Chapter 32 footnote 11]] points to chapter 75 where we learn more about the Right Whale; [[016 Moby Full Text Ch 32pt2#brazil|and Footnote 13]] is also mentioned in Chapter 58      
+- Chapter 016—[[🎤016 Moby Full Text Ch 32pt2#fn=baleen|Chapter 32 footnote 11]] points to chapter 75 where we learn more about the Right Whale; [[🎤016 Moby Full Text Ch 32pt2#brazil|and Footnote 13]] is also mentioned in Chapter 58, [[🎤016 Moby Full Text Ch 32pt2#fn-hyena|footnote 26]] is also mentioned in chapter 49.      
 - Chapter 33     
 - Chapter 34     
 - Chapter 35     
