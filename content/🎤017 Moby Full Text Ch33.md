@@ -46,7 +46,16 @@ Nor, perhaps, will it fail to be eventually perceived, that behind those forms a
 But Ahab, my Captain, still moves before me in all his Nantucket grimness and shagginess; and in this episode touching Emperors and Kings, I must not conceal that I have only to do with a poor old whale-hunter like him; and, therefore, all outward majestical trappings and housings are denied me.[^19] Oh, Ahab! what shall be grand in thee, it must needs be plucked at from the skies, and dived for in the deep, and featured in the unbodied air!
 
 
-## END BJ at 06:11;57
+[[#Contents]]
+
+| [[🎤016 Moby Full Text Ch 32pt2\|Previous]] |     |     | [[🎤017 Moby Full Text Ch33\|NEXT chapter]] |
+| ------------------------------------------- | --- | --- | ------------------------------------------- |
+
+  
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [[MOBY/index|Return to Moby-Dick Index]]|
+
 # Footnotes
 
 [^1]: Speck,  in Dutch/German/Yiddish (*schpeck*) means "fat" 
