@@ -2,6 +2,9 @@
 tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
 
+## BJ Starts 6:26:46 - ends 6:44:05
+
+[YouTubers climb Masthead](https://youtu.be/_IrJ8YHpSQ0?t=1643&si=tC2RbLooqkCekQeF)
 
 | [[🎤016 Moby Full Text Ch 32pt2\|PREVIOUS chapter]] |     |     | [[018 Moby Full Text Ch 34\|NEXT chapter]] |
 | --------------------------------------------------- | --- | --- | ------------------------------------------ |
