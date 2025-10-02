@@ -2,7 +2,7 @@
 tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
 
-| [[🎤017 Moby Full Text Ch33\|PREVIOUS chapter]] |     |     | [[019 Moby Full Text Ch35\|NEXT chapter]] |
+| [[🎤017 Moby Full Text Ch33\|PREVIOUS chapter]] |     |     | [[🎤019 Moby Full Text Ch35\|NEXT chapter]] |
 | ----------------------------------------------- | --- | --- | ----------------------------------------- |
 |                                                 |     |     |                                           |
 ## Contents
@@ -36,7 +36,7 @@ In this one matter, Ahab seemed no exception to most American whale captains, wh
 
 Back to [[#Contents]]
 
-| [[🎤017 Moby Full Text Ch33\|Previous]] |     |     | [[019 Moby Full Text Ch35\|NEXT chapter]] |
+| [[🎤017 Moby Full Text Ch33\|Previous]] |     |     | [[🎤019 Moby Full Text Ch35\|NEXT chapter]] |
 | --------------------------------------- | --- | --- | ----------------------------------------- |
 
  ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
