@@ -6,7 +6,7 @@ tags: [moby-dick, full-text, shownotes, Specksynder]
 - PEQUOD MAP charted chapter by chapter
 - [YouTubers climb Masthead](https://youtu.be/_IrJ8YHpSQ0?t=1643&si=tC2RbLooqkCekQeF) but -- the kind you’d see on a naval vessel 
 
-| [[🎤018 Moby Full Text Ch34\|PREVIOUS chapter]] |     |     | [[020 Moby Full Text Ch36\|NEXT chapter]] |
+| [[🎤018 Moby Full Text Ch34\|PREVIOUS chapter]] |     |     | [[🎤020 Moby Full Text Ch36\|NEXT chapter]] |
 | ----------------------------------------------- | --- | --- | ----------------------------------------- |
 ## Contents
 [[#CHAPTER 35. The Mast-Head.]]

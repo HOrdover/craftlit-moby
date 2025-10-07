@@ -1,9 +1,9 @@
 BOOK OF JOB
 
+Harold Bloom video: https://youtu.be/xFt59_E_g5s?si=6Tl7uZRlaiyreiOz.  
 
 
-
-| [[🎤019 Moby Full Text Ch35\|PREVIOUS chapter]] |     |     | [[020 Moby Full Text Ch36\|NEXT chapter]] |
+| [[🎤019 Moby Full Text Ch35\|PREVIOUS chapter]] |     |     | [[🎤020 Moby Full Text Ch36\|NEXT chapter]] |
 | ----------------------------------------------- | --- | --- | ----------------------------------------- |
 ## Contents
 [[#CHAPTER 36. The Quarter-Deck.]]
@@ -75,11 +75,11 @@ All this while Tashtego, Daggoo, and Queequeg had looked on with even more inten
 
 “And he have one, two, three—oh! good many iron in him hide, too, Captain,” cried Queequeg disjointedly, “all twiske-tee be-twisk, like him—him—” faltering hard for a word, and screwing his hand round and round as though uncorking a bottle—“like him—him—”
 
-“Corkscrew!” cried Ahab, “aye, Queequeg, the harpoons lie all twisted and wrenched in him; aye, Daggoo, his spout is a big one, like a whole shock of wheat, and white as a pile of our Nantucket wool after the great annual sheep-shearing; aye, Tashtego, and he fan-tails like a split jib in a squall[^19]. Death and devils! men, it is Moby Dick ye have seen—Moby Dick—Moby Dick!”
+“Corkscrew!” cried Ahab, “aye, Queequeg, the harpoons lie all twisted and wrenched in him; aye, Daggoo, his spout is a big one, like a whole shock of wheat, and white as a pile of our Nantucket wool after the great annual sheep-shearing; aye, Tashtego, and he ==fan-tails like a split jib in a squall[^19]. GET PIC== Death and devils! men, it is Moby Dick ye have seen—Moby Dick—Moby Dick!”
 
 “Captain Ahab,” said Starbuck, who, with Stubb and Flask, had thus far been eyeing his superior with increasing surprise, but at last seemed struck with a thought which somewhat explained all the wonder. “Captain Ahab, I have heard of Moby Dick—but it was not Moby Dick that took off thy leg?”
 
-“Who told thee that?” cried Ahab; then pausing, “Aye, Starbuck; aye, my hearties all round; it was Moby Dick that ***dismasted*** me; Moby Dick that brought me to this dead stump I stand on now. Aye, aye,” he shouted with a terrific, loud, animal sob, like that of a heart-stricken moose; “Aye, aye! it was that accursed white whale that ***razeed*** me; made a poor pegging lubber of me for ever and a day!” Then tossing both arms, with measureless imprecations he shouted out: “Aye, aye! and I’ll chase him round Good Hope, and round the Horn, and round the Norway Maelstrom[^21], and round perdition’s flames before I give him up. And this is what ye have shipped for, men! to chase that white whale on both sides of land[^20], and over all sides of earth, till he spouts black blood and rolls fin out. What say ye, men, will ye splice hands on it, now? I think ye do look brave.”
+“Who told thee that?” cried Ahab; then pausing, “Aye, Starbuck; aye, my hearties all round; it was Moby Dick that ***dismasted*** me; Moby Dick that brought me to this dead stump I stand on now. Aye, aye,” he shouted with a terrific, loud, animal sob, like that of a heart-stricken moose; “Aye, aye! it was that accursed white whale that ***razeed*** me; made a poor pegging lubber of me for ever and a day!” Then tossing both arms, with measureless imprecations he shouted out: “Aye, aye! and I’ll chase him round Good Hope, and round the Horn, and round the [Norway Maelstrom](https://en.wikipedia.org/wiki/Moskstraumen)[^21], and round perdition’s flames before I give him up. And this is what ye have shipped for, men! to chase that white whale on both sides of land[^20], and over all sides of earth, till he spouts black blood and rolls fin out. What say ye, men, will ye splice hands on it, now? I think ye do look brave.”
 
 “Aye, aye!” shouted the harpooneers and seamen, running closer to the excited old man: “A sharp eye for the white whale; a sharp lance for Moby Dick!”
 
@@ -107,8 +107,8 @@ Receiving the brimming pewter, and turning to the harpooneers, he ordered them t
 
 “Attend now, my braves. I have mustered ye all round this capstan; and ye mates, flank me with your lances; and ye harpooneers, stand there with your irons; and ye, stout mariners, ring me in, that I may in some sort revive a noble custom of my fisherman fathers before me. O men, you will yet see that—Ha! boy, come back? bad pennies come not sooner. Hand it me. Why, now, this pewter had run brimming again, wer’t not thou St. Vitus’ imp—away, thou ague!
 
-“Advance, ye mates! Cross your lances full before me. Well done! Let me touch the axis.” So saying, with extended arm, he grasped the three level, radiating lances at their crossed centre; while so doing, suddenly and nervously twitched them; meanwhile, glancing intently from Starbuck to Stubb; from Stubb to Flask. It seemed as though, by some nameless, interior volition, he would fain have shocked into them the same fiery emotion accumulated within the Leyden jar of his own magnetic life. The three mates quailed before his strong, sustained, and mystic aspect. Stubb and Flask looked sideways from him; the honest eye of Starbuck fell downright.
-
+“Advance, ye mates! Cross your lances full before me. Well done! Let me touch the axis.” So saying, with extended arm, he grasped the three level, radiating lances at their crossed centre; while so doing, suddenly and nervously twitched them; meanwhile, glancing intently from Starbuck to Stubb; from Stubb to Flask. It seemed as though, by some nameless, interior volition, he would fain have shocked into them the same fiery emotion accumulated within the [Leyden jar ](https://youtu.be/lN3oHY3ekSI)of his own magnetic life. The three mates quailed before his strong, sustained, and mystic aspect. Stubb and Flask looked sideways from him; the honest eye of Starbuck fell downright.
+ 
 “In vain!” cried Ahab; “but, maybe, ’tis well. For did ye three but once take the full-forced shock, then mine own electric thing, _that_ had perhaps expired from out me. Perchance, too, it would have dropped ye dead. Perchance ye need it not. Down lances! And now, ye mates, I do appoint ye three cupbearers to my three pagan kinsmen there—yon three most honorable gentlemen and noblemen, my valiant harpooneers. Disdain the task? What, when the great Pope washes the feet of beggars, using his tiara for ewer? Oh, my sweet cardinals! your own condescension, _that_ shall bend ye to it. I do not order ye; ye will it. Cut your seizings and draw the poles, ye harpooneers!”
 
 Silently obeying the order, the three harpooneers now stood with the detached iron part of their harpoons, some three feet long, held, barbs up, before him.
