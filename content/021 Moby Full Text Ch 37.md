@@ -22,7 +22,7 @@ I leave a white and turbid wake; pale waters, paler cheeks, where’er I sail. T
 
 Yonder, by ever-brimming goblet’s rim, the warm waves blush like wine. The gold brow plumbs[^1] the blue. The diver sun—slow dived from noon—goes down; my soul mounts up! she wearies with her endless hill. Is, then, the crown too heavy[^2] that I wear? this Iron Crown of Lombardy.[^3] Yet is it bright with many a gem; I the wearer, see not its far flashings; but darkly feel that I wear that, that dazzlingly confounds. ’Tis iron—that I know—not gold. ’Tis split, too—that I feel; the jagged edge galls me so, my brain seems to beat against the solid metal; aye, steel skull, mine; the sort that needs no helmet in the most brain-battering fight![^4]
 
-| ![[Pasted image 20251105113433.png]]                                                                                                                                 |
+| ![[Pasted image 20251106083020.png]]                                                                                                                                 |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *The Iron Crown of Lombardy with its 1cm wide band of iron—said to be a nail used in the crucifixion of Jesus. Sorry, this does NOT look comfy to me—uneasy indeed.* |
 
