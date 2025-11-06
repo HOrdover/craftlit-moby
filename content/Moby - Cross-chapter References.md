@@ -37,12 +37,15 @@ tags: [Oft' Needed References]
 	- [[🎤012 Moby Full Text Chs26-28|Taffrail]] originally defined in the previous episode, [[🎤012 Moby Full Text Chs26-28|Ch 28]]
 	- [[🎤013 Moby Full Text Chs29-30#fn-dough|In footnote 19]] the "Dough-boy steward" refers to a character we get to know better in chapter 34.
 	- [[🎤013 Moby Full Text Chs29-30|Footnote 8]] refers to “***scuttle***” used differently in Footnote 12, [[🎤011 Moby-Full Text Chs23-25|Chapter23]].      
-- Episode 014—Chapter 31     
-- Episode 015—Chapter 32 pt 1     
-- Chapter 016—[[🎤016 Moby Full Text Ch 32pt2#fn=baleen|Chapter 32 footnote 11]] points to chapter 75 where we learn more about the Right Whale; [[🎤016 Moby Full Text Ch 32pt2#brazil|and Footnote 13]] is also mentioned in Chapter 58, [[🎤016 Moby Full Text Ch 32pt2#fn-hyena|footnote 26]] is also mentioned in chapter 49.      
-- Chapter 33     
-- Chapter 34     
-- Chapter 35     
+- Episode 014—[[🎤014 Moby Full Text Ch 31|Chapter 31]]     
+- Episode 015—[[🎤015 Moby Full Text Ch 32pt1|Chapter 32 pt 1]]     
+- Episode 016—[[🎤016 Moby Full Text Ch 32pt2#fn=baleen|Chapter 32 footnote 11]] points to chapter 75 where we learn more about the Right Whale; [[🎤016 Moby Full Text Ch 32pt2#brazil|and Footnote 13]] is also mentioned in Chapter 58, [[🎤016 Moby Full Text Ch 32pt2#fn-hyena|footnote 26]] is also mentioned in chapter 49.      
+- Episode 017—
+- Episode 018—
+- Episode 019—
+- Episode 020—
+- Episode 021—[[021 Moby Full Text Ch 37|Chapter 37]]—Refers out to upcoming chapter 44 with *"Damned in the midst of Paradise!"*  see [[021 Moby Full Text Ch 37|footnote 4]]
+- 
 
 
 

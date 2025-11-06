@@ -1,7 +1,7 @@
 ---
 tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
-## BJ Starts 6:26:46 - ends 6:44:05
+
 
 - PEQUOD MAP charted chapter by chapter
 - [YouTubers climb Masthead](https://youtu.be/_IrJ8YHpSQ0?t=1643&si=tC2RbLooqkCekQeF) but -- the kind you’d see on a naval vessel 

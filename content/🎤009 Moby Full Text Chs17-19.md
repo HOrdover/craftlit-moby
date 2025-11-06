@@ -161,7 +161,7 @@ Queequeg and I had just left the Pequod, and were sauntering away from the water
 
 “_He’s_ got enough, though, to make up for all deficiencies of that sort in other chaps,” abruptly said the stranger, placing a nervous emphasis upon the word _he_.
 
-“Queequeg,” said I, “let’s go; this fellow has broken loose from somewhere[^47]; he’s talking about something and somebody we don’t know.”
+“Queequeg,” said I, “let’s go; this fellow has broken loose from somewhere;[^40] he’s talking about something and somebody we don’t know.”
 
 “Stop!” cried the stranger. “Ye said true—ye hav’n’t seen Old Thunder yet, have ye?”
 
@@ -183,19 +183,19 @@ Queequeg and I had just left the Pequod, and were sauntering away from the water
 
 “They didn’t tell much of anything about him; only I’ve heard that he’s a good whale-hunter, and a good captain to his crew.”
 
-“That’s true, that’s true—yes, both true enough. But you must jump when he gives an order. Step and growl; growl and go—that’s the word with Captain Ahab. But nothing about that thing that happened to him off Cape Horn, long ago, when he lay like dead for three days and nights; nothing about that deadly skrimmage with the Spaniard afore the altar in Santa?—heard nothing about that, eh? Nothing about the silver calabash[^40] he spat into? And nothing about his losing his leg last voyage, according to the prophecy. Didn’t ye hear a word about them matters and something more, eh? No, I don’t think ye did; how could ye? Who knows it? Not all Nantucket, I guess. But hows’ever, mayhap, ye’ve heard tell about the leg, and how he lost it; aye, ye have heard of that, I dare say. Oh yes, _that_ every one knows a’most—I mean they know he’s only one leg; and that a parmacetti took the other off.”
+“That’s true, that’s true—yes, both true enough. But you must jump when he gives an order. Step and growl; growl and go—that’s the word with Captain Ahab. But nothing about that thing that happened to him off Cape Horn, long ago, when he lay like dead for three days and nights; nothing about that deadly skrimmage with the Spaniard afore the altar in Santa?—heard nothing about that, eh? Nothing about the silver calabash[^41] he spat into? And nothing about his losing his leg last voyage, according to the prophecy.[^42] Didn’t ye hear a word about them matters and something more, eh? No, I don’t think ye did; how could ye? Who knows it? Not all Nantucket, I guess. But hows’ever, mayhap, ye’ve heard tell about the leg, and how he lost it; aye, ye have heard of that, I dare say. Oh yes, _that_ every one knows a’most—I mean they know he’s only one leg; and that a parmacetti took the other off.”
 
 “My friend,” said I, “what all this gibberish of yours is about, I don’t know, and I don’t much care; for it seems to me that you must be a little damaged in the head. But if you are speaking of Captain Ahab, of that ship there, the Pequod, then let me tell you, that I know all about the loss of his leg.”
 
 “_All_ about it, eh—sure you do?—all?”
 
-“Pretty sure.”[^48]
+“Pretty sure.”[^43]
 
-With finger pointed and eye levelled at the Pequod, the beggar-like stranger stood a moment, as if in a troubled reverie; then starting a little, turned and said:—“Ye’ve shipped, have ye? Names down on the papers? Well, well, what’s signed, is signed; and what’s to be, will be; and then again, perhaps it won’t be, after all.[^49] Anyhow, it’s all fixed and arranged a’ready; and some sailors or other must go with him, I suppose; as well these as any other men, God pity ’em! Morning to ye, shipmates, morning; the ineffable heavens bless ye; I’m sorry I stopped ye.”
+With finger pointed and eye levelled at the Pequod, the beggar-like stranger stood a moment, as if in a troubled reverie; then starting a little, turned and said:—“Ye’ve shipped, have ye? Names down on the papers? Well, well, what’s signed, is signed; and what’s to be, will be; and then again, perhaps it won’t be, after all.[^44] Anyhow, it’s all fixed and arranged a’ready; and some sailors or other must go with him, I suppose; as well these as any other men, God pity ’em! Morning to ye, shipmates, morning; the ineffable heavens bless ye; I’m sorry I stopped ye.”
 
-“Look here, friend,” said I, “if you have anything important to tell us, out with it; but if you are only trying to bamboozle[^41] us, you are mistaken in your game; that’s all I have to say.”
+“Look here, friend,” said I, “if you have anything important to tell us, out with it; but if you are only trying to bamboozle[^45] us, you are mistaken in your game; that’s all I have to say.”
 
-“And it’s said very well, and I like to hear a chap talk up that way; you are just the man for him—the likes of ye. Morning to ye, shipmates, morning! Oh! when ye get there, tell ’em I’ve concluded not to make[^42] one of ’em.”
+“And it’s said very well, and I like to hear a chap talk up that way; you are just the man for him—the likes of ye. Morning to ye, shipmates, morning! Oh! when ye get there, tell ’em I’ve concluded not to make[^46] one of ’em.”
 
 “Ah, my dear fellow, you can’t fool us that way—you can’t fool us. It is the easiest thing in the world for a man to look as if he had a great secret in him.”
 
@@ -203,11 +203,11 @@ With finger pointed and eye levelled at the Pequod, the beggar-like stranger sto
 
 “Morning it is,” said I. “Come along, Queequeg, let’s leave this crazy man. But stop, tell me your name, will you?”
 
-“Elijah.[^43]”
+“Elijah.[^47]”
 
-Elijah! thought I, and we walked away, both commenting, after each other’s fashion, upon this ragged old sailor; and agreed that he was nothing but a humbug, trying to be a bugbear.[^44] But we had not gone perhaps above a hundred yards, when chancing to turn a corner, and looking back as I did so, who should be seen but Elijah following us, though at a distance. Somehow, the sight of him struck me so, that I said nothing to Queequeg of his being behind, but passed on with my comrade, anxious to see whether the stranger would turn the same corner that we did. He did; and then it seemed to me that he was dogging us, but with what intent I could not for the life of me imagine. This circumstance, coupled with his ambiguous, half-hinting, half-revealing, shrouded sort of talk, now begat in me all kinds of vague wonderments and half-apprehensions, and all connected with the Pequod; and Captain Ahab; and the leg he had lost; and the Cape Horn fit; and the silver calabash; and what Captain Peleg had said of him, when I left the ship the day previous; and the prediction of the squaw Tistig; and the voyage we had bound ourselves to sail; and a hundred other shadowy things.
+Elijah! thought I, and we walked away, both commenting, after each other’s fashion, upon this ragged old sailor; and agreed that he was nothing but a humbug, trying to be a bugbear.[^48] But we had not gone perhaps above a hundred yards, when chancing to turn a corner, and looking back as I did so, who should be seen but Elijah following us, though at a distance. Somehow, the sight of him struck me so, that I said nothing to Queequeg of his being behind, but passed on with my comrade, anxious to see whether the stranger would turn the same corner that we did. He did; and then it seemed to me that he was dogging us, but with what intent I could not for the life of me imagine. This circumstance, coupled with his ambiguous, half-hinting, half-revealing, shrouded sort of talk, now begat in me all kinds of vague wonderments and half-apprehensions, and all connected with the Pequod; and Captain Ahab; and the leg he had lost; and the Cape Horn fit; and the silver calabash; and what Captain Peleg had said of him, when I left the ship the day previous; and the prediction of the squaw Tistig; and the voyage we had bound ourselves to sail; and a hundred other shadowy things.
 
-I was resolved to satisfy myself whether this ragged Elijah was really dogging us or not,[^45] and with that intent crossed the way with Queequeg, and on that side of it retraced our steps. But Elijah passed on, without seeming to notice us. This relieved me; and once more, and finally as it seemed to me, I pronounced him in my heart, a humbug.[^46]
+I was resolved to satisfy myself whether this ragged Elijah was really dogging us or not,[^49] and with that intent crossed the way with Queequeg, and on that side of it retraced our steps. But Elijah passed on, without seeming to notice us. This relieved me; and once more, and finally as it seemed to me, I pronounced him in my heart, a humbug.[^50]
 
 Back up to [[#Contents]]
 
@@ -260,13 +260,14 @@ Back up to [[#Contents]]
 [^37]: Waste not, want not.
 [^38]: Around his neck, like a poor man's cravat or neckerchief
 [^39]: free-flowing, confluent pox had large patches of scarring - like the pox flowed together.
-[^40]: sounds like it was a very nice spitoon though the closeness of this to the "fighting the Spaniard in Santa..." makes some scholars think he spit into a baptismal font.
-[^41]: this word actually goes back to around 1700!
-[^42]: join, sail with
-[^43]: an Old Testament prophet who warned King Ahab that there would be a severe drought because of Ahab's idolatry; also the prophet who went ALIVE to heaven in a chariot—it's this Elijah for whom a chair is left empty on Passover, in case he wants to show up and join in the feast.
-[^44]: a type of hobgoblin
-[^45]: The whole thing made me think of the [Rime of the Ancient Mariner](https://craftlit.com/book/rime/)
-[^46]: jokey reference to the above "bugbear"
-[^47]: Made me think, "Ah, he's come unstuck in time..."
-[^48]: groan
-[^49]: Remember Melville's upbringing and the belief that our fates are fixed.
+[^40]: Made me think, "Ah, he's come unstuck in time..."
+[^41]: sounds like it was a very nice spitoon though the closeness of this to the "fighting the Spaniard in Santa..." makes some scholars think he spit into a baptismal font.
+[^42]: The prophecy comes up again in [[021 Moby Full Text Ch 37|chapter 37]]
+[^43]: groan
+[^44]: Remember Melville's upbringing and the belief that our fates are fixed.
+[^45]: this word actually goes back to around 1700!
+[^46]: join, sail with
+[^47]: an Old Testament prophet who warned King Ahab that there would be a severe drought because of Ahab's idolatry; also the prophet who went ALIVE to heaven in a chariot—it's this Elijah for whom a chair is left empty on Passover, in case he wants to show up and join in the feast.
+[^48]: a type of hobgoblin
+[^49]: The whole thing made me think of the [Rime of the Ancient Mariner](https://craftlit.com/book/rime/)
+[^50]: jokey reference to the above "bugbear"

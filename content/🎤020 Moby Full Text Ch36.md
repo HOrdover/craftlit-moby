@@ -10,9 +10,6 @@ Harold Bloom video: https://youtu.be/xFt59_E_g5s?si=6Tl7uZRlaiyreiOz.
 [[#FOOTNOTES]]
 
 
-  
-  
-
 ## CHAPTER 36. The Quarter-Deck.
 
 (_Enter Ahab: Then, all._)[^1]
@@ -117,6 +114,14 @@ Silently obeying the order, the three harpooneers now stood with the detached ir
 
 “Now, three to three, ye stand. Commend the murderous chalices! Bestow them, ye who are now made parties to this indissoluble league. Ha! Starbuck! but the deed is done! Yon ratifying sun now waits to sit upon it. Drink, ye harpooneers! drink and swear, ye men that man the deathful whaleboat’s bow—Death to Moby Dick! God hunt us all, if we do not hunt Moby Dick to his death!” The long, barbed steel goblets were lifted; and to cries and maledictions against the white whale, the spirits were simultaneously quaffed down with a hiss. Starbuck paled, and turned, and shivered. Once more, and finally, the replenished pewter went the rounds among the frantic crew; when, waving his free hand to them, they all dispersed; and Ahab retired within his cabin.
 
+Back to [[#Contents]]
+
+| [[🎤019 Moby Full Text Ch35]] |     |     | [[🎤020 Moby Full Text Ch36]] |
+| ----------------------------- | --- | --- | ----------------------------- |
+
+ ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [[MOBY/index|Return to Moby-Dick Index]]|
 
 
 
