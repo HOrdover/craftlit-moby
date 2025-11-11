@@ -44,7 +44,7 @@ tags: [Oft' Needed References]
 - Episode 018—
 - Episode 019—
 - Episode 020—
-- Episode 021—[[021 Moby Full Text Ch 37|Chapter 37]]—Refers out to upcoming chapter 44 with *"Damned in the midst of Paradise!"*  see [[021 Moby Full Text Ch 37|footnote 4]]
+- Episode 021—[[🎤021 Moby Full Text Ch 37|Chapter 37]]—Refers out to upcoming chapter 44 with *"Damned in the midst of Paradise!"*  see [[🎤021 Moby Full Text Ch 37|footnote 4]]
 - 
 
 

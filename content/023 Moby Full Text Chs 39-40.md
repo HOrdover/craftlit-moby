@@ -1,13 +1,12 @@
 ---
 tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
-## BJ Starts  07:14:30
+## BJ Starts  07:14:35
 
 
 | [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[🎤022 Moby Full Text Ch36\|NEXT chapter]] |
 | --------------------------------------- | --- | --- | ------------------------------------------- |
 ## Contents
-[[#CHAPTER 38. Dusk.]]
 [[#CHAPTER 39. First Night-Watch.]]
 [[#CHAPTER 40. Midnight, Forecastle.]]
 [[#FOOTNOTES]]
@@ -15,15 +14,6 @@ tags: [moby-dick, full-text, shownotes, Specksynder]
 
 
 
-## CHAPTER 38. Dusk.
-
-_By the Mainmast; Starbuck leaning against it_.
-
-My soul is more than matched; she’s overmanned; and by a madman! Insufferable sting, that sanity should ground arms on such a field! But he drilled deep down, and blasted all my reason out of me! I think I see his impious end; but feel that I must help him to it. Will I, nill I, the ineffable thing has tied me to him; tows me with a cable I have no knife to cut. Horrible old man! Who’s over him, he cries;—aye, he would be a democrat to all above; look, how he lords it over all below! Oh! I plainly see my miserable office,—to obey, rebelling; and worse yet, to hate with touch of pity! For in his eyes I read some lurid woe would shrivel me up, had I it. Yet is there hope. Time and tide flow wide. The hated whale has the round watery world to swim in, as the small gold-fish has its glassy globe. His heaven-insulting purpose, God may wedge aside. I would up heart, were it not like lead. But my whole clock’s run down; my heart the all-controlling weight, I have no key to lift again.
-
-[_A burst of revelry from the forecastle_.]
-
-Oh, God! to sail with such a heathen crew that have small touch of human mothers in them! Whelped somewhere by the sharkish sea. The white whale is their demigorgon. Hark! the infernal orgies! that revelry is forward! mark the unfaltering silence aft! Methinks it pictures life. Foremost through the sparkling sea shoots on the gay, embattled, bantering bow, but only to drag dark Ahab after it, where he broods within his sternward cabin, builded over the dead water of the wake, and further on, hunted by its wolfish gurglings. The long howl thrills me through! Peace! ye revellers, and set the watch! Oh, life! ’tis in an hour like this, with soul beat down and held to knowledge,—as wild, untutored things are forced to feed—Oh, life! ’tis now that I do feel the latent horror in thee! but ’tis not me! that horror’s out of me! and with the soft feeling of the human in me, yet will I try to fight ye, ye grim, phantom futures! Stand by me, hold me, bind me, O ye blessed influences!
 
 ## CHAPTER 39. First Night-Watch.
 
@@ -38,7 +28,7 @@ Ha! ha! ha! ha! hem! clear my throat!—I’ve been thinking over it ever since,
       As bubbles that swim, on the beaker’s brim,
          And break on the lips while meeting.
 
-A brave stave that—who calls? Mr. Starbuck? Aye, aye, sir—(_Aside_) he’s my superior, he has his too, if I’m not mistaken.—Aye, aye, sir, just through with this job—coming.
+A brave stave[^1] that—who calls? Mr. Starbuck? Aye, aye, sir—(_Aside_) he’s my superior, he has his too, if I’m not mistaken.—Aye, aye, sir, just through with this job—coming.
 
 ## CHAPTER 40. Midnight, Forecastle.
 
@@ -154,3 +144,5 @@ MATE’S VOICE FROM THE QUARTER-DECK. Hands by the halyards! in top-gallant sail
 ALL. The squall! the squall! jump, my jollies! (_They scatter_.)
 
 PIP (_shrinking under the windlass_). Jollies? Lord help such jollies! Crish, crash! there goes the jib-stay! Blang-whang! God! Duck lower, Pip, here comes the royal yard! It’s worse than being in the whirled woods, the last day of the year! Who’d go climbing after chestnuts now? But there they go, all cursing, and here I don’t. Fine prospects to ’em; they’re on the road to heaven. Hold on hard! Jimmini, what a squall! But those chaps there are worse yet—they are your white squalls, they. White squalls? white whale, shirr! shirr! Here have I heard all their chat just now, and the white whale—shirr! shirr!—but spoken of once! and only this evening—it makes me jingle all over like my tambourine—that anaconda of an old man swore ’em in to hunt him! Oh, thou big white God aloft there somewhere in yon darkness, have mercy on this small black boy down here; preserve him from all men that have no bowels to feel fear!
+
+[^1]: [Sparkling and Bright](https://mnheritagesongbook.net/the-songs/texts-and-additional-notes-on-printed-songs/sparkling-and-bright/) incidentally written by a friend of Melville's CHECK THAT who had a very sad life, [Charles Fenno Hoffman](https://en.wikipedia.org/wiki/Charles_Fenno_Hoffman)
