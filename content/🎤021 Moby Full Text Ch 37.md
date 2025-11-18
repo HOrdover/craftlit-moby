@@ -1,5 +1,5 @@
 ---
-tags: [moby-dick, full-text, shownotes, Specksynder]
+tags: [moby-dick, full-text, shownotes, Ahab]
 ---
 
 | [[🎤020 Moby Full Text Ch36\|PREVIOUS chapter]] |     |     | [[🎤022 Moby Full Text Chs 38\|NEXT chapter]] |
@@ -8,8 +8,6 @@ tags: [moby-dick, full-text, shownotes, Specksynder]
 ## Contents
 [[#CHAPTER 37. Sunset.]]
 [[#FOOTNOTES]]
-
-
 
 ## CHAPTER 37. Sunset.
 

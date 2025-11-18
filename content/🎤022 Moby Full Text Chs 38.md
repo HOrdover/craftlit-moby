@@ -1,17 +1,12 @@
 ---
-tags: [moby-dick, full-text, shownotes, Specksynder]
+tags: [moby-dick, full-text, shownotes, Starbuck]
 ---
-## BJ Starts  07:10:56
 
-
-| [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[🎤022 Moby Full Text Ch36\|NEXT chapter]] |
-| --------------------------------------- | --- | --- | ------------------------------------------- |
+| [[🎤021 Moby Full Text Ch 37\|Previous chapter]] |     |     | [[🎤023 Moby Full Text Ch39\|NEXT chapter]] |
+| ------------------------------------------------ | --- | --- | ------------------------------------------- |
 ## Contents
 [[#CHAPTER 38. Dusk.]]
 [[#FOOTNOTES]]
-
-
-VIDEO TIP:[Tatted lace bonnet and family life on a ship in the late 1800s](https://youtu.be/xTRbgQqwYCw?si=GgGhI2H8Q_EjJrVq)
 
 
 ## CHAPTER 38. Dusk.

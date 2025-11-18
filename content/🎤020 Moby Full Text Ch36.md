@@ -1,14 +1,13 @@
-BOOK OF JOB
+---
+tags: [moby-dick, full-text, shownotes, Stubb]
+---
 
-Harold Bloom video: https://youtu.be/xFt59_E_g5s?si=6Tl7uZRlaiyreiOz.  
 
-
-| [[🎤019 Moby Full Text Ch35\|PREVIOUS chapter]] |     |     | [[🎤020 Moby Full Text Ch36\|NEXT chapter]] |
-| ----------------------------------------------- | --- | --- | ----------------------------------------- |
+| [[🎤019 Moby Full Text Ch35\|PREVIOUS chapter]] |     |     | [[🎤021 Moby Full Text Ch 37\|NEXT chapter]] |
+| ----------------------------------------------- | --- | --- | -------------------------------------------- |
 ## Contents
 [[#CHAPTER 36. The Quarter-Deck.]]
 [[#FOOTNOTES]]
-
 
 ## CHAPTER 36. The Quarter-Deck.
 
