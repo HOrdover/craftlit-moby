@@ -3,25 +3,26 @@ tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
 ## BJ Starts  07:14:35
 
-
-
-VIDEO TIP:[Tatted lace bonnet and family life on a ship in the late 1800s](https://youtu.be/xTRbgQqwYCw?si=GgGhI2H8Q_EjJrVq)
-
 | [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[🎤022 Moby Full Text Ch36\|NEXT chapter]] |
 | --------------------------------------- | --- | --- | ------------------------------------------- |
+[***Whaling and Sailing Songs from the days of Moby Dick*** sung by Paul Clayton](https://youtu.be/rFwGD61Z_ZQ?si=q7ckipsiEaXxwBgT)
 ## Contents
+
 [[#CHAPTER 40. Midnight, Forecastle.]]
 [[#FOOTNOTES]]
 
+==erik play https://youtu.be/028xbMwBPHA?si=iH09aB3qXCavaMxM from 1:02 - end. Play for transition into chapter. then cut to BJ doing 1st Nantucket Sailor's line==
 
 
+==Then play this for the next song: First two verses, fade out after 1:11:  https://youtu.be/LWARGyTR5Ug?si=EpS0OI7JGCAF4VrB then use this at the end as outro music https://youtu.be/fzxOz8x-Y_8?si=cMrAvHKKNL76gqhN== and fade out on their *YAAH!* at 2:24
 
+If you want to put seagulls cawing behind this song (they're already cawing in the Jaws clip), and fade in and out of both songs, that'd be cool
 
 ## CHAPTER 40. Midnight, Forecastle.
 
 HARPOONEERS AND SAILORS.
 
-(_Foresail rises and discovers the watch standing, lounging, leaning, and lying in various attitudes, all singing in chorus_.)
+(_Foresail[^1] rises and discovers the watch standing, lounging, leaning, and lying in various attitudes, all singing in chorus_.)
 
      Farewell and adieu to you, Spanish ladies!
      Farewell and adieu to you, ladies of Spain!
@@ -40,11 +41,16 @@ HARPOONEERS AND SAILORS.
     And we’ll have one of those fine whales,
     Hand, boys, over hand!
     So, be cheery, my lads! may your hearts never fail!
-    While the bold harpooner is striking the whale!
+    While the bold harpooner is striking the whale![^2]
+
+
+
 
 MATE’S VOICE FROM THE QUARTER-DECK. Eight bells there, forward!
 
 2ND NANTUCKET SAILOR. Avast the chorus! Eight bells there! d’ye hear, bell-boy? Strike the bell eight, thou Pip! thou blackling! and let me call the watch. I’ve the sort of mouth for that—the hogshead mouth. So, so, (_thrusts his head down the scuttle_,) Star-bo-l-e-e-n-s, a-h-o-y! Eight bells there below! Tumble up!
+
+==ERIK play the 8 bells in this short overlapping the end of the previous line then   fade back into BJ before the guy starts the whistle https://youtube.com/shorts/BVzE4D1KOIs?si=S3jaRJzU5JnKlkD0==
 
 DUTCH SAILOR. Grand snoozing to-night, maty; fat night for that. I mark this in our old Mogul’s wine; it’s quite as deadening to some as filliping to others. We sing; they sleep—aye, lie down there, like ground-tier butts. At ’em again! There, take this copper-pump, and hail ’em through it. Tell ’em to avast dreaming of their lasses. Tell ’em it’s the resurrection; they must kiss their last, and come to judgment. That’s the way—_that’s_ it; thy throat ain’t spoiled with eating Amsterdam butter.
 
@@ -132,95 +138,10 @@ ALL. The squall! the squall! jump, my jollies! (_They scatter_.)
 
 PIP (_shrinking under the windlass_). Jollies? Lord help such jollies! Crish, crash! there goes the jib-stay! Blang-whang! God! Duck lower, Pip, here comes the royal yard! It’s worse than being in the whirled woods, the last day of the year! Who’d go climbing after chestnuts now? But there they go, all cursing, and here I don’t. Fine prospects to ’em; they’re on the road to heaven. Hold on hard! Jimmini, what a squall! But those chaps there are worse yet—they are your white squalls, they. White squalls? white whale, shirr! shirr! Here have I heard all their chat just now, and the white whale—shirr! shirr!—but spoken of once! and only this evening—it makes me jingle all over like my tambourine—that anaconda of an old man swore ’em in to hunt him! Oh, thou big white God aloft there somewhere in yon darkness, have mercy on this small black boy down here; preserve him from all men that have no bowels to feel fear!
 
-
-
-
-
 # FOOTNOTES
+
 ---
+# Footnotes
 
-[^1]: The word "mogul" has two main etymologies: one referring to a powerful person, and the other to the bumps on a ski slope. The "powerful person" meaning comes from Mughal, the Persian and Arabic word for Mongol, named after the wealthy Mughal Empire in India that was founded by descendants of Mongol leaders like Genghis Khan. 
-[^2]: [Sparkling and Bright](https://allpoetry.com/Sparkling-And-Bright-) original text ([and the temperance version](https://mnheritagesongbook.net/the-songs/texts-and-additional-notes-on-printed-songs/sparkling-and-bright/)) incidentally written by a friend of Melville's who had a very sad life, [Charles Fenno Hoffman](https://en.wikipedia.org/wiki/Charles_Fenno_Hoffman)  —originally written in 1830, published anonymously--poetry from the _New York American_. m., James B. Taylor. T. Birch [183-?].—nice of Stubb to call it a “brave stave”.
-[^3]: Quakers did not believe in Predestination
-[^4]: carcase? Could have been a misprint of “hard case”?
-
-
-
-
-The ski slope "mogul" comes from the Bavarian/Austrian German word Mugel, meaning "mound" or "hillock". [[1](https://fathomaway.com/whats-word-mogul/), [2](https://en.wikipedia.org/wiki/Mogul_skiing#:~:text=Since%20skiing%20tends%20to%20be%20a%20series,Bavarian/Austrian%20German%20word%20Mugel%2C%20meaning%20%22mound%2C%20hillock%22.), [3](https://www.yourdictionary.com/mogul), [4](https://www.etymonline.com/word/mogul#:~:text=mogul\(n.%201\)%20%22powerful%20person%2C%22%201670s%2C%20from%20Great,alteration%20of%20Mongol%20\(q.v.\)%2C%20the%20Asiatic%20people.), [5](https://en.wiktionary.org/wiki/mogul#:~:text=From%20dialectal%20German%20Mugel%20or%20from%20dialectal%20Norwegian%20mugje%20\(%E2%80%9Cheap%2C%20mound%E2%80%9D\).)] 
-
-  
-
-Mogul (powerful person) [[6](https://www.reddit.com/r/etymology/comments/fhy6k2/mogul_meaning_a_rich_or_powerful_person_comes/#:~:text=Mogul%2C%20meaning%20%22a%20rich%20or%20powerful%20person%22%2C,Timurids%20\(who%20called%20themselves%20Gurkani\)%2C%20meaning%20%22Mongol%22.)] 
-
-- Origin: Persian and Arabic mughal, meaning "Mongol". [[3](https://www.yourdictionary.com/mogul), [4](https://www.etymonline.com/word/mogul#:~:text=mogul\(n.%201\)%20%22powerful%20person%2C%22%201670s%2C%20from%20Great,alteration%20of%20Mongol%20\(q.v.\)%2C%20the%20Asiatic%20people.)] 
-- Connection: This term was adopted by Europeans to refer to the emperors of the powerful and wealthy Mughal Empire in India. [[3](https://www.yourdictionary.com/mogul), [4](https://www.etymonline.com/word/mogul#:~:text=mogul\(n.%201\)%20%22powerful%20person%2C%22%201670s%2C%20from%20Great,alteration%20of%20Mongol%20\(q.v.\)%2C%20the%20Asiatic%20people.), [7](https://www.quora.com/What-is-the-origin-of-the-word-mogul-to-mean-a-powerful-person-in-a-particular-industry)] 
-- Modern meaning: The modern use of "mogul" to describe a powerful business magnate or tycoon is derived from the immense wealth and power of these historical emperors. [[3](https://www.yourdictionary.com/mogul), [7](https://www.quora.com/What-is-the-origin-of-the-word-mogul-to-mean-a-powerful-person-in-a-particular-industry), [8](https://www.vocabulary.com/dictionary/mogul#:~:text=If%20you're%20the%20type%20of%20person%20who,bigwig%20in%20the%20movie%20business%2C%20for%20example.)] 
-
-Mogul (ski slope) [[7](https://www.quora.com/What-is-the-origin-of-the-word-mogul-to-mean-a-powerful-person-in-a-particular-industry)] 
-
-- Origin: Bavarian/Austrian German Mugel. 
-- Meaning: "Mound," "hillock," or "heap". 
-- Connection: The term is used to describe the bumpy mounds of packed snow that form on a ski slope. [[2](https://en.wikipedia.org/wiki/Mogul_skiing#:~:text=Since%20skiing%20tends%20to%20be%20a%20series,Bavarian/Austrian%20German%20word%20Mugel%2C%20meaning%20%22mound%2C%20hillock%22.), [5](https://en.wiktionary.org/wiki/mogul#:~:text=From%20dialectal%20German%20Mugel%20or%20from%20dialectal%20Norwegian%20mugje%20\(%E2%80%9Cheap%2C%20mound%E2%80%9D\).)] 
-
-  
-
-_AI responses may include mistakes._
-
-[1] [https://fathomaway.com/whats-word-mogul/](https://fathomaway.com/whats-word-mogul/)
-
-[2] [https://en.wikipedia.org/wiki/Mogul_skiing](https://en.wikipedia.org/wiki/Mogul_skiing#:~:text=Since%20skiing%20tends%20to%20be%20a%20series,Bavarian/Austrian%20German%20word%20Mugel%2C%20meaning%20%22mound%2C%20hillock%22.)
-
-[3] [https://www.yourdictionary.com/mogul](https://www.yourdictionary.com/mogul)
-
-[4] [https://www.etymonline.com/word/mogul](https://www.etymonline.com/word/mogul#:~:text=mogul\(n.%201\)%20%22powerful%20person%2C%22%201670s%2C%20from%20Great,alteration%20of%20Mongol%20\(q.v.\)%2C%20the%20Asiatic%20people.)
-
-[5] [https://en.wiktionary.org/wiki/mogul](https://en.wiktionary.org/wiki/mogul#:~:text=From%20dialectal%20German%20Mugel%20or%20from%20dialectal%20Norwegian%20mugje%20\(%E2%80%9Cheap%2C%20mound%E2%80%9D\).)
-
-[6] [https://www.reddit.com/r/etymology/comments/fhy6k2/mogul_meaning_a_rich_or_powerful_person_comes/](https://www.reddit.com/r/etymology/comments/fhy6k2/mogul_meaning_a_rich_or_powerful_person_comes/#:~:text=Mogul%2C%20meaning%20%22a%20rich%20or%20powerful%20person%22%2C,Timurids%20\(who%20called%20themselves%20Gurkani\)%2C%20meaning%20%22Mongol%22.)
-
-[7] [https://www.quora.com/What-is-the-origin-of-the-word-mogul-to-mean-a-powerful-person-in-a-particular-industry](https://www.quora.com/What-is-the-origin-of-the-word-mogul-to-mean-a-powerful-person-in-a-particular-industry)
-
-[8] [https://www.vocabulary.com/dictionary/mogul](https://www.vocabulary.com/dictionary/mogul#:~:text=If%20you're%20the%20type%20of%20person%20who,bigwig%20in%20the%20movie%20business%2C%20for%20example.)
-
-No, Quakers (members of the Religious Society of Friends) in 1850, and historically since their founding in the mid-17th century, rejected the belief in predestination. [[1](https://www.quora.com/Did-the-Quakers-believe-in-predestination), [2](https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=94)] 
-
-  
-
-The doctrine of predestination was a key tenet of Calvinism and Puritanism, which early Quakers actively opposed. Instead, Quakers emphasized the following beliefs: 
-
-- Universal Salvation Offer Quakers insisted that salvation was available to everyone, not just a select, "predestined" few. 
-- The "Inner Light" Central to their faith is the belief that a measure of God's spirit, or "inner light," is present in every person, offering a direct, personal relationship with God without the need for an external clergy or formal rituals. 
-- Free Will They believed humans have sufficient free will to make the fundamental choice to follow or reject this inner divine guidance. 
-- Perfectibility of Human Nature Quakers believed that by guiding one's life by the inner light and human effort, a person could achieve a full relationship with God and even perfect conformity to God's will. [[1](https://www.quora.com/Did-the-Quakers-believe-in-predestination), [2](https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=94), [8](https://www.quaker.org.uk/faith/our-history#:~:text=It%20also%20means%20that%20Quakers%20believe%20there,holy%20days%2C%20or%20sacraments%2C%20to%20practice%20religion.), [9](https://patradallmann.com/2019/07/01/dialogue-on-quaker-understanding-of-free-will/#:~:text=While%20people%20may%20be%20incapable%20of%20transforming,will%20of%20God%20\(i.e.%20holiness%20or%20perfection\).), [10](https://www.quora.com/Were-the-original-Quakers-really-Puritans), [11](https://www.friendslibrary.com/quakers)] 
-
-This theological stance placed them in direct opposition to the Puritans, who persecuted them for their "heretical" views on predestination and free will. [[10](https://www.quora.com/Were-the-original-Quakers-really-Puritans), [12](https://www.quora.com/Are-Quakers-considered-Puritans)] 
-
-  
-  
-
-_AI responses may include mistakes._
-
-[1] [https://www.quora.com/Did-the-Quakers-believe-in-predestination](https://www.quora.com/Did-the-Quakers-believe-in-predestination)
-
-[2] [https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=94](https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=94)
-
-[3] [https://www.reddit.com/r/Quakers/comments/7t0brh/predestination/](https://www.reddit.com/r/Quakers/comments/7t0brh/predestination/)
-
-[4] [http://nationalhumanitiescenter.org/tserve/eighteen/ekeyinfo/puritanb.htm](http://nationalhumanitiescenter.org/tserve/eighteen/ekeyinfo/puritanb.htm#:~:text=But%20subsequent%20research%20has%20now%20left%20little,basic%20doctrines%20pertaining%20to%20predestination%20and%20conversion.)
-
-[5] [https://link.springer.com/article/10.1007/s10746-018-9481-9](https://link.springer.com/article/10.1007/s10746-018-9481-9#:~:text=Weber%20\(%201930:%2098\)%20describes%20predestination%20as,Augustine%20\(and%20Luther\)%20and%20indirectly%20from%20Muhammad.)
-
-[6] [https://www.thepublicdiscourse.com/2025/03/97308/](https://www.thepublicdiscourse.com/2025/03/97308/#:~:text=They%20\(%20Quakers%20\)%20were%20wary%20of,in%20the%20popular%20sense%20of%20the%20term.)
-
-[7] [https://quakertheology.org/whittaker-chambers-alger-hiss-and-quaker-leadership/](https://quakertheology.org/whittaker-chambers-alger-hiss-and-quaker-leadership/#:~:text=Growing%20out%20of%20Calvinism%2C%20this%20theology%20represented,the%20earliest%20Quakers%20had%20reacted%20strongly%20against.)
-
-[8] [https://www.quaker.org.uk/faith/our-history](https://www.quaker.org.uk/faith/our-history#:~:text=It%20also%20means%20that%20Quakers%20believe%20there,holy%20days%2C%20or%20sacraments%2C%20to%20practice%20religion.)
-
-[9] [https://patradallmann.com/2019/07/01/dialogue-on-quaker-understanding-of-free-will/](https://patradallmann.com/2019/07/01/dialogue-on-quaker-understanding-of-free-will/#:~:text=While%20people%20may%20be%20incapable%20of%20transforming,will%20of%20God%20\(i.e.%20holiness%20or%20perfection\).)
-
-[10] [https://www.quora.com/Were-the-original-Quakers-really-Puritans](https://www.quora.com/Were-the-original-Quakers-really-Puritans)
-
-[11] [https://www.friendslibrary.com/quakers](https://www.friendslibrary.com/quakers)
-
-[12] [https://www.quora.com/Are-Quakers-considered-Puritans](https://www.quora.com/Are-Quakers-considered-Puritans)
+[^1]: Foresail: the principal sail on the mast nearest the front of a ship
+[^2]: https://youtu.be/fzxOz8x-Y_8?si=cMrAvHKKNL76gqhN "Greenland Whale Fisheries | The Longest Johns" - meaning British/European whalers - also this[ Folkways version ](https://youtu.be/H8E3uiGlrXs?si=fpudH38W_Yw4vGma&t=418)that's a bit more... authentic-ish? and this one from [the actual Moby Dick Folkways album](https://youtu.be/rFwGD61Z_ZQ?si=jIKv8QFW-Vdrs_t2) —but none of them include Captain Bunker! [The Coast of Peru](https://youtu.be/qgrc5ZbzFog?si=LmqLtnHJ1FAV-nA4&t=88) is the only shanty I could find with Captain Bunker mentioned,— the mystery is solved: https://mudcat.org/thread.cfm?threadid=162239 It's Melville. BEST MATCH: https://youtu.be/LWARGyTR5Ug?si=EpS0OI7JGCAF4VrB Lyrics of Captain Bunker: https://mainsailcafe.com/songs/captain-bunker
