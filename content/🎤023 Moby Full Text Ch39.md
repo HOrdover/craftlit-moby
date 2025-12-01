@@ -1,13 +1,12 @@
 ---
 tags: [moby-dick, full-text, shownotes, Stubb]
 ---
-## BJ Starts  07:14:35
 
 VIDEO TIP:[Tatted lace bonnet and family life on a ship in the late 1800s](https://youtu.be/xTRbgQqwYCw?si=GgGhI2H8Q_EjJrVq)
 
 Harold Bloom video: https://youtu.be/xFt59_E_g5s?si=6Tl7uZRlaiyreiOz.  
 
-| [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[024 Moby Full Text Ch 40\|NEXT]] |
+| [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[🎤024 Moby Full Text Ch 40\|NEXT]] |
 | --------------------------------------- | --- | --- | ---------------------------------- |
 ## Contents
 [[#CHAPTER 39. First Night-Watch.]]
