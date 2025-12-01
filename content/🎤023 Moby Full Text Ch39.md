@@ -27,8 +27,14 @@ Ha! ha! ha! ha! hem! clear my throat!—I’ve been thinking over it ever since,
          And break on the lips while meeting.
 
 A brave stave[^2] that—who calls? Mr. Starbuck? Aye, aye, sir—(_Aside_) he’s my superior, he has his too, if I’m not mistaken.—Aye, aye, sir, just through with this job—coming.
+Back to [[#Contents]]
 
+| [[🎤022 Moby Full Text Chs 38]] |     |     | [[🎤024 Moby Full Text Ch 40]] |
+| ------------------------------- | --- | --- | ------------------------------ |
 
+ ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [[MOBY/index|Return to Moby-Dick Index]]|
 
 
 # FOOTNOTES
@@ -41,7 +47,7 @@ A brave stave[^2] that—who calls? Mr. Starbuck? Aye, aye, sir—(_Aside_) he�
 
 
 
-
+:) 
 The ski slope "mogul" comes from the Bavarian/Austrian German word Mugel, meaning "mound" or "hillock". [[1](https://fathomaway.com/whats-word-mogul/), [2](https://en.wikipedia.org/wiki/Mogul_skiing#:~:text=Since%20skiing%20tends%20to%20be%20a%20series,Bavarian/Austrian%20German%20word%20Mugel%2C%20meaning%20%22mound%2C%20hillock%22.), [3](https://www.yourdictionary.com/mogul), [4](https://www.etymonline.com/word/mogul#:~:text=mogul\(n.%201\)%20%22powerful%20person%2C%22%201670s%2C%20from%20Great,alteration%20of%20Mongol%20\(q.v.\)%2C%20the%20Asiatic%20people.), [5](https://en.wiktionary.org/wiki/mogul#:~:text=From%20dialectal%20German%20Mugel%20or%20from%20dialectal%20Norwegian%20mugje%20\(%E2%80%9Cheap%2C%20mound%E2%80%9D\).)] 
 
   

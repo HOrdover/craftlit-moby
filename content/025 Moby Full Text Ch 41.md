@@ -6,17 +6,8 @@ tags: [moby-dick, full-text, shownotes, Specksynder]
 
 ## BJ Starts  07:26:00
 
-
-
-| [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[🎤022 Moby Full Text Ch36\|NEXT chapter]] |
-| --------------------------------------- | --- | --- | ------------------------------------------- |
-
-
-
-If you feel a Shanty in your bones: [***Whaling and Sailing Songs from the days of Moby Dick*** sung by Paul Clayton](https://youtu.be/rFwGD61Z_ZQ?si=q7ckipsiEaXxwBgT)
-maybe storm:https://youtu.be/pKl897Nx4U4?si=5jnomcFicH7kdZ6B
-below deck creaks: https://youtu.be/qP1sU-D3rj8?si=0x8MDnXwJQO1BF0y
-water deck creaks: https://youtu.be/yaszZTc-kcU?si=aizkNE1GZm9zIevS and https://youtu.be/B2W0rjp7r5c?si=t7CyH1GpyoPWjAm- and https://youtu.be/JH-oOnWIilw?si=ZVTgjCdOofhhgfPa
+| [[🎤024 Moby Full Text Ch 40]] |     |     | [[026 Moby Full Text Ch 42\|NEXT chapter]] |
+| ------------------------------ | --- | --- | ------------------------------------------ |
 
 ## Contents
 
@@ -24,127 +15,55 @@ water deck creaks: https://youtu.be/yaszZTc-kcU?si=aizkNE1GZm9zIevS and https://
 [[#FOOTNOTES]]
 
 
-not downloading? https://youtu.be/gEQLKmQ5uss?si=MemMXIZTrWVGqkoX
-GET 30 min of creaky ship: https://youtu.be/B3dsvuWlKlo?si=zmxMjiUOqJsoPSnn
+## ## CHAPTER 41. Moby Dick.
 
-## CHAPTER 40. Midnight, Forecastle.
+I, Ishmael, was one of that crew; my shouts had gone up with the rest; my oath had been welded with theirs; and stronger I shouted, and more did I hammer and clinch my oath, because of the dread in my soul. A wild, mystical, sympathetical feeling was in me; Ahab’s quenchless feud seemed mine. With greedy ears I learned the history of that murderous monster against whom I and all the others had taken our oaths of violence and revenge.
 
-HARPOONEERS AND SAILORS.
+For some time past, though at intervals only, the unaccompanied, secluded White Whale had haunted those uncivilized seas mostly frequented by the Sperm Whale fishermen. But not all of them knew of his existence; only a few of them, comparatively, had knowingly seen him; while the number who as yet had actually and knowingly given battle to him, was small indeed. For, owing to the large number of whale-cruisers; the disorderly way they were sprinkled over the entire watery circumference, many of them adventurously pushing their quest along solitary latitudes, so as seldom or never for a whole twelvemonth or more on a stretch, to encounter a single news-telling sail of any sort; the inordinate length of each separate voyage; the irregularity of the times of sailing from home; all these, with other circumstances, direct and indirect, long obstructed the spread through the whole world-wide whaling-fleet of the special individualizing tidings concerning Moby Dick. It was hardly to be doubted, that several vessels reported to have encountered, at such or such a time, or on such or such a meridian, a Sperm Whale of uncommon magnitude and malignity, which whale, after doing great mischief to his assailants, had completely escaped them; to some minds it was not an unfair presumption, I say, that the whale in question must have been no other than Moby Dick. Yet as of late the Sperm Whale fishery had been marked by various and not unfrequent instances of great ferocity, cunning, and malice in the monster attacked; therefore it was, that those who by accident ignorantly gave battle to Moby Dick; such hunters, perhaps, for the most part, were content to ascribe the peculiar terror he bred, more, as it were, to the perils of the Sperm Whale fishery at large, than to the individual cause. In that way, mostly, the disastrous encounter between Ahab and the whale had hitherto been popularly regarded.
 
-(_Foresail[^1] rises and discovers the watch standing, lounging, leaning, and lying in various attitudes, all singing in chorus_.)
+And as for those who, previously hearing of the White Whale, by chance caught sight of him; in the beginning of the thing they had every one of them, almost, as boldly and fearlessly lowered for him, as for any other whale of that species. But at length, such calamities did ensue in these assaults—not restricted to sprained wrists and ankles, broken limbs, or devouring amputations—but fatal to the last degree of fatality; those repeated disastrous repulses, all accumulating and piling their terrors upon Moby Dick; those things had gone far to shake the fortitude of many brave hunters, to whom the story of the White Whale had eventually come.
 
-     Farewell and adieu to you, Spanish ladies!
-     Farewell and adieu to you, ladies of Spain!
-     Our captain’s commanded.—
+Nor did wild rumors of all sorts fail to exaggerate, and still the more horrify the true histories of these deadly encounters. For not only do fabulous rumors naturally grow out of the very body of all surprising terrible events,—as the smitten tree gives birth to its fungi; but, in maritime life, far more than in that of terra firma, wild rumors abound, wherever there is any adequate reality for them to cling to. And as the sea surpasses the land in this matter, so the whale fishery surpasses every other sort of maritime life, in the wonderfulness and fearfulness of the rumors which sometimes circulate there. For not only are whalemen as a body unexempt from that ignorance and superstitiousness hereditary to all sailors; but of all sailors, they are by all odds the most directly brought into contact with whatever is appallingly astonishing in the sea; face to face they not only eye its greatest marvels, but, hand to jaw, give battle to them. Alone, in such remotest waters, that though you sailed a thousand miles, and passed a thousand shores, you would not come to any chiseled hearth-stone, or aught hospitable beneath that part of the sun; in such latitudes and longitudes, pursuing too such a calling as he does, the whaleman is wrapped by influences all tending to make his fancy pregnant with many a mighty birth.
 
-1ST NANTUCKET SAILOR. Oh, boys, don’t be sentimental; it’s bad for the digestion! Take a tonic, follow me!
+No wonder, then, that ever gathering volume from the mere transit over the widest watery spaces, the outblown rumors of the White Whale did in the end incorporate with themselves all manner of morbid hints, and half-formed fœtal suggestions of supernatural agencies, which eventually invested Moby Dick with new terrors unborrowed from anything that visibly appears. So that in many cases such a panic did he finally strike, that few who by those rumors, at least, had heard of the White Whale, few of those hunters were willing to encounter the perils of his jaw.
 
-(_Sings, and all follow._)
+But there were still other and more vital practical influences at work. Not even at the present day has the original prestige of the Sperm Whale, as fearfully distinguished from all other species of the leviathan, died out of the minds of the whalemen as a body. There are those this day among them, who, though intelligent and courageous enough in offering battle to the Greenland or Right whale, would perhaps—either from professional inexperience, or incompetency, or timidity, decline a contest with the Sperm Whale; at any rate, there are plenty of whalemen, especially among those whaling nations not sailing under the American flag, who have never hostilely encountered the Sperm Whale, but whose sole knowledge of the leviathan is restricted to the ignoble monster primitively pursued in the North; seated on their hatches, these men will hearken with a childish fireside interest and awe, to the wild, strange tales of Southern whaling. Nor is the pre-eminent tremendousness of the great Sperm Whale anywhere more feelingly comprehended, than on board of those prows which stem him.
 
-    Our captain stood upon the deck,
-    A spy-glass in his hand,
-    A viewing of those gallant whales
-    That blew at every strand.
-    Oh, your tubs in your boats, my boys,
-    And by your braces stand,
-    And we’ll have one of those fine whales,
-    Hand, boys, over hand!
-    So, be cheery, my lads! may your hearts never fail!
-    While the bold harpooner is striking the whale!
-[^2]
-MATE’S VOICE FROM THE QUARTER-DECK. Eight bells there, forward!
+And as if the now tested reality of his might had in former legendary times thrown its shadow before it; we find some book naturalists—Olassen and Povelson—declaring the Sperm Whale not only to be a consternation to every other creature in the sea, but also to be so incredibly ferocious as continually to be athirst for human blood. Nor even down to so late a time as Cuvier’s, were these or almost similar impressions effaced. For in his Natural History, the Baron himself affirms that at sight of the Sperm Whale, all fish (sharks included) are “struck with the most lively terrors,” and “often in the precipitancy of their flight dash themselves against the rocks with such violence as to cause instantaneous death.” And however the general experiences in the fishery may amend such reports as these; yet in their full terribleness, even to the bloodthirsty item of Povelson, the superstitious belief in them is, in some vicissitudes of their vocation, revived in the minds of the hunters.
 
-2ND NANTUCKET SAILOR. Avast the chorus! Eight bells[^3] there! d’ye hear, bell-boy? Strike the bell eight, thou Pip! thou blackling! and let me call the watch. I’ve the sort of mouth for that—the hogshead mouth.[^4] So, so, (_thrusts his head down the scuttle_,) Star-bo-l-e-e-n-s, a-h-o-y![^5] Eight bells there below! Tumble up!
+So that overawed by the rumors and portents concerning him, not a few of the fishermen recalled, in reference to Moby Dick, the earlier days of the Sperm Whale fishery, when it was oftentimes hard to induce long practised Right whalemen to embark in the perils of this new and daring warfare; such men protesting that although other leviathans might be hopefully pursued, yet to chase and point lance at such an apparition as the Sperm Whale was not for mortal man. That to attempt it, would be inevitably to be torn into a quick eternity. On this head, there are some remarkable documents that may be consulted.
 
-DUTCH SAILOR. Grand snoozing to-night, maty; fat night for that. I mark this in our old Mogul’s wine; it’s quite as deadening to some as filliping[^6] to others. We sing; they sleep—aye, lie down there, like ground-tier butts.[^7] At ’em again! There, take this copper-pump, and hail ’em through it. Tell ’em to avast dreaming of their lasses. Tell ’em it’s the resurrection; they must kiss their last, and come to judgment. That’s the way—_that’s_ it; thy throat ain’t spoiled with eating Amsterdam butter.[^8]
+Nevertheless, some there were, who even in the face of these things were ready to give chase to Moby Dick; and a still greater number who, chancing only to hear of him distantly and vaguely, without the specific details of any certain calamity, and without superstitious accompaniments, were sufficiently hardy not to flee from the battle if offered.
 
-FRENCH SAILOR. Hist, boys! let’s have a jig or two before we ride to anchor in Blanket Bay. What say ye? There comes the other watch. Stand by all legs! Pip! little Pip! hurrah with your tambourine!
+One of the wild suggestions referred to, as at last coming to be linked with the White Whale in the minds of the superstitiously inclined, was the unearthly conceit that Moby Dick was ubiquitous; that he had actually been encountered in opposite latitudes at one and the same instant of time.
 
-PIP. (_Sulky and sleepy._) Don’t know where it is.
+Nor, credulous as such minds must have been, was this conceit altogether without some faint show of superstitious probability. For as the secrets of the currents in the seas have never yet been divulged, even to the most erudite research; so the hidden ways of the Sperm Whale when beneath the surface remain, in great part, unaccountable to his pursuers; and from time to time have originated the most curious and contradictory speculations regarding them, especially concerning the mystic modes whereby, after sounding to a great depth, he transports himself with such vast swiftness to the most widely distant points.
 
-FRENCH SAILOR. Beat thy belly, then, and wag thy ears. Jig it, men, I say; merry’s the word; hurrah! Damn me, won’t you dance? Form, now, Indian-file, and gallop into the double-shuffle?[^9] Throw yourselves! Legs! legs!
+It is a thing well known to both American and English whale-ships, and as well a thing placed upon authoritative record years ago by Scoresby, that some whales have been captured far north in the Pacific, in whose bodies have been found the barbs of harpoons darted in the Greenland seas. Nor is it to be gainsaid, that in some of these instances it has been declared that the interval of time between the two assaults could not have exceeded very many days. Hence, by inference, it has been believed by some whalemen, that the Nor’ West Passage, so long a problem to man, was never a problem to the whale. So that here, in the real living experience of living men, the prodigies related in old times of the inland Strello mountain in Portugal (near whose top there was said to be a lake in which the wrecks of ships floated up to the surface); and that still more wonderful story of the Arethusa fountain near Syracuse (whose waters were believed to have come from the Holy Land by an underground passage); these fabulous narrations are almost fully equalled by the realities of the whalemen.
 
-ICELAND SAILOR. I don’t like your floor, maty; it’s too springy to my taste. I’m used to ice-floors. I’m sorry to throw cold water on the subject; but excuse me.[^10]
+Forced into familiarity, then, with such prodigies as these; and knowing that after repeated, intrepid assaults, the White Whale had escaped alive; it cannot be much matter of surprise that some whalemen should go still further in their superstitions; declaring Moby Dick not only ubiquitous, but immortal (for immortality is but ubiquity in time); that though groves of spears should be planted in his flanks, he would still swim away unharmed; or if indeed he should ever be made to spout thick blood, such a sight would be but a ghastly deception; for again in unensanguined billows hundreds of leagues away, his unsullied jet would once more be seen.
 
-MALTESE SAILOR. Me too; where’s your girls? Who but a fool would take his left hand by his right, and say to himself, how d’ye do? Partners! I must have partners!
+But even stripped of these supernatural surmisings, there was enough in the earthly make and incontestable character of the monster to strike the imagination with unwonted power. For, it was not so much his uncommon bulk that so much distinguished him from other sperm whales, but, as was elsewhere thrown out—a peculiar snow-white wrinkled forehead, and a high, pyramidical white hump. These were his prominent features; the tokens whereby, even in the limitless, uncharted seas, he revealed his identity, at a long distance, to those who knew him.
 
-SICILIAN SAILOR. Aye; girls and a green![^11]—then I’ll hop with ye; yea, turn grasshopper!
+The rest of his body was so streaked, and spotted, and marbled with the same shrouded hue, that, in the end, he had gained his distinctive appellation of the White Whale; a name, indeed, literally justified by his vivid aspect, when seen gliding at high noon through a dark blue sea, leaving a milky-way wake of creamy foam, all spangled with golden gleamings.
 
-LONG-ISLAND SAILOR. Well, well, ye sulkies, there’s plenty more of us. Hoe corn[^12] when you may, say I. All legs go to harvest soon. Ah! here comes the music; now for it!
+Nor was it his unwonted magnitude, nor his remarkable hue, nor yet his deformed lower jaw, that so much invested the whale with natural terror, as that unexampled, intelligent malignity which, according to specific accounts, he had over and over again evinced in his assaults. More than all, his treacherous retreats struck more of dismay than perhaps aught else. For, when swimming before his exulting pursuers, with every apparent symptom of alarm, he had several times been known to turn round suddenly, and, bearing down upon them, either stave their boats to splinters, or drive them back in consternation to their ship.
 
-AZORE[^13] SAILOR. (_Ascending, and pitching the tambourine up the scuttle_. ) Here you are, Pip; and there’s the windlass-bitts;[^14] up you mount! Now, boys! (_The half of them dance to the tambourine; some go below; some sleep or lie among the coils of rigging. Oaths a-plenty_.)
-![[Pasted image 20251125102009.png]]
+Already several fatalities had attended his chase. But though similar disasters, however little bruited ashore, were by no means unusual in the fishery; yet, in most instances, such seemed the White Whale’s infernal aforethought of ferocity, that every dismembering or death that he caused, was not wholly regarded as having been inflicted by an unintelligent agent.
 
-AZORE SAILOR. (_Dancing_) Go it, Pip! Bang it, bell-boy! Rig it, dig it, stig it, quig it, bell-boy! Make fire-flies; break the jinglers![^15]
+Judge, then, to what pitches of inflamed, distracted fury the minds of his more desperate hunters were impelled, when amid the chips of chewed boats, and the sinking limbs of torn comrades, they swam out of the white curds of the whale’s direful wrath into the serene, exasperating sunlight, that smiled on, as if at a birth or a bridal.
 
-PIP. Jinglers, you say?—there goes another, dropped off; I pound it so.[^16]
+His three boats stove around him, and oars and men both whirling in the eddies; one captain, seizing the line-knife from his broken prow, had dashed at the whale, as an Arkansas duellist at his foe, blindly seeking with a six inch blade to reach the fathom-deep life of the whale. That captain was Ahab. And then it was, that suddenly sweeping his sickle-shaped lower jaw beneath him, Moby Dick had reaped away Ahab’s leg, as a mower a blade of grass in the field. No turbaned Turk, no hired Venetian or Malay, could have smote him with more seeming malice. Small reason was there to doubt, then, that ever since that almost fatal encounter, Ahab had cherished a wild vindictiveness against the whale, all the more fell for that in his frantic morbidness he at last came to identify with him, not only all his bodily woes, but all his intellectual and spiritual exasperations. The White Whale swam before him as the monomaniac incarnation of all those malicious agencies which some deep men feel eating in them, till they are left living on with half a heart and half a lung. That intangible malignity which has been from the beginning; to whose dominion even the modern Christians ascribe one-half of the worlds; which the ancient Ophites of the east reverenced in their statue devil;—Ahab did not fall down and worship it like them; but deliriously transferring its idea to the abhorred white whale, he pitted himself, all mutilated, against it. All that most maddens and torments; all that stirs up the lees of things; all truth with malice in it; all that cracks the sinews and cakes the brain; all the subtle demonisms of life and thought; all evil, to crazy Ahab, were visibly personified, and made practically assailable in Moby Dick. He piled upon the whale’s white hump the sum of all the general rage and hate felt by his whole race from Adam down; and then, as if his chest had been a mortar, he burst his hot heart’s shell upon it.
 
-CHINA SAILOR. Rattle thy teeth, then, and pound away; make a pagoda[^17] of thyself.
+It is not probable that this monomania in him took its instant rise at the precise time of his bodily dismemberment. Then, in darting at the monster, knife in hand, he had but given loose to a sudden, passionate, corporal animosity; and when he received the stroke that tore him, he probably but felt the agonizing bodily laceration, but nothing more. Yet, when by this collision forced to turn towards home, and for long months of days and weeks, Ahab and anguish lay stretched together in one hammock, rounding in mid winter that dreary, howling Patagonian Cape; then it was, that his torn body and gashed soul bled into one another; and so interfusing, made him mad. That it was only then, on the homeward voyage, after the encounter, that the final monomania seized him, seems all but certain from the fact that, at intervals during the passage, he was a raving lunatic; and, though unlimbed of a leg, yet such vital strength yet lurked in his Egyptian chest, and was moreover intensified by his delirium, that his mates were forced to lace him fast, even there, as he sailed, raving in his hammock. In a strait-jacket, he swung to the mad rockings of the gales. And, when running into more sufferable latitudes, the ship, with mild stun’sails spread, floated across the tranquil tropics, and, to all appearances, the old man’s delirium seemed left behind him with the Cape Horn swells, and he came forth from his dark den into the blessed light and air; even then, when he bore that firm, collected front, however pale, and issued his calm orders once again; and his mates thanked God the direful madness was now gone; even then, Ahab, in his hidden self, raved on. Human madness is oftentimes a cunning and most feline thing. When you think it fled, it may have but become transfigured into some still subtler form. Ahab’s full lunacy subsided not, but deepeningly contracted; like the unabated Hudson, when that noble Northman flows narrowly, but unfathomably through the Highland gorge. But, as in his narrow-flowing monomania, not one jot of Ahab’s broad madness had been left behind; so in that broad madness, not one jot of his great natural intellect had perished. That before living agent, now became the living instrument. If such a furious trope may stand, his special lunacy stormed his general sanity, and carried it, and turned all its concentred cannon upon its own mad mark; so that far from having lost his strength, Ahab, to that one end, did now possess a thousand fold more potency than ever he had sanely brought to bear upon any one reasonable object.
 
-FRENCH SAILOR. Merry-mad! Hold up thy hoop, Pip, till I jump through it! Split jibs! tear yourselves!
+This is much; yet Ahab’s larger, darker, deeper part remains unhinted. But vain to popularize profundities, and all truth is profound. Winding far down from within the very heart of this spiked Hotel de Cluny where we here stand—however grand and wonderful, now quit it;—and take your way, ye nobler, sadder souls, to those vast Roman halls of Thermes; where far beneath the fantastic towers of man’s upper earth, his root of grandeur, his whole awful essence sits in bearded state; an antique buried beneath antiquities, and throned on torsoes! So with a broken throne, the great gods mock that captive king; so like a Caryatid, he patient sits, upholding on his frozen brow the piled entablatures of ages. Wind ye down there, ye prouder, sadder souls! question that proud, sad king! A family likeness! aye, he did beget ye, ye young exiled royalties; and from your grim sire only will the old State-secret come.
 
-TASHTEGO. (_Quietly smoking._) That’s a white man; he calls that fun: humph! I save my sweat.
+Now, in his heart, Ahab had some glimpse of this, namely: all my means are sane, my motive and my object mad. Yet without power to kill, or change, or shun the fact; he likewise knew that to mankind he did long dissemble; in some sort, did still. But that thing of his dissembling was only subject to his perceptibility, not to his will determinate. Nevertheless, so well did he succeed in that dissembling, that when with ivory leg he stepped ashore at last, no Nantucketer thought him otherwise than but naturally grieved, and that to the quick, with the terrible casualty which had overtaken him.
 
-OLD MANX[^18] SAILOR. I wonder whether those jolly lads bethink them of what they are dancing over. I’ll dance over your grave, I will—that’s the bitterest threat of your night-women, that beat head-winds round corners.[^19] O Christ! to think of the green navies and the green-skulled crews! Well, well; belike the whole world’s a ball, as you scholars have it; and so ’tis right to make one ballroom of it. Dance on, lads, you’re young; I was once.
+The report of his undeniable delirium at sea was likewise popularly ascribed to a kindred cause. And so too, all the added moodiness which always afterwards, to the very day of sailing in the Pequod on the present voyage, sat brooding on his brow. Nor is it so very unlikely, that far from distrusting his fitness for another whaling voyage, on account of such dark symptoms, the calculating people of that prudent isle were inclined to harbor the conceit, that for those very reasons he was all the better qualified and set on edge, for a pursuit so full of rage and wildness as the bloody hunt of whales. Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea; such an one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes. Or, if for any reason thought to be corporeally incapacitated for that, yet such an one would seem superlatively competent to cheer and howl on his underlings to the attack. But be all this as it may, certain it is, that with the mad secret of his unabated rage bolted up and keyed in him, Ahab had purposely sailed upon the present voyage with the one only and all-engrossing object of hunting the White Whale. Had any one of his old acquaintances on shore but half dreamed of what was lurking in him then, how soon would their aghast and righteous souls have wrenched the ship from such a fiendish man! They were bent on profitable cruises, the profit to be counted down in dollars from the mint. He was intent on an audacious, immitigable, and supernatural revenge.
 
-3D NANTUCKET SAILOR. Spell oh!—whew! this is worse than pulling after whales in a calm—give us a whiff, Tash.[^20]
-
-(_They cease dancing, and gather in clusters. Meantime the sky darkens—the wind rises_.)
-
-LASCAR[^21] SAILOR. By Brahma![^22] boys, it’ll be douse sail soon. The sky-born, high-tide Ganges turned to wind!)[^23] Thou showest thy black brow, Seeva![^24]
-
-MALTESE SAILOR. (_Reclining and shaking his cap_.) It’s the waves—the snow’s caps turn to jig it now.[^25] They’ll shake their tassels soon. Now would all the waves were women, then I’d go drown, and chassee[^26] with them evermore! There’s naught so sweet on earth—heaven may not match it!—as those swift glances of warm, wild bosoms in the dance, when the over-arboring arms hide such ripe, bursting grapes.
-
-SICILIAN SAILOR. (_Reclining_.) Tell me not of it! Hark ye, lad—fleet interlacings of the limbs—lithe swayings—coyings—flutterings! lip! heart! hip! all graze: unceasing touch and go! not taste, observe ye, else come satiety.[^27] Eh, Pagan? (_Nudging_.)
-
-TAHITAN SAILOR. (_Reclining on a mat_.) Hail, holy nakedness of our dancing girls!—the Heeva-Heeva![^28] Ah! low veiled, high palmed Tahiti![^29] I still rest me on thy mat, but the soft soil has slid! I saw thee woven in the wood, my mat! green the first day I brought ye thence; now worn and wilted quite. Ah me!—not thou nor I can bear the change! How then, if so be transplanted to yon sky? Hear I the roaring streams from Pirohitee’s peak[^30] of spears, when they leap down the crags and drown the villages?—The blast! the blast! Up, spine, and meet it! (_Leaps to his feet_.)
-
-PORTUGUESE SAILOR. How the sea rolls swashing ’gainst the side! Stand by for reefing[^50], hearties! the winds are just crossing swords, pell-mell they’ll go lunging presently.
-
-DANISH SAILOR. Crack, crack, old ship![^31] so long as thou crackest, thou holdest! Well done! The mate there holds ye to it stiffly. He’s no more afraid than the isle fort at Cattegat,[^32] put there to fight the Baltic with storm-lashed guns, on which the sea-salt cakes!
-
-4TH NANTUCKET SAILOR. He has his orders, mind ye that. I heard old Ahab tell him he must always kill a squall, something as they burst a waterspout[^33] with a pistol[^34]—fire your ship right into it!
-
-ENGLISH SAILOR. Blood! but that old man’s a grand old cove! We are the lads to hunt him up his whale!
-
-ALL. Aye! aye!
-
-OLD MANX SAILOR. How the three pines shake![^35] Pines are the hardest sort of tree to live when shifted to any other soil, and here there’s none but the crew’s cursed clay. Steady, helmsman! steady. This is the sort of weather when brave hearts snap ashore, and keeled[^36] hulls split at sea. Our captain has his birthmark; look yonder, boys, there’s another in the sky—lurid-like, ye see, all else pitch black.
-
-DAGGOO. What of that? Who’s afraid of black’s afraid of me! I’m quarried out of it!
-
-SPANISH SAILOR. (_Aside_.) He wants to bully, ah!—the old grudge makes me touchy[^37] (_Advancing_.) Aye, harpooneer, thy race is the undeniable dark side of mankind—devilish dark at that. No offence.[^38]
-
-DAGGOO (_grimly_). None.
-
-ST. JAGO’S SAILOR.[^39] That Spaniard’s mad or drunk. But that can’t be, or else in his one case our old Mogul’s fire-waters are somewhat long in working.
-
-5TH NANTUCKET SAILOR. What’s that I saw—lightning? Yes.
-
-SPANISH SAILOR. No; Daggoo showing his teeth.
-
-DAGGOO (_springing_). Swallow thine, mannikin![^40] White skin, white liver![^41]
-
-SPANISH SAILOR (_meeting him_). Knife thee heartily! big frame, small spirit!
-
-ALL. A row! a row! a row!
-
-TASHTEGO (_with a whiff_). A row a’low,[^42] and a row aloft—Gods and men—both brawlers! Humph!
-
-BELFAST SAILOR. A row! arrah[^43] a row! The Virgin be blessed, a row! Plunge in with ye!
-
-ENGLISH SAILOR. Fair play! Snatch the Spaniard’s knife! A ring, a ring!
-
-OLD MANX SAILOR. Ready formed. There! the ringed horizon.[^44] In that ring Cain struck Abel. Sweet work, right work! No? Why then, God, mad’st thou the ring?
-
-MATE’S VOICE FROM THE QUARTER-DECK. Hands by the halyards! in top-gallant sails! Stand by to reef topsails![^45]
-
-ALL. The squall! the squall! jump, my jollies! (_They scatter_.)
-
-PIP (_shrinking under the windlass_). Jollies? Lord help such jollies! Crish, crash! there goes the jib-stay![^46] Blang-whang! God! Duck lower, Pip, here comes the royal yard![^47] It’s worse than being in the whirled woods, the last day of the year! Who’d go climbing after chestnuts now? But there they go, all cursing, and here I don’t. Fine prospects to ’em; they’re on the road to heaven. Hold on hard! Jimmini, what a squall! But those chaps there are worse yet—they are your white squalls,[^48] they. White squalls? white whale, shirr! shirr! Here have I heard all their chat just now, and the white whale—shirr! shirr!—but spoken of once! and only this evening—it makes me jingle all over like my tambourine—that anaconda of an old man[^49] swore ’em in to hunt him! Oh, thou big white God aloft there somewhere in yon darkness, have mercy on this small black boy down here; preserve him from all men that have no bowels to feel fear!
-
-https://youtu.be/fzxOz8x-Y_8?si=cMrAvHKKNL76gqhN "Greenland Whale Fisheries | The Longest Johns" - meaning British/European whalers - also this[ Folkways version ](https://youtu.be/H8E3uiGlrXs?si=fpudH38W_Yw4vGma&t=418)that's a bit more... authentic-ish? and this one from [the actual Moby Dick Folkways album](https://youtu.be/rFwGD61Z_ZQ?si=jIKv8QFW-Vdrs_t2) —but none of them include Captain Bunker! [The Coast of Peru](https://youtu.be/qgrc5ZbzFog?si=LmqLtnHJ1FAV-nA4&t=88) is the only shanty I could find with Captain Bunker mentioned,— the mystery is solved: https://mudcat.org/thread.cfm?threadid=162239 except it's not. It's taken wholecloth from E*TCHINGS  OF  A  WHALING  CRUISE, WITH  NOTES  OF  A SOJOURN  ON  THE  ISLAND  OF  ZANZIBAR. TO   WHICH  IS  APPENDED  A  BRIEF HISTORY  OF  THE  WHALE  FISHERY, ITS  PAST  AND  PRESENT  CONDITION*. BY    J.    ROSS  BROWNE. https://archive.org/stream/0212ETCH/0212ETCH_djvu.txt
-
+Here, then, was this grey-headed, ungodly old man, chasing with curses a Job’s whale round the world, at the head of a crew, too, chiefly made up of mongrel renegades, and castaways, and cannibals—morally enfeebled also, by the incompetence of mere unaided virtue or right-mindedness in Starbuck, the invulnerable jollity of indifference and recklessness in Stubb, and the pervading mediocrity in Flask. Such a crew, so officered, seemed specially picked and packed by some infernal fatality to help him to his monomaniac revenge. How it was that they so aboundingly responded to the old man’s ire—by what evil magic their souls were possessed, that at times his hate seemed almost theirs; the White Whale as much their insufferable foe as his; how all this came to be—what the White Whale was to them, or how to their unconscious understandings, also, in some dim, unsuspected way, he might have seemed the gliding great demon of the seas of life,—all this to explain, would be to dive deeper than Ishmael can go. The subterranean miner that works in us all, how can one tell whither leads his shaft by the ever shifting, muffled sound of his pick? Who does not feel the irresistible arm drag? What skiff in tow of a seventy-four can stand still? For one, I gave myself up to the abandonment of the time and the place; but while yet all a-rush to encounter the whale, could see naught in that brute but the deadliest ill.
 ---
 # Footnotes
 

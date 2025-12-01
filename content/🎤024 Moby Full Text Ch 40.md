@@ -132,8 +132,6 @@ ALL. The squall! the squall! jump, my jollies! (_They scatter_.)
 
 PIP (_shrinking under the windlass_). Jollies? Lord help such jollies! Crish, crash! there goes the jib-stay![^46] Blang-whang! God! Duck lower, Pip, here comes the royal yard![^47] It’s worse than being in the whirled woods, the last day of the year! Who’d go climbing after chestnuts now? But there they go, all cursing, and here I don’t. Fine prospects to ’em; they’re on the road to heaven. Hold on hard! Jimmini, what a squall! But those chaps there are worse yet—they are your white squalls,[^48] they. White squalls? white whale, shirr! shirr! Here have I heard all their chat just now, and the white whale—shirr! shirr!—but spoken of once! and only this evening—it makes me jingle all over like my tambourine—that anaconda of an old man[^49] swore ’em in to hunt him! Oh, thou big white God aloft there somewhere in yon darkness, have mercy on this small black boy down here; preserve him from all men that have no bowels to feel fear!
 
-https://youtu.be/fzxOz8x-Y_8?si=cMrAvHKKNL76gqhN "Greenland Whale Fisheries | The Longest Johns" - meaning British/European whalers - also this[ Folkways version ](https://youtu.be/H8E3uiGlrXs?si=fpudH38W_Yw4vGma&t=418)that's a bit more... authentic-ish? and this one from [the actual Moby Dick Folkways album](https://youtu.be/rFwGD61Z_ZQ?si=jIKv8QFW-Vdrs_t2) —but none of them include Captain Bunker! [The Coast of Peru](https://youtu.be/qgrc5ZbzFog?si=LmqLtnHJ1FAV-nA4&t=88) is the only shanty I could find with Captain Bunker mentioned,— the mystery is solved: https://mudcat.org/thread.cfm?threadid=162239 except it's not. It's taken wholecloth from E*TCHINGS  OF  A  WHALING  CRUISE, WITH  NOTES  OF  A SOJOURN  ON  THE  ISLAND  OF  ZANZIBAR. TO   WHICH  IS  APPENDED  A  BRIEF HISTORY  OF  THE  WHALE  FISHERY, ITS  PAST  AND  PRESENT  CONDITION*. BY    J.    ROSS  BROWNE. https://archive.org/stream/0212ETCH/0212ETCH_djvu.txt
-
 ---
 # Footnotes
 
@@ -187,3 +185,8 @@ https://youtu.be/fzxOz8x-Y_8?si=cMrAvHKKNL76gqhN "Greenland Whale Fisheries | Th
 [^48]: white squalls: Sudden and violent windstorms at sea unaccompanied by the black clouds generally characteristic of a squall. Because an approaching white squall is hard to see, it is feared far more than a regular one. 
 [^49]: Anaconda! Wow - he's seeing Ahab clearly!
 [^50]: reefing: rolling up the sails to reduce the amount of wind they catch.
+
+---
+
+
+https://youtu.be/fzxOz8x-Y_8?si=cMrAvHKKNL76gqhN "Greenland Whale Fisheries | The Longest Johns" - meaning British/European whalers - also this[ Folkways version ](https://youtu.be/H8E3uiGlrXs?si=fpudH38W_Yw4vGma&t=418)that's a bit more... authentic-ish? and this one from [the actual Moby Dick Folkways album](https://youtu.be/rFwGD61Z_ZQ?si=jIKv8QFW-Vdrs_t2) —but none of them include Captain Bunker! [The Coast of Peru](https://youtu.be/qgrc5ZbzFog?si=LmqLtnHJ1FAV-nA4&t=88) is the only shanty I could find with Captain Bunker mentioned,— the mystery is solved: https://mudcat.org/thread.cfm?threadid=162239 except it's not. It's taken wholecloth from E*TCHINGS  OF  A  WHALING  CRUISE, WITH  NOTES  OF  A SOJOURN  ON  THE  ISLAND  OF  ZANZIBAR. TO   WHICH  IS  APPENDED  A  BRIEF HISTORY  OF  THE  WHALE  FISHERY, ITS  PAST  AND  PRESENT  CONDITION*. BY    J.    ROSS  BROWNE. https://archive.org/stream/0212ETCH/0212ETCH_djvu.txt

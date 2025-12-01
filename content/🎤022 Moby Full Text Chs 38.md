@@ -18,22 +18,17 @@ My soul is more than matched; she’s overmanned;[^1] and by a madman! Insuffera
 [_A burst of revelry from the forecastle_.]
 
 Oh, God! to sail with such a heathen crew that have small touch of human mothers in them! Whelped somewhere by the sharkish sea. The white whale is their demigorgon.[^11] Hark! the infernal orgies! that revelry is forward! mark the unfaltering silence aft! Methinks it pictures life.[^12] *Foremost through the sparkling sea shoots on the gay, embattled, bantering bow, but only to drag dark Ahab after it, where he broods within his sternward cabin, builded over the dead water of the wake, and further on,[^13] hunted by its wolfish gurglings.*[^14] The long howl thrills me through![^15] Peace! ye revellers, and set the watch![^16] Oh, life! ’tis in an hour like this, with soul beat down and held to knowledge,—as wild, untutored things are forced to feed[^17]—Oh, life! ’tis now that I do feel the latent horror in thee! but ’tis not me! that horror’s out of me![^18] and with the soft feeling of the human in me, yet will I try to fight ye, ye grim, phantom futures![^19] Stand by me, hold me, bind me, O ye blessed influences!
-
-
 Back to [[#Contents]]
 
-| [[🎤021 Moby Full Text Ch36]] |     |     | [[🎤022 Moby Full Text Chs39-40]] |
-| ----------------------------- | --- | --- | --------------------------------- |
+| [[🎤021 Moby Full Text Ch36]] |     |     | [[🎤023 Moby Full Text Ch39]] |
+| ----------------------------- | --- | --- | ----------------------------- |
 
  ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
 → [[MOBY/index|Return to Moby-Dick Index]]|
 
 ---
-
-Ahab AND Starbuck are resigned to their fates - but it energizes one and completely defeats the latter.
-
-TIME and tide wait for no man
+## Non-footnote Notes
 
 - c 1390 CHAUCER Clerk’s Tale 1.118 For thogh we slepe or wake, or rome, or ryde, Ay fleeth the tyme; it nil no [will no] man abyde. 
 - c 1520 Everyman (1961) 1.143 The Tyde abydeth no man. 
