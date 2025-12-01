@@ -2,8 +2,6 @@
 tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
 
-[FOR LATER how to coil a dock line](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40the.sailing.acade/video/7356630181492297006&ved=2ahUKEwj73di0wY2RAxUgg4kEHfe7Nd04ChC3AnoECBAQAg&usg=AOvVaw22xckweMGTtKUDOrVPF_Lu   ) 
-
 
 | [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[🎤022 Moby Full Text Ch36\|NEXT chapter]] |
 | --------------------------------------- | --- | --- | ------------------------------------------- |

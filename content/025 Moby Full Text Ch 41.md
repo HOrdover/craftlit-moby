@@ -8,10 +8,9 @@ tags: [moby-dick, full-text, shownotes, Specksynder]
 
 | [[🎤024 Moby Full Text Ch 40]] |     |     | [[026 Moby Full Text Ch 42\|NEXT chapter]] |
 | ------------------------------ | --- | --- | ------------------------------------------ |
-
 ## Contents
 
-[[#CHAPTER 40. Midnight, Forecastle.]]
+[[#CHAPTER 41. Moby Dick.]]
 [[#FOOTNOTES]]
 
 
