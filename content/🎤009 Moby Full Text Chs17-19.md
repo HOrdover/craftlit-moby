@@ -262,7 +262,7 @@ Back up to [[#Contents]]
 [^39]: free-flowing, confluent pox had large patches of scarring - like the pox flowed together.
 [^40]: Made me think, "Ah, he's come unstuck in time..."
 [^41]: sounds like it was a very nice spitoon though the closeness of this to the "fighting the Spaniard in Santa..." makes some scholars think he spit into a baptismal font.
-[^42]: The prophecy comes up again in [[🎤021 Moby Full Text Ch 37|chapter 37]]
+[^42]: The prophecy comes up again in [[🎤021 Moby Full Text Ch37|chapter 37]]
 [^43]: groan
 [^44]: Remember Melville's upbringing and the belief that our fates are fixed.
 [^45]: this word actually goes back to around 1700!

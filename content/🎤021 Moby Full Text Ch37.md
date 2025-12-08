@@ -2,7 +2,7 @@
 tags: [moby-dick, full-text, shownotes, Ahab]
 ---
 
-| [[🎤020 Moby Full Text Ch36\|PREVIOUS chapter]] |     |     | [[🎤022 Moby Full Text Chs 38\|NEXT chapter]] |
+| [[🎤020 Moby Full Text Ch36\|PREVIOUS chapter]] |     |     | [[🎤022 Moby Full Text Chs38\|NEXT chapter]] |
 | ----------------------------------------------- | --- | --- | --------------------------------------------- |
 |                                                 |     |     |                                               |
 ## Contents
@@ -26,7 +26,7 @@ Dry heat upon my brow? Oh! time was, when as the sunrise nobly spurred me, so th
 ’Twas not so hard a task. I thought to find one stubborn, at the least; but my one cogged circle fits into all their various wheels, and they revolve.[^7] Or, if you will, like so many ant-hills of powder, they all stand before me; and I their match. ***Oh, hard! that to fire others, the match itself must needs be wasting!***.    ***What I’ve dared, I’ve willed; and what I’ve willed, I’ll do!*** They think me mad—Starbuck does; but I’m demoniac,[^8] I am madness maddened! That wild madness that’s only calm to comprehend itself! The prophecy[^9] was that I should be dismembered; and—Aye! I lost this leg. I now prophesy that I will dismember my dismemberer. Now, then, be the prophet and the fulfiller one. That’s more than ye, ye great gods,[^10] ever were. I laugh and hoot at ye, ye cricket-players,[^11] ye pugilists, ye deaf Burkes and blinded Bendigoes![^12] [^13]I will not say as schoolboys do to bullies—Take some one of your own size; don’t pommel _me!_ No, ye’ve knocked me down, and I am up again; but _ye_ have run and hidden. Come forth from behind your cotton bags![^14] I have no long gun[^15] to reach ye. Come, Ahab’s compliments to ye; come and see if ye can swerve[^16] me. Swerve me? ye cannot swerve me, else ye swerve yourselves! man has ye there. Swerve me? The path to my fixed purpose is laid with iron rails,[^17] whereon my soul is grooved to run. Over unsounded[^18] gorges, through the rifled[^19] hearts of mountains, under torrents’ beds, unerringly I rush! Naught’s an obstacle, naught’s an angle[^20] to the iron way!
 Back to [[#Contents]]
 
-| [[🎤020 Moby Full Text Ch36\|PREVIOUS chapter]] |     |     | [[🎤022 Moby Full Text Chs 38\|NEXT chapter]] |
+| [[🎤020 Moby Full Text Ch36\|PREVIOUS chapter]] |     |     | [[🎤022 Moby Full Text Chs38\|NEXT chapter]] |
 | ----------------------------------------------- | --- | --- | --------------------------------------------- |
 
  ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==

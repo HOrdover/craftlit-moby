@@ -3,7 +3,7 @@ tags: [moby-dick, full-text, shownotes, Stubb]
 ---
 
 
-| [[🎤019 Moby Full Text Ch35\|PREVIOUS chapter]] |     |     | [[🎤021 Moby Full Text Ch 37\|NEXT chapter]] |
+| [[🎤019 Moby Full Text Ch35\|PREVIOUS chapter]] |     |     | [[🎤021 Moby Full Text Ch37\|NEXT chapter]] |
 | ----------------------------------------------- | --- | --- | -------------------------------------------- |
 ## Contents
 [[#CHAPTER 36. The Quarter-Deck.]]
@@ -115,7 +115,7 @@ Silently obeying the order, the three harpooneers now stood with the detached ir
 
 Back to [[#Contents]]
 
-| [[🎤019 Moby Full Text Ch35]] |     |     | [[🎤021 Moby Full Text Ch 37]] |
+| [[🎤019 Moby Full Text Ch35]] |     |     | [[🎤021 Moby Full Text Ch37]] |
 | ----------------------------- | --- | --- | ------------------------------ |
 
  ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==

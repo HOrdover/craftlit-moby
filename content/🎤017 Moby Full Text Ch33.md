@@ -2,7 +2,7 @@
 tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
 
-| [[🎤016 Moby Full Text Ch 32pt2\|PREVIOUS chapter]] |     |     | [[018 Moby Full Text Ch 34\|NEXT chapter]] |
+| [[🎤016 Moby Full Text Ch32pt2\|PREVIOUS chapter]] |     |     | [[018 Moby Full Text Ch 34\|NEXT chapter]] |
 | --------------------------------------------------- | --- | --- | ------------------------------------------ |
 |                                                     |     |     |                                            |
 ## BJ Time Code:  06:05:00
@@ -48,7 +48,7 @@ But Ahab, my Captain, still moves before me in all his Nantucket grimness and sh
 
 [[#Contents]]
 
-| [[🎤016 Moby Full Text Ch 32pt2\|Previous]] |     |     | [[🎤017 Moby Full Text Ch33\|NEXT chapter]] |
+| [[🎤016 Moby Full Text Ch32pt2\|Previous]] |     |     | [[🎤017 Moby Full Text Ch33\|NEXT chapter]] |
 | ------------------------------------------- | --- | --- | ------------------------------------------- |
 
   

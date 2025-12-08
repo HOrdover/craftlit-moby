@@ -6,7 +6,7 @@ tags: [moby-dick, full-text, shownotes, Specksynder]
 
 ## BJ Starts  07:26:00
 
-| [[🎤025 Moby Full Text Ch 41\|PREVIOUS chapter]] |     |     | [[027 Moby Full Text Ch 43\|NEXT chapter]] |
+| [[🎤025 Moby Full Text Ch41\|PREVIOUS chapter]] |     |     | [[027 Moby Full Text Ch 43\|NEXT chapter]] |
 | ------------------------------------------------ | --- | --- | ------------------------------------------ |
 
 ## Contents

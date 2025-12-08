@@ -2,7 +2,7 @@
 tags: [moby-dick, full-text, shownotes, Starbuck]
 ---
 
-| [[🎤021 Moby Full Text Ch 37\|Previous chapter]] |     |     | [[🎤023 Moby Full Text Ch39\|NEXT chapter]] |
+| [[🎤021 Moby Full Text Ch37\|Previous chapter]] |     |     | [[🎤023 Moby Full Text Ch39\|NEXT chapter]] |
 | ------------------------------------------------ | --- | --- | ------------------------------------------- |
 ## Contents
 [[#CHAPTER 38. Dusk.]]
@@ -58,7 +58,7 @@ Love and light ye canna hide. — Hislop. D. ii. 46.
 
 [^1]: Interesting - his soul is a "she"! Is that normal? Like ships are always "she"?
 [^2]: *Ground arms* = stack weapons on the ground, for a drill; lay down arms AND —This is the first time Starbuck has had to face social maneuvering. He's used to reading a whale and responds appropriately. He's used to reading a crew and being a good First Mate. He is NOT used to being matched against a madman who is irrational. There are rules of life that are to be followed and suddenly he's working for a guy who has tossed the rule  book out the window.
-[^3]: Hearkens back to [[🎤021 Moby Full Text Ch 37|Chapter 37]] where Ahab ended talking about trains and rifled mountains where train tunnels are drilled.
+[^3]: Hearkens back to [[🎤021 Moby Full Text Ch37|Chapter 37]] where Ahab ended talking about trains and rifled mountains where train tunnels are drilled.
 [^4]: Oof - like being caught in the harpoon rope and towed by the whale.
 [^5]: Referring to Ahab's "*Who's over me?"* and Starbuck takes that to the next level... you say you're a fair man—a democrat—whereas to anyone beneath you, you're a tyrant. (They, too, needed 360 work reviews in 1850!)
 [^6]: two ways forward - follow orders and rebel inside, and hate Ahab while pitying him at the same time—this is gonna be one miserable voyage for Starbuck.

@@ -6,7 +6,7 @@ VIDEO TIP:[Tatted lace bonnet and family life on a ship in the late 1800s](https
 
 Harold Bloom video: https://youtu.be/xFt59_E_g5s?si=6Tl7uZRlaiyreiOz.  
 
-| [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[🎤024 Moby Full Text Ch 40\|NEXT]] |
+| [[🎤020 Moby Full Text Ch36\|Previous]] |     |     | [[🎤024 Moby Full Text Ch40\|NEXT]] |
 | --------------------------------------- | --- | --- | ---------------------------------- |
 ## Contents
 [[#CHAPTER 39. First Night-Watch.]]
@@ -29,7 +29,7 @@ Ha! ha! ha! ha! hem! clear my throat!—I’ve been thinking over it ever since,
 A brave stave[^2] that—who calls? Mr. Starbuck? Aye, aye, sir—(_Aside_) he’s my superior, he has his too, if I’m not mistaken.—Aye, aye, sir, just through with this job—coming.
 Back to [[#Contents]]
 
-| [[🎤022 Moby Full Text Chs 38]] |     |     | [[🎤024 Moby Full Text Ch 40]] |
+| [[🎤022 Moby Full Text Chs38]] |     |     | [[🎤024 Moby Full Text Ch40]] |
 | ------------------------------- | --- | --- | ------------------------------ |
 
  ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
