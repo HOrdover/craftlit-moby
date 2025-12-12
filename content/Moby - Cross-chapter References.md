@@ -40,12 +40,18 @@ tags: [Oft' Needed References]
 - Episode 014—[[🎤014 Moby Full Text Ch31|Chapter 31]]     
 - Episode 015—[[🎤015 Moby Full Text Ch 32pt1|Chapter 32 pt 1]]     
 - Episode 016—[[🎤016 Moby Full Text Ch32pt2#fn=baleen|Chapter 32 footnote 11]] points to chapter 75 where we learn more about the Right Whale; [[🎤016 Moby Full Text Ch32pt2#brazil|and Footnote 13]] is also mentioned in Chapter 58, [[🎤016 Moby Full Text Ch32pt2#fn-hyena|footnote 26]] is also mentioned in chapter 49.      
-- Episode 017—
-- Episode 018—
-- Episode 019—
-- Episode 020—
+- Episode 017—[[🎤017 Moby Full Text Ch17 The Prophet|Chapter 33, The Prophet]] Elijah, mentioned here, is referred back to, often, importantly in chapter 42-43 (*The Whiteness of the Whale* and *Hark!*)
+- Episode 018—[[🎤018 Moby Full Text Ch34|Chapter 34, The Bosom Friend]]
+- Episode 019—[[🎤019 Moby Full Text Ch35|Chapter 35]]
+- Episode 020—[[🎤020 Moby Full Text Ch36|Chapter 36]]
 - Episode 021—[[🎤021 Moby Full Text Ch37|Chapter 37]]—Refers out to upcoming chapter 44 with *"Damned in the midst of Paradise!"*  see [[🎤021 Moby Full Text Ch37|footnote 4]]
-- 
+- Episode 022—[[🎤022 Moby Full Text Chs38|Chapter 38]]
+- Episode 023—[[🎤023 Moby Full Text Ch39|Chapter 39]]
+- Episode 024—[[🎤024 Moby Full Text Ch40|Chapter 40]]
+- Episode 025—[[🎤025 Moby Full Text Ch41|Chapter 41]] both Job and Leviathan are mentioned in this chapter
+- Episode 026—[[026 Moby Interlude-a Retrospective|Interlude—]]
+- Episode 027—[[027 Moby Full Text Ch42|Chapter 42]]—The Whiteness of the Whale and Hark
+- Episode 028—
 
 
 

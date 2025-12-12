@@ -69,12 +69,12 @@ Here, then, was this grey-headed, ungodly old man, chasing with curses a Job’s
 # Footnotes
 
 [^1]: Clinch: secure a nail by driving it until the point sticks out and then bending the point down with a hammer
-[^2]: haunted: Ishmael’s word and references to the Northwest Passage are adapted in this chapter from John Ramsay McCulloch’s “Commercial Dictionary” and “From ‘Something’ unpublished,” in “Extracts.”
+[^2]: haunted: Ishmael’s word and references to the Northwest Passage are adapted in this chapter from John Ramsay McCulloch’s “Commercial Dictionary” and [[🎤000-MOBY START|“From ‘Something’ unpublished,” in “Extracts.]]
 [^3]: horrify: make more horrific.
 [^4]: foetal=not-yet-born
 [^5]: Olassen and Povelson: Icelandic writers Eggart Ólafsson and Bjarni Pálsson, authors of [_Travels in Iceland_](https://archive.org/details/travelsiniceland00egge) (1805)
 [^6]: the Baron himself: Melville has mixed up his Cuviers. It was Frédéric Cuvier who wrote Of the Natural History of Whales (1836) and not his brother, Baron Georges Cuvier (1769-1832).
-[^7]: most lively terrors: Melville is quoting from Beale, who uses the singular “terror.” Noting that Melville quotes Beale precisely elsewhere in this passage, the editors of the NN Moby-Dick assume that Melville’s “terrors” is an accidental misquoting of Beale’s original “terror.” But both usages have meaning: Beale’s use of the singular universalizes “terror”; whereas Melville’s pluralization suggests individualized terrors specific to different whale encounters. Given that Melville may have intended to revise “terror” to “terrors,” MEL makes no change but calls attention to “terrors” as Melville’s possible rewriting of Beale.
+[^7]: most lively terrors: Melville is quoting from Beale, who uses the singular “terror.” 
 [^8]: gainsaid=denied
 [^9]: Nor' West Passage: William Scoresby (1789-1857) cites accounts of whales crossing from the Atlantic to the Pacific in the Arctic region (vol. 1, ch. 1, 4). A navigable surface connection between the oceans—the often sought for Northwest Passage—did not then exist. Passage first  navigated in 1903-06
 [^10]: The "inland Strello mountain in Portugal (near whose top there was said to be a lake in which the wrecks of ships floated up to the surface)" refers to the Serra de Estrela, but while Wikipedia refers to the legend mentioned by Melville, there is little indication that it exists anywhere _but_ Melville. However, the prodigies or wonders were recounted in the 1692 English translation of Madame D’Aulnoy’s *Relation du Voyage d’Espagne* and I haven't been able to check that source. 
@@ -83,16 +83,16 @@ Here, then, was this grey-headed, ungodly old man, chasing with curses a Job’s
 [^13]: thrown out: alluded to; see Ch. 36.
 [^14]: Shrouded hue: white, the color of a funeral shroud
 [^15]: bruited=gossiped about
-[^16]: line-knife: also called "boat-knife" (see glossary) kept in the bow of the whaleboat for cutting the whale line in an emergency.
+[^16]: line-knife: also called "boat-knife" kept in the bow of the whaleboat for cutting the whale line in an emergency.
 [^17]: Arkansas duellist: Frontier knife-fighter; Melville alludes to the predominantly southern “tall tale” tradition of early American humor (1830–1860) featuring such real and imaginary frontier braggarts and belligerents as Davy Crockett and T. B. Thorpe’s Jim Doggett in “The Big Bear of Arkansas.” However, there was also the [Sandbar Fight,](http://en.wikipedia.org/wiki/Sandbar_Fight) a notorious 1827 post-duel brawl involving Jim Bowie, the inventor of the Bowie knife. Though the fight took place in Mississippi, Bowie had Arkansas connections, and that state was [famous for its duels](http://encyclopediaofarkansas.net/encyclopedia/entry-detail.aspx?entryID=3692)
 [^18]: fell: fierce; cruel.
 [^19]: [Ophites:](http://en.wikipedia.org/wiki/Ophites) a religious sect from about 100 A.D. who believed that the serpent who tempted Adam and Eve was the story's hero, and God its villain.
-[^20]: Lees: residue, such as the sediment at the bottom of a wine barrel
+[^20]: Lees: residue, such as the sediment at the bottom of a wine barrel (Or Miss Tomkinson’s “wine” in *Mr. Harrison’s Confession*)
 [^21]: Mortar: a short gun for firing shells at high angles
 [^22]: Patagonian Cape: [Cape Horn,](http://en.wikipedia.org/wiki/Cape_Horn) in southern Chile (Tierra del Fuego), where the weather is dangerous and unpredictable
 [^23]: Egyptian chest: Like the large chests of ancient Egyptian statues.
-[^24]: stun’sails: From studdingsails and pronounced STUNs'ls, these light sails hung from extensions to both yardarms are used in gentle winds.
-[^25]: The Hudson is REALLY deep in places. The Highland Gorge specifically a deep, narrow 15-mile stretch of the [Hudson River](https://en.wikipedia.org/wiki/Hudson_River) between Peekskill and Newburgh
+[^24]: stun’sails: From studdingsails and pronounced *STUNs'ls*, these light sails hung from extensions to both yardarms are used in gentle winds.
+[^25]: The Hudson is REALLY deep in places. The Highland Gorge specifically a deep, narrow 15-mile stretch of the [Hudson River](https://en.wikipedia.org/wiki/Hudson_River) between Peekskill and Newburgh, just up-river from Croton-on-Hudson.
 [^26]: trope-figure of speech
 [^27]: carried it=conquered it
 [^28]: concentred: concentrated
@@ -104,5 +104,5 @@ Here, then, was this grey-headed, ungodly old man, chasing with curses a Job’s
 [^34]: dissembling = hide true motives
 [^35]: to his perceptibility, not to his will determinate: that is, he could see his deception but not control it.
 [^36]: keyed: locked.
-[^37]: Job’s whale: In Job 41 “leviathan” is unconquerable, fearful to look upon, and “a king over all the children of pride.” The Book of Job is the most heavily marked book in Melville’s Bible, and throughout his long literary life, he frequently used its phraseology and its story of unmerited suffering. 
+[^37]: [[Moby - Cross-chapter References|Job’s whale: In Job 41 “leviathan”]] is unconquerable, fearful to look upon, and “a king over all the children of pride.” The Book of Job is the most heavily marked book in Melville’s Bible, and throughout his long literary life, he frequently used its phraseology and its story of unmerited suffering. 
 [^38]: Skiff: a shallow, flat-bottomed open boat; [Seventy-four:](http://en.wikipedia.org/wiki/Seventy-four_\(ship\)) a type of sailing warship equipped with 74 guns—if you're the skiff, there's no way not to get pulled along.

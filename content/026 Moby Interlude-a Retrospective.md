@@ -1,9 +1,18 @@
 ---
-title: "Moby-Dick Notes (CraftLit Compilation)"
-tags: [Moby-Dick, CraftLit, annotations, summaries, Melville, audiobook]
+title: Moby-Dick Notes (CraftLit Compilation)
+tags:
+  - Moby-Dick
+  - CraftLit
+  - annotations
+  - summaries
+  - Melville
+  - audiobook
 date: 2025-12-08
 ---
-
+https://youtu.be/036faLoT-t0?si=4RCGMSfB2xaAT4PS
+Lego Moby Dick. 
+Sweet!!!
+Full playlist: https://youtube.com/playlist?list=PL_rTWO4UBdL4mIujLsd93KV5O6k9-4bSo&si=UOneih-xuerkGmdC
 # Moby-Dick: CraftLit Notes Compilation
 
 > “Call me Ishmael.” — The simplest, most famous opening line in American literature, immediately situating the reader inside a reflective, almost Biblical tone.  
@@ -161,3 +170,5 @@ date: 2025-12-08
 ---
 
 *Compiled automatically from CraftLit project discussions through December 2025.*
+
+https://youtube.com/watch?v=036faLoT-t0&si=4RCGMSfB2xaAT4PS

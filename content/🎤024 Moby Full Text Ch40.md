@@ -134,9 +134,9 @@ PIP (_shrinking under the windlass_). Jollies? Lord help such jollies! Crish, cr
 # Footnotes
 
 [^1]: Foresail: the principal sail on the mast nearest the front of a ship
-[^2]: The history of the song - oh my goodness
+[^2]: The history of the song - oh my goodness! See below.
 [^3]: Eight Bells - end of watch/midnight
-[^4]: loud mouth. A hogshead is a large cask equaling two barrels or 63 gallons of whale oil.
+[^4]: loud mouth. A *hogshead* is a large cask equaling two barrels or 63 gallons of whale oil.
 [^5]: The men in the starboard watch (“starbowlines” or “starboleens” in sailor speech) are being called to the deck from their off-duty sleep to relieve the larboard (port) watch, but they are slow to appear. 
 [^6]: filliping: stimulating
 [^7]: the Dutch Sailor is giving the next watch grief for moving slowly. He will compare their reluctance to leave their beds to the difficulty of hauling up the lowest level of oil barrels in the hold, and he facetiously advises using the copper pump (meant for pumping whale oil from one barrel to another) as a megaphone. 
