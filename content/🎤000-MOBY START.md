@@ -17,11 +17,14 @@ themes:
 ---
 # Online full-text notes
 **Book Start**
-[[#ETYMOLOGY.]]
+[[#ETYMOLOGY.]] [[#(Supplied by a Late Consumptive Usher to a Grammar School.)]]
+[[#EXTRACTS. (Supplied by a Sub-Sub-Librarian).]]
+[[#Footnotes]]
 
-### Herein Please Find Everything I've Found
+### Herein Please Find All the Notes I've Come Across
+*(I know there are many more out there)*
 
-These are my notes I'm using to record, but also notes of things I chose to leave out (there's JUST SO MUCH). Some of the note text in these files has been directly copied from other websites. I'm not publishing this as original work. It's an amalgam of everything I've found. 
+These footnotes are part of what I've used to record, but they are also notes of things I chose to leave out (there's JUST SO MUCH). Some of the note text in these files has been directly copied from other websites. I'm not publishing this as original work. It's an amalgam of everything I've found. 
 
 I just thought it might be useful for you to have access to. 
 
@@ -76,7 +79,7 @@ The pale Usher—threadbare in coat, heart, body, and brain; I see him now. He w
 
 It will be seen that this mere painstaking burrower and grub-worm of a poor devil of a Sub-Sub appears to have gone through the long Vaticans and street-stalls of the earth, picking up whatever random allusions to whales he could anyways find in any book whatsoever, sacred or profane. Therefore you must not, in every case at least, take the higgledy-piggledy whale statements, however authentic, in these extracts, for veritable gospel cetology[^7]. Far from it. As touching the ancient authors generally, as well as the poets here appearing, these extracts are solely valuable or entertaining, as affording a glancing bird’s eye view of what has been promiscuously said, thought, fancied, and sung of Leviathan, by many nations and generations, including our own.
 
-So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belongest to that hopeless, sallow tribe which no wine of this world will ever warm; and for whom even Pale Sherry[^8] would be too rosy-strong; but with whom one sometimes loves to sit, and feel poor-devilish[^36], too; and grow convivial upon tears; and say to them bluntly, with full eyes and empty glasses, and in not altogether unpleasant sadness—Give it up, Sub-Subs! For by how much the more pains ye take to please the world, by so much the more shall ye for ever go thankless! Would that I could clear out Hampton Court and the Tuileries for ye! But gulp down your tears and hie aloft to the royal-mast with your hearts; for your friends who have gone before are clearing out the seven-storied heavens[^5], and making refugees of long-pampered Gabriel, Michael, and Raphael, against your coming. Here ye strike but splintered hearts together—there, ye shall strike unsplinterable glasses!
+*So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belongest to that hopeless, sallow tribe which no wine of this world will ever warm; and for whom even Pale Sherry[^8] would be too rosy-strong; but with whom one sometimes loves to sit, and feel poor-devilish[^36], too; and grow convivial upon tears; and say to them bluntly, with full eyes and empty glasses, and in not altogether unpleasant sadness—Give it up, Sub-Subs!* For by how much the more pains ye take to please the world, by so much the more shall ye for ever go thankless! Would that I could clear out Hampton Court and the Tuileries for ye! But gulp down your tears and hie aloft to the royal-mast with your hearts; for your friends who have gone before are clearing out the seven-storied heavens[^5], and making refugees of long-pampered Gabriel, Michael, and Raphael, against your coming. Here ye strike but splintered hearts together—there, ye shall strike unsplinterable glasses!
 
 ### EXTRACTS.
 
@@ -320,6 +323,14 @@ Being once pursued by a whale which he had wounded, he parried the assault for s
      And King of the boundless sea.”
       —_Whale Song_.[^35]
 
+
+
+[[#Contents]]
+
+[PREVIOUS chapter]([[MOBY/index|index]])                                                                                  [NEXT chapter]([[🎤001 Moby Full Text-notes|Next Chapter]]) 
+ 
+
+==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
 
 → [Return to Moby-Dick Index](MOBY/index-moby.md)
