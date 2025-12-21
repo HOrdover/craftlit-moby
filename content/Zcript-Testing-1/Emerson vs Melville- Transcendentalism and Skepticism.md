@@ -1,8 +1,14 @@
 ---
-title: Emerson vs Melville: Transcendentalism and Skepticism
-tags: [Transcendentalism, Moby-Dick, Emerson, Melville, American-Romanticism]
-aliases: [Melville's response to Emerson, Emersonian Transcendentalism in Moby-Dick]
-created: 2025-12-15
+title: "Emerson vs Melville: Transcendentalism and Skepticism"
+tags:
+  - "Transcendentalism"
+  - "Moby-Dick"
+  - "Emerson"
+  - "Melville"
+  - "American Literature"
+aliases:
+  - "Melville's response to Emerson"
+  - "Emersonian Transcendentalism"
 ---
 
 # Emerson vs Melville: Transcendentalism and Skepticism
