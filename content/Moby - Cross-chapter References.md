@@ -2,6 +2,10 @@
 tags: [Oft' Needed References]
 ---
 
+
+[FOR LATER how to coil a dock line](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40the.sailing.acade/video/7356630181492297006&ved=2ahUKEwj73di0wY2RAxUgg4kEHfe7Nd04ChC3AnoECBAQAg&usg=AOvVaw22xckweMGTtKUDOrVPF_Lu   ) 
+
+
 - **[The Map of the Pequod's Journey**](http://www.powermobydick.com/images/Path_of_Pequod_full.jpg) - see Chapters 23, 29, 51, 52, 58, 87, 109, 111, 114, 118, 126
 - [[🎤012 Moby Full Text Chs26-28#fn-schematics|Shipboard Schematics]]
 - - found a [very detailed 3-D model of a 19th Century Explorer's sailing ship](https://youtu.be/3pYqXrFx6S8?si=AwlWw1X2gpYwuNuh). It includes exterior, and around 7min it starts showing the interior (including a mispronunciation of fo'c'sle 🤷‍♀️). (Here's the same for an [18th C. Warship](https://youtu.be/3pYqXrFx6S8?si=Ynfy7jdWjbTYbPdq), if you're interested—he's got a lot of cool explainer videos on his channel!)
@@ -49,8 +53,8 @@ tags: [Oft' Needed References]
 - Episode 023—[[🎤023 Moby Full Text Ch39|Chapter 39]]
 - Episode 024—[[🎤024 Moby Full Text Ch40|Chapter 40]]
 - Episode 025—[[🎤025 Moby Full Text Ch41|Chapter 41]] both Job and Leviathan are mentioned in this chapter
-- Episode 026—[[026 Moby Interlude-a Retrospective|Interlude—]]
-- Episode 027—[[027 Moby Full Text Ch42|Chapter 42]]—The Whiteness of the Whale and Hark
+- Episode 026—[[Clippings/Zcript-Testing-1/026 Moby Interlude-a Retrospective|Interlude—]]
+- Episode 027—[[🎤027 Moby Full Text Chs42-43|Chapter 42]]—The Whiteness of the Whale and Hark
 - Episode 028—
 
 

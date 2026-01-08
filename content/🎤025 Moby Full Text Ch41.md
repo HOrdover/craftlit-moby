@@ -3,7 +3,7 @@ tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
 
 
-| [[🎤024 Moby Full Text Ch40]] |     |     | [[026 Moby Interlude-a Retrospective\|NEXT chapter]] |
+| [[🎤024 Moby Full Text Ch40]] |     |     | [[Clippings/Zcript-Testing-1/026 Moby Interlude-a Retrospective\|NEXT chapter]] |
 | ------------------------------ | --- | --- | ------------------------------------------ |
 
 ## Contents
