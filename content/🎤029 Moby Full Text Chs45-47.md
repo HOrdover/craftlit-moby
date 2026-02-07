@@ -2,10 +2,9 @@
 tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
 
-## BJ Starts  008:32.40
+| [[🎤028 Moby Full Text Ch44\|PREVIOUS chapter]] |     |     | [[🎤030 Moby Full Text Chs48-49\|NEXT chapter]] |
+| ----------------------------------------------- | --- | --- | --------------------------------------------- |
 
-| [[🎤027 Moby Full Text Chs42-43\|PREVIOUS chapter]] |     |     | [[029 Moby Full Text Ch 45\|NEXT chapter]] |
-| --------------------------------------------------- | --- | --- | ------------------------------------------ |
 ## Contents
 *(emphasis added by Heather)*
 [[#CHAPTER 45. The Affidavit.]]
@@ -133,8 +132,18 @@ The ship was now kept away from the wind, and she went gently rolling before it.
 
 But at this critical instant a sudden exclamation was heard that took every eye from the whale. With a start all glared at dark Ahab, who was surrounded by five dusky phantoms that seemed fresh formed out of air.
 
+Back to [[#Contents]]
 
-==Da duh ***DA DUM!!!***==
+ ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+
+| [[🎤028 Moby Full Text Ch44\|PREVIOUS chapter]] |     |     | [[🎤030 Moby Full Text Chs48-49\|NEXT chapter]] |
+| ----------------------------------------------- | --- | --- | --------------------------------------------- |
+
+→ [[MOBY/index|Return to Moby-Dick Index]]|
+
+---
+
 # Footnotes
 
 [^1]: Rinaldo Rinaldini: the bandit-hero of a series of German novels very popular around 1800. Rinaldini was a sort of Corsican Robin Hood

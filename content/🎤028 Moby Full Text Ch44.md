@@ -2,8 +2,6 @@
 tags: [moby-dick, full-text, shownotes, Specksynder]
 ---
 
-## BJ Starts  008:19.00
-
 
 | [[🎤027 Moby Full Text Chs42-43\|PREVIOUS chapter]] |     |     | [[029 Moby Full Text Ch 45\|NEXT chapter]] |
 | --------------------------------------------------- | --- | --- | ------------------------------------------ |
@@ -63,7 +61,7 @@ Back to [[#Contents]]
 
  ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
-→ [[MOBY/index|Return to Moby-Dick Index]]|
+→ [[MOBY/index|Return to Moby-Dick Index]]
 
 
 

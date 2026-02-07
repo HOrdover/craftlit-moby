@@ -108,6 +108,11 @@ It was in the midst of this repose, that Archy, one of the cordon, whose post wa
 
 “Tish! the bucket!”
 
+Back to [[#Contents]]
+
+ ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
+
+→ [[MOBY/index|Return to Moby-Dick Index]]|
 
 | [[🎤026 Moby Interlude-a Retrospective\|PREVIOUS episode]] |     |     | [[028 Moby Full Text Ch 44\|NEXT chapter]] |
 | ---------------------------------------------------------- | --- | --- | ------------------------------------------ |
