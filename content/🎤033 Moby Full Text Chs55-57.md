@@ -24,28 +24,6 @@ date modified: Monday, February 9th 2026, 2:06:32 pm
 
 [[#FOOTNOTES]]
 
-- First Melville is going to make fun of people who get it wrong, then he’s gonna explain why they get it wrong, then he’s going to praise the ones who got it right
-- - HOW MANY WHALING BOOKS DID MELVILLE HAVE??!?
-Once again, Melville, Ishmael, is going to overwhelm us with all sorts of details this time from the world of art. I have done my best to fill the show notes with the images that he is referring to, I highly recommend taking a look at them as some of them are absolutely insane. The text of these three chapters however, follows a pretty straightforward pattern that we've seen before. I found that letting the details wash over me while paying attention to the commentary was the best way to listen to/read these chapters.
-
-55 SUMMARY: Melville concludes that the reason why no one had created a satisfactory picture of a whale was because (in his day) portraits of whales were made from dead (beached) whales, as opposed to living creatures.  "The great leviathan," he writes, "is that one creature in the world which must remain unpainted to the last."  The best way to see a whale, he concludes, is to go whaling.
-
-VII. Ishmael’s first pictorial chapter ends his chapter with a warning of sorts:
-
-> For all these reasons, then, any way you may look at it, you must needs conclude that the great Leviathan is that one creature in the world which must remain unpainted to the last. True, one portrait may hit the mark much nearer than another, but none can hit it with any very considerable degree of exactness. So there is no earthly way of finding out precisely what the whale really looks like. And the only mode in which you can derive even a tolerable idea of his living contour, is by going a whaling yourself; but by so doing, you run no small risk of being eternally stove and sunk by him. Wherefore, it seems to me you had best not be too fastidious in your curiosity touching this Leviathan.
-
-Ishmael’s warning points—again—to _The Pequod’s_ impending doom.
-
-56 SUMMARY: As the lengthy title suggests, this chapter gives a few examples of artistic renderings of whales that are more life-like (i.e. less erroneous) than the pictures listed in the previous chapter.  Here are some of them.
-
-57 SUMMARY: In this chapter, the author continues describing artistic representations of whales.  While the previous two chapters focused on published works of fine art, this one focuses more on what might be called "folk art" representations of whales, of which here are a few examples:
-
-X. These three chapters end with Ishmael’s reaffirmation to go a’whaliln’ — to _see for himself_, and not through, to quote Walt Whitman, “take things at second or third hand, not look through the eyes of the dead, nor feed on the spectres in books.”
-
-Our boy Ish ends the chapter horny for life:
-
-> With a frigate’s anchors for my bridle-bitts and fasces of harpoons for spurs, would I could mount that whale and leap the topmost skies, to see whether the fabled heavens with all their countless tents really lie encamped beyond my mortal sight!
-
 ## ## CHAPTER 55. Of the Monstrous Pictures of Whales.
 
 I shall ere long paint to you as well as one can without canvas, something like the true form of the whale as he actually appears to the eye of the whaleman when in his own absolute body the whale is moored alongside the whale-ship so that he can be fairly stepped upon there. It may be worth while, therefore, previously to advert to those curious imaginary portraits of him which even down to the present day confidently challenge the faith of the landsman. It is time to set the world right in this matter, by proving such pictures of the whale all wrong.

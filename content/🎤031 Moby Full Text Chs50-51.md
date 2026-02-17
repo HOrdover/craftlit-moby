@@ -11,7 +11,7 @@ tags:
 [Capstan](https://youtu.be/Q8KbYXSCQTo?si=Yhp1n_hVQRR2gFqo): weighing anchor
 [Furling Sails](https://youtu.be/qYi6GTFKp1U?si=QZjTmCNbPsmroh9g)
 [storm, 'tgallant sail furled](https://youtu.be/VouKKOb0Ih8?si=xfuFpTTytCPt_Iyb)
-## BJ Starts at 30:45
+
 
 | [[🎤030 Moby Full Text Chs48-49\|PREVIOUS]] |     |     | [[031 Moby Full Text Ch 50\|NEXT chapter]] |
 | ----------------------------------------- | --- | --- | ------------------------------------------ |

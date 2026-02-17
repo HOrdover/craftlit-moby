@@ -13,17 +13,12 @@ date created: Monday, February 16th 2026, 10:21 am
 
 | [[🎤032 Moby Full Text Chs52-54\|PREVIOUS]] |     |     | [[034 Moby Full Text Ch 58\|NEXT chapter]] |
 | ------------------------------------------- | --- | --- | ------------------------------------------ |
+You may want to refer to **[the Pequod's Map](http://www.powermobydick.com/images/Path_of_Pequod_full.jpg)** for this one
 
 ## Contents
 [[#CHAPTER 58. Brit.]]
 [[#CHAPTER 59. Squid.]]
 [[#Footnotes]]
-
-THIS WEEK - we've had some goofy fun with whale imagery from the inacurate to the sublime.  Little Pequod update (near the Crozettes), then a big of a think on whaling lore, then DRAMA, b/c I don't want to mislead you - this shit in the ocean can kill you but good. 
-It may LOOK like goats mowing a lawn...but it's NOT that benign. In fact, NOTHING in the ocean is!
-
-Let me show you (next chapter) and example of some seriously scary shit!
-
 
 ## CHAPTER 58. Brit.[^1]
 
