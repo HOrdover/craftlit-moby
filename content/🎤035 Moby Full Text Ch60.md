@@ -78,8 +78,7 @@ Perhaps a very little thought will now enable you to account for those repeated 
 Again: as the profound calm which only apparently precedes and prophesies of the storm, is perhaps more awful than the storm itself; for, indeed, the calm is but the wrapper and envelope of the storm; and contains it in itself, as the seemingly harmless rifle holds the fatal powder, and the ball, and the explosion; so the graceful repose of the line, as it silently serpentines about the oarsmen before being brought into actual play—this is a thing which carries more of true terror than any other aspect of this dangerous affair. But why say more? All men live enveloped in whale-lines. All are born with halters round their necks;[^23] but it is only when caught in the swift, sudden turn of death, that mortals realize the silent, subtle, ever-present perils of life. And if you be a philosopher, though seated in the whale-boat, you would not at heart feel one whit more of terror, than though seated before your evening fire with a poker, and not a harpoon, by your side.
 
 ![[Pasted image 20260223110125.png]]
-
-[Great details about why this was all so important](https://www.sj-costello.com/essays/2023/6/1/whalecraft?utm_source=chatgpt.com)
+[Great details here about why this was all so important, from S.J. Costello](https://www.sj-costello.com/essays/2023/6/1/whalecraft?utm_source=chatgpt.com)
 
 ![[Pasted image 20260223105611.jpg]]
 
