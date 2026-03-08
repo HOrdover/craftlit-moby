@@ -15,8 +15,8 @@ date modified: Monday, March 2nd 2026, 9:15:32 am
 
 Nantuckett Whaling Museum docent [explains what happens in Ch 61](https://youtu.be/0GnqttfOCrw?si=djuunDy5vQv4_r5v&t=1146))
 
-| [[🎤034 Moby Full Text Chs58-59\|PREVIOUS]] |     |     | [[IMG_3036.jpeg\|NEXT chapter]] |
-| ------------------------------------------- | --- | --- | ------------------------------- |
+| [[🎤035 Moby Full Text Ch60\|PREVIOUS]] |     |     | [[IMG_3036.jpeg\|NEXT chapter]] |
+| --------------------------------------- | --- | --- | ------------------------------- |
 
 ## Contents
 

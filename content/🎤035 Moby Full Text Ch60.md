@@ -8,8 +8,8 @@ date created: Monday, February 16th 2026, 10:19:49 am
 date modified: Wednesday, February 25th 2026, 3:15:32 pm
 ---
 
-| [[🎤034 Moby Full Text Chs58-59\|PREVIOUS]] |     |     | [[IMG_3036.jpeg\|NEXT chapter]] |
-| ------------------------------------------- | --- | --- | ------------------------------- |
+| [[🎤034 Moby Full Text Chs58-59\|PREVIOUS]] |     |     | [[🎤036 Moby Full Text Chs 61-63\|NEXT chapter]] |
+| ------------------------------------------- | --- | --- | ------------------------------------------------ |
 
 You may want to refer to several videos for this one if you’re not watching. the video version of this episode. One that isn't mentioned but might be of interest is a [1940-49 video on whaling.](https://teamcraftlit.slack.com/archives/C08R9317ZF0/p1771786562434039) I
 
