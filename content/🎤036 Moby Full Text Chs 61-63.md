@@ -21,11 +21,8 @@ Nantuckett Whaling Museum docent [explains what happens in Ch 61](https://youtu.
 ## Contents
 
 [[#CHAPTER 61. Stubb Kills a Whale.]]
-
 [[#CHAPTER 62. The Dart.]]
-
 [[#CHAPTER 63. The Crotch.]]
-
 [[#Footnotes]]
 
 ## CHAPTER 61. Stubb Kills a Whale.
