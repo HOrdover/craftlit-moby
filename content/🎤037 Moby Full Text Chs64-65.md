@@ -9,8 +9,8 @@ date created: Monday, February 16th 2026, 10:19:49 am
 date modified: Monday, March 2nd 2026, 9:15:32 am
 ---
 
-| [[🎤034 Moby Full Text Chs58-59\|PREVIOUS]] |     |     | [[IMG_3036.jpeg\|NEXT chapter]] |
-| ------------------------------------------- | --- | --- | ------------------------------- |
+| [[🎤036 Moby Full Text Chs 61-63\|PREVIOUS]] |     |     | [[media/0385a1dd-2db3-4143-b0bd-f573e1e4a4d8.jpg\|NEXT chapter]] |
+| -------------------------------------------- | --- | --- | ---------------------------------------------------------------- |
 
 ## Contents
 
@@ -19,22 +19,19 @@ date modified: Monday, March 2nd 2026, 9:15:32 am
 [[#Footnotes]]
 
 
-The big question: I hate stubb for being a cruel, toxic man and a racist ass. BUT Would Melville’s readers have seen it that way?
-Ignoring ethnographers reliance on things like this - carefully done - is one of the reasons we know about black English. AND if you can’t see Fleece’s humanity THROUGH the dialect (or Jim’s) then Melville’s dialect isn’t the problem. If you can’t see that there’s no difference between Stubb’s raw steak and his tormenting of Fleece with the Sharks eating raw whale and tormenting Stubb, then, again, the problem is you.
-
 ## CHAPTER 64. Stubb’s Supper.
 
-Stubb’s whale had been killed some distance from the ship. It was a calm; so, forming a tandem of three boats, we commenced the slow business of towing the trophy to the Pequod. And now, as we eighteen men with our thirty-six arms, and one hundred and eighty thumbs and fingers, slowly toiled hour after hour upon that inert, sluggish corpse in the sea; and it seemed hardly to budge at all, except at long intervals; good evidence was hereby furnished of the enormousness of the mass we moved. For, upon the great canal of Hang-Ho, or whatever they call it, in China, four or five laborers on the foot-path will draw a bulky freighted junk at the rate of a mile an hour; but this grand argosy we towed heavily forged along, as if laden with pig-lead in bulk.
+Stubb’s whale had been killed some distance from the ship. It was a calm; so, forming a tandem of three boats, we commenced the slow business of towing the trophy to the Pequod. And now, as we eighteen men with our thirty-six arms, and one hundred and eighty thumbs and fingers, slowly toiled hour after hour upon that inert, sluggish corpse in the sea; and it seemed hardly to budge at all, except at long intervals; good evidence was hereby furnished of the enormousness of the mass we moved. For, upon the great canal of Hang-Ho[^1], or whatever they call it, in China, four or five laborers on the foot-path will draw a bulky freighted junk at the rate of a mile an hour; but this grand argosy we towed heavily forged along, as if laden with pig-lead[^2] in bulk.
 
 Darkness came on; but three lights up and down in the Pequod’s main-rigging dimly guided our way; till drawing nearer we saw Ahab dropping one of several more lanterns over the bulwarks. Vacantly eyeing the heaving whale for a moment, he issued the usual orders for securing it for the night, and then handing his lantern to a seaman, went his way into the cabin, and did not come forward again until morning.
 
-Though, in overseeing the pursuit of this whale, Captain Ahab had evinced his customary activity, to call it so; yet now that the creature was dead, some vague dissatisfaction, or impatience, or despair, seemed working in him; as if the sight of that dead body reminded him that Moby Dick was yet to be slain; and though a thousand other whales were brought to his ship, all that would not one jot advance his grand, monomaniac object. Very soon you would have thought from the sound on the Pequod’s decks, that all hands were preparing to cast anchor in the deep; for heavy chains are being dragged along the deck, and thrust rattling out of the port-holes. But by those clanking links, the vast corpse itself, not the ship, is to be moored. Tied by the head to the stern, and by the tail to the bows, the whale now lies with its black hull close to the vessel’s and seen through the darkness of the night, which obscured the spars and rigging aloft, the two—ship and whale, seemed yoked together like colossal bullocks, whereof one reclines while the other remains standing.*
+Though, in overseeing the pursuit of this whale, Captain Ahab had evinced his customary activity, to call it so; yet now that the creature was dead, some vague dissatisfaction, or impatience, or despair, seemed working in him; as if the sight of that dead body reminded him that Moby Dick was yet to be slain; and though a thousand other whales were brought to his ship, all that would not one jot advance his grand, monomaniac object. Very soon you would have thought from the sound on the Pequod’s decks, that all hands were preparing to cast anchor in the deep; for heavy chains are being dragged along the deck, and thrust rattling out of the port-holes. But by those clanking links, the vast corpse itself, not the ship, is to be moored. Tied by the head to the stern, and by the tail to the bows, the whale now lies with its black hull close to the vessel’s and seen through the darkness of the night, which obscured the spars and rigging aloft, the two—ship and whale, seemed yoked together like colossal bullocks,[^3] whereof one reclines while the other remains standing.*
 
 *A little item may as well be related here. The strongest and most reliable hold which the ship has upon the whale when moored alongside, is by the flukes or tail; and as from its greater density that part is relatively heavier than any other (excepting the side-fins), its flexibility even in death, causes it to sink low beneath the surface; so that with the hand you cannot get at it from the boat, in order to put the chain round it. But this difficulty is ingeniously overcome: a small, strong line is prepared with a wooden float at its outer end, and a weight in its middle, while the other end is secured to the ship. By adroit management the wooden float is made to rise on the other side of the mass, so that now having girdled the whale, the chain is readily made to follow suit; and being slipped along the body, is at last locked fast round the smallest part of the tail, at the point of junction with its broad flukes or lobes.
 
 If moody Ahab was now all quiescence, at least so far as could be known on deck, Stubb, his second mate, flushed with conquest, betrayed an unusual but still good-natured excitement. Such an unwonted bustle was he in that the staid Starbuck, his official superior, quietly resigned to him for the time the sole management of affairs. One small, helping cause of all this liveliness in Stubb, was soon made strangely manifest. Stubb was a high liver; he was somewhat intemperately fond of the whale as a flavorish thing to his palate.
 
-“A steak, a steak, ere I sleep! You, Daggoo! overboard you go, and cut me one from his small!”
+“A steak, a steak, ere I sleep! You, Daggoo! overboard you go, and cut me one from his small!”[^4]
 
 Here be it known, that though these wild fishermen do not, as a general thing, and according to the great military maxim, make the enemy defray the current expenses of the war (at least before realizing the proceeds of the voyage), yet now and then you find some of these Nantucketers who have a genuine relish for that particular part of the Sperm Whale designated by Stubb; comprising the tapering extremity of the body.
 
@@ -46,9 +43,9 @@ But, as yet, Stubb heeded not the mumblings of the banquet that was going on so 
 
 “Cook, cook!—where’s that old Fleece?” he cried at length, widening his legs still further, as if to form a more secure base for his supper; and, at the same time darting his fork into the dish, as if stabbing with his lance; “cook, you cook!—sail this way, cook!”
 
-The old black, not in any very high glee at having been previously roused from his warm hammock at a most unseasonable hour, came shambling along from his galley, for, like many old blacks, there was something the matter with his knee-pans, which he did not keep well scoured like his other pans; this old Fleece, as they called him, came shuffling and limping along, assisting his step with his tongs, which, after a clumsy fashion, were made of straightened iron hoops; this old Ebony floundered along, and in obedience to the word of command, came to a dead stop on the opposite side of Stubb’s sideboard; when, with both hands folded before him, and resting on his two-legged cane, he bowed his arched back still further over, at the same time sideways inclining his head, so as to bring his best ear into play.
+The old black, not in any very high glee at having been previously roused from his warm hammock at a most unseasonable hour, came shambling along from his galley, for, like many old blacks, there was something the matter with his knee-pans,[^5] which he did not keep well scoured like his other pans; this old Fleece, as they called him, came shuffling and limping along, assisting his step with his tongs, which, after a clumsy fashion, were made of straightened iron hoops; this old Ebony floundered along, and in obedience to the word of command, came to a dead stop on the opposite side of Stubb’s sideboard; when, with both hands folded before him, and resting on his two-legged cane, he bowed his arched back still further over, at the same time sideways inclining his head, so as to bring his best ear into play.
 
-“Cook,” said Stubb, rapidly lifting a rather reddish morsel to his mouth, “don’t you think this steak is rather overdone? You’ve been beating this steak too much, cook; it’s too tender. Don’t I always say that to be good, a whale-steak must be tough? There are those sharks now over the side, don’t you see they prefer it tough and rare? What a shindy they are kicking up! Cook, go and talk to ’em; tell ’em they are welcome to help themselves civilly, and in moderation, but they must keep quiet. Blast me, if I can hear my own voice. Away, cook, and deliver my message. Here, take this lantern,” snatching one from his sideboard; “now then, go and preach to ’em!”
+“Cook,” said Stubb, rapidly lifting a rather reddish morsel to his mouth, “don’t you think this steak is rather overdone? You’ve been beating this steak too much, cook; it’s too tender. Don’t I always say that to be good, a whale-steak must be tough? There are those sharks now over the side, don’t you see they prefer it tough and rare? What a shindy[^6] they are kicking up! Cook, go and talk to ’em; tell ’em they are welcome to help themselves civilly, and in moderation, but they must keep quiet. Blast me, if I can hear my own voice. Away, cook, and deliver my message. Here, take this lantern,” snatching one from his sideboard; “now then, go and preach to ’em!”
 
 Sullenly taking the offered lantern, old Fleece limped across the deck to the bulwarks; and then, with one hand dropping his light low over the sea, so as to get a good view of his congregation, with the other hand he solemnly flourished his tongs, and leaning far over the side in a mumbling voice began addressing the sharks, while Stubb, softly crawling behind, overheard all that was said.
 
@@ -96,7 +93,7 @@ Upon this, Fleece, holding both hands over the fishy mob, raised his shrill voic
 
 “And you have lived in this world hard upon one hundred years, cook, and don’t know yet how to cook a whale-steak?” rapidly bolting another mouthful at the last word, so that morsel seemed a continuation of the question. “Where were you born, cook?”
 
-“’Hind de hatchway, in ferry-boat, goin’ ober de Roanoke.”
+“’Hind de hatchway, in ferry-boat, goin’ ober de Roanoke.”[^7]
 
 “Born in a ferry-boat! That’s queer, too. But I want to know what country you were born in, cook!”
 
@@ -112,7 +109,7 @@ Faintly smacking his withered lips over it for a moment, the old negro muttered,
 
 “Cook,” said Stubb, squaring himself once more; “do you belong to the church?”
 
-“Passed one once in Cape-Down,” said the old man sullenly.
+“Passed one once in Cape-Down,”[^8] said the old man sullenly.
 
 “And you have once in your life passed a holy church in Cape-Town, where you doubtless overheard a holy parson addressing his hearers as his beloved fellow-creatures, have you, cook! And yet you come here, and tell me such a dreadful lie as you did just now, eh?” said Stubb. “Where do you expect to go to, cook?”
 
@@ -122,7 +119,7 @@ Faintly smacking his withered lips over it for a moment, the old negro muttered,
 
 “When dis old brack man dies,” said the negro slowly, changing his whole air and demeanor, “he hisself won’t go nowhere; but some bressed angel will come and fetch him.”
 
-“Fetch him? How? In a coach and four, as they fetched Elijah? And fetch him where?”
+“Fetch him? How? In a coach and four, as they fetched Elijah?[^9] And fetch him where?”
 
 “Up dere,” said Fleece, holding his tongs straight over his head, and keeping it there very solemnly.
 
@@ -130,7 +127,7 @@ Faintly smacking his withered lips over it for a moment, the old negro muttered,
 
 “Didn’t say dat t’all,” said Fleece, again in the sulks.
 
-“You said up there, didn’t you? and now look yourself, and see where your tongs are pointing. But, perhaps you expect to get into heaven by crawling through the lubber’s hole, cook; but, no, no, cook, you don’t get there, except you go the regular way, round by the rigging. It’s a ticklish business, but must be done, or else it’s no go. But none of us are in heaven yet. Drop your tongs, cook, and hear my orders. Do ye hear? Hold your hat in one hand, and clap t’other a’top of your heart, when I’m giving my orders, cook. What! that your heart, there?—that’s your gizzard! Aloft! aloft!—that’s it—now you have it. Hold it there now, and pay attention.”
+“You said up there, didn’t you? and now look yourself, and see where your tongs are pointing. But, perhaps you expect to get into heaven by crawling through the lubber’s hole,[^10] cook; but, no, no, cook, you don’t get there, except you go the regular way, round by the rigging. It’s a ticklish business, but must be done, or else it’s no go. But none of us are in heaven yet. Drop your tongs, cook, and hear my orders. Do ye hear? Hold your hat in one hand, and clap t’other a’top of your heart, when I’m giving my orders, cook. What! that your heart, there?—that’s your gizzard! Aloft! aloft!—that’s it—now you have it. Hold it there now, and pay attention.”
 
 “All ’dention,” said the old black, with both hands placed as desired, vainly wriggling his grizzled head, as if to get both ears in front at one and the same time.
 
@@ -166,4 +163,15 @@ But Stubb, he eats the whale by its own light, does he? and that is adding insul
 ---
 
 ## Footnotes
+# Footnotes
 
+[^1]: Hang Ho: the [Grand Canal](http://en.wikipedia.org/wiki/Grand_Canal_%28China%29) in eastern China
+[^2]: https://image.made-in-china.com/2f0j00awJioqTdHQzt/China-Factory-Supplier-High-Purity-Lead-Ingot-99-99-Lead-Bar-Lead-Ingots.webp
+[^3]: Bullock: a castrated bull, a steer
+[^4]: Small: the part of the tail just before the flukes
+[^5]: Knee-pans: kneecaps
+[^6]: Shindy: commotion, uproar
+[^7]: Roanoke: the [Roanoke River](http://en.wikipedia.org/wiki/Roanoke_River) in southern Virginia
+[^8]: Cape-Down: [Cape Town, South Africa](http://en.wikipedia.org/wiki/Capetown)
+[^9]: As they fetched Elijah: in [2 Kings 2:11,](http://www.blueletterbible.org/Bible.cfm?b=2Ki&c=2&v=11&t=KJV#11) horses of fire and a chariot of fire appear, and then the prophet Elijah is taken up into heaven in a whirlwind
+[^10]: Lubber's hole: a hole in the platform at the top of a mast, used by inexperienced sailors to climb up onto the platform. Experienced sailors would climb over the outside edge of the platform
