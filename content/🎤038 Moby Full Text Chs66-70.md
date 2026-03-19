@@ -21,63 +21,31 @@ date modified: Monday, March 16th 2026, 10:15:32 am
 [[#CHAPTER 70. The Sphynx.]]
 [[#FOOTNOTES]]
 
-![[IMG_9029.jpeg]]
-
-![[IMG_9028.jpeg]]
-
-![[IMG_9027.jpeg]]
-
-![[IMG_9030.jpeg]]
-
-![[IMG_9032.jpeg]]
-
-![[IMG_9031.jpeg]]
-
-![[IMG_9033.jpeg]]
-
-![[IMG_9034.jpeg]]
-
-![[IMG_9035.jpeg]]
-
-![[IMG_9035.jpeg]]
-
-![[IMG_9036.jpg]]
-
-![[IMG_9037.jpeg]]
-
-![[IMG_9038.jpeg]]
-
-![[IMG_9039.jpg]]
-
-![[IMG_9040.jpeg]]
 
 
-![[IMG_9041.jpg]]
-
-![[IMG_9042.jpeg]]
-
-![[IMG_9043.jpeg]]
-
-![[IMG_9044.jpeg]]
+![[Pasted image 20260318230656.png]]
 ## CHAPTER 66. The Shark Massacre.
 
 When in the Southern Fishery, a captured Sperm Whale, after long and weary toil, is brought alongside late at night, it is not, as a general thing at least, customary to proceed at once to the business of cutting him in. For that business is an exceedingly laborious one; is not very soon completed; and requires all hands to set about it. Therefore, the common usage is to take in all sail; lash the helm a’lee;[^1] and then send every one below to his hammock till daylight, with the reservation that, until that time, anchor-watches shall be kept; that is, two and two for an hour, each couple, the crew in rotation shall mount the deck to see that all goes well.
 
-But sometimes, especially upon the Line in the Pacific, this plan will not answer at all; because such incalculable hosts of sharks gather round the moored carcase, that were he left so for six hours, say, on a stretch, little more than the skeleton would be visible by morning. In most other parts of the ocean, however, where these fish do not so largely abound, their wondrous voracity can be at times considerably diminished, by vigorously stirring them up with sharp whaling-spades,[^2] a procedure notwithstanding, which, in some instances, only seems to tickle them into still greater activity. But it was not thus in the present case with the Pequod’s sharks; though, to be sure, any man unaccustomed to such sights, to have looked over her side that night, would have almost thought the whole round sea was one huge cheese, and those sharks the maggots in it.
+But sometimes, especially upon the Line in the Pacific, this plan will not answer at all; because such incalculable hosts of [sharks gather round the moored carcase](https://www.nationalgeographic.com/animals/article/video-great-white-shark-scavenges-humpback-whale-scarlet), that were he left so for six hours, say, on a stretch, little more than the skeleton would be visible by morning. In most other parts of the ocean, however, where these fish do not so largely abound, their wondrous voracity can be at times considerably diminished, by vigorously stirring them up with sharp whaling-spades,[^2] a procedure notwithstanding, which, in some instances, only seems to tickle them into still greater activity. But it was not thus in the present case with the Pequod’s sharks; though, to be sure, any man unaccustomed to such sights, to have looked over her side that night, would have almost thought the whole round sea was one huge cheese, and those sharks the maggots in it.
 
-Nevertheless, upon Stubb setting the anchor-watch after his supper was concluded; and when, accordingly, Queequeg and a forecastle seaman came on deck, no small excitement was created among the sharks; for immediately suspending the cutting stages[^3] over the side, and lowering three lanterns, so that they cast long gleams of light over the turbid sea, these two mariners, darting their long whaling-spades, kept up an incessant murdering of the sharks,* by striking the keen steel deep into their skulls, seemingly their only vital part. But in the foamy confusion of their mixed and struggling hosts, the marksmen could not always hit their mark; and this brought about new revelations of the incredible ferocity of the foe. They viciously snapped, not only at each other’s disembowelments, but like flexible bows, bent round, and bit their own; till those entrails seemed swallowed over and over again by the same mouth, to be oppositely voided by the gaping wound. Nor was this all. It was unsafe to meddle with the corpses and ghosts of these creatures. A sort of generic or Pantheistic vitality seemed to lurk in their very joints and bones, after what might be called the individual life had departed. Killed and hoisted on deck for the sake of his skin, one of these sharks almost took poor Queequeg’s hand off, when he tried to shut down the dead lid of his murderous jaw.
+Nevertheless, upon Stubb setting the anchor-watch after his supper was concluded; and when, accordingly, Queequeg and a forecastle seaman came on deck, no small excitement was created among the sharks; for immediately suspending the cutting stages[^3]  ![[Pasted image 20260318230241.png]]over the side, and lowering three lanterns, so that they cast long gleams of light over the turbid sea, these two mariners, darting their long whaling-spades, kept up an incessant murdering of the sharks,‡ ![[LancesIrons.jpeg]]
+by striking the keen steel deep into their skulls, seemingly their only vital part. But in the foamy confusion of their mixed and struggling hosts, the marksmen could not always hit their mark; and this brought about new revelations of the incredible ferocity of the foe. They viciously snapped, not only at each other’s disembowelments, but like flexible bows, bent round, and bit their own; till those entrails seemed swallowed over and over again by the same mouth, to be oppositely voided by the gaping wound. Nor was this all. It was unsafe to meddle with the corpses and ghosts of these creatures. A sort of generic or Pantheistic vitality seemed to lurk in their very joints and bones, after what might be called the individual life had departed. Killed and hoisted on deck for the sake of his skin, one of these sharks almost took poor Queequeg’s hand off, when he tried to shut down the dead lid of his murderous jaw.
 
-*The whaling-spade used for cutting-in is made of the very best steel; is about the bigness of a man’s spread hand; and in general shape, corresponds to the garden implement after which it is named; only its sides are perfectly flat, and its upper end considerably narrower than the lower. This weapon is always kept as sharp as possible; and when being used is occasionally honed, just like a razor. In its socket, a stiff pole, from twenty to thirty feet long, is inserted for a handle.
+‡*The whaling-spade used for cutting-in is made of the very best steel; is about the bigness of a man’s spread hand; and in general shape, corresponds to the garden implement after which it is named; only its sides are perfectly flat, and its upper end considerably narrower than the lower. This weapon is always kept as sharp as possible; and when being used is occasionally honed, just like a razor. In its socket, a stiff pole, from twenty to thirty feet long, is inserted for a handle.
 
 “Queequeg no care what god made him shark,” said the savage, agonizingly lifting his hand up and down; “wedder Fejee god or Nantucket god; but de god wat made shark must be one dam Ingin.”[^4]
 
-## CHAPTER 67. Cutting In.
+## CHAPTER 67. [Cutting In](https://whalesite.org/anthology/1903_Hutchinson.htm).
 
 It was a Saturday night, and such a Sabbath as followed! Ex officio professors of Sabbath breaking are all whalemen.[^5] The ivory Pequod[^6] was turned into what seemed a shamble;[^7] every sailor a butcher. You would have thought we were offering up ten thousand red oxen to the sea gods.
+![[Pasted image 20260318230811.png]]
+In the first place, the enormous cutting tackles,[^8] among other ponderous things comprising a cluster of blocks generally painted green,[^9] and which no single man can possibly lift—this vast bunch of grapes was swayed up to the main-top and firmly lashed to the lower mast-head, the strongest point anywhere above a ship’s deck. The end of the hawser-like rope[^10] winding through these intricacies, was then conducted to the windlass, and the huge lower block of the tackles was swung over the whale; to this block the great blubber hook,[^11] weighing some one hundred pounds, was attached. ![[Blubber Hooks.jpeg]]
+And now suspended in stages over the side, Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body for the insertion of the hook just above the nearest of the two side-fins. This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass. When instantly, the entire ship careens over on her side; every bolt in her starts like the nail-heads of an old house in frosty weather; she trembles, quivers, and nods her frighted mast-heads to the sky. More and more she leans over to the whale, while every gasping heave of the windlass is answered by a helping heave from the billows; till at last, a swift, startling snap is heard; with a great swash the ship rolls upwards and backwards from the whale, and the triumphant tackle rises into sight dragging after it the disengaged semicircular end of the first strip of blubber. Now as the blubber envelopes the whale precisely as the rind does an orange, so is it stripped off from the body precisely as an orange is sometimes stripped by spiralizing it. For the strain constantly kept up by the windlass continually keeps the whale rolling over and over in the water, and as the blubber in one strip uniformly peels off along the line called the “scarf,” simultaneously cut by the spades of Starbuck and Stubb, the mates;![[Pasted image 20260318225457.png]] and just as fast as it is thus peeled off, and indeed by that very act itself, it is all the time being hoisted higher and higher aloft till its upper end grazes the main-top; the men at the windlass then cease heaving, and for a moment or two the prodigious blood-dripping mass sways to and fro as if let down from the sky, and every one present must take good heed to dodge it when it swings, else it may box his ears and pitch him headlong overboard.
 
-In the first place, the enormous cutting tackles,[^8] among other ponderous things comprising a cluster of blocks generally painted green,[^9] and which no single man can possibly lift—this vast bunch of grapes was swayed up to the main-top and firmly lashed to the lower mast-head, the strongest point anywhere above a ship’s deck. The end of the hawser-like rope[^10] winding through these intricacies, was then conducted to the windlass, and the huge lower block of the tackles was swung over the whale; to this block the great blubber hook,[^11] weighing some one hundred pounds, was attached. And now suspended in stages over the side, Starbuck and Stubb, the mates, armed with their long spades, began cutting a hole in the body for the insertion of the hook just above the nearest of the two side-fins. This done, a broad, semicircular line is cut round the hole, the hook is inserted, and the main body of the crew striking up a wild chorus, now commence heaving in one dense crowd at the windlass. When instantly, the entire ship careens over on her side; every bolt in her starts like the nail-heads of an old house in frosty weather; she trembles, quivers, and nods her frighted mast-heads to the sky. More and more she leans over to the whale, while every gasping heave of the windlass is answered by a helping heave from the billows; till at last, a swift, startling snap is heard; with a great swash the ship rolls upwards and backwards from the whale, and the triumphant tackle rises into sight dragging after it the disengaged semicircular end of the first strip of blubber. Now as the blubber envelopes the whale precisely as the rind does an orange, so is it stripped off from the body precisely as an orange is sometimes stripped by spiralizing it. For the strain constantly kept up by the windlass continually keeps the whale rolling over and over in the water, and as the blubber in one strip uniformly peels off along the line called the “scarf,” simultaneously cut by the spades of Starbuck and Stubb, the mates; and just as fast as it is thus peeled off, and indeed by that very act itself, it is all the time being hoisted higher and higher aloft till its upper end grazes the main-top; the men at the windlass then cease heaving, and for a moment or two the prodigious blood-dripping mass sways to and fro as if let down from the sky, and every one present must take good heed to dodge it when it swings, else it may box his ears and pitch him headlong overboard.
-
-One of the attending harpooneers now advances with a long, keen weapon called a boarding-sword,[^12] and watching his chance he dexterously slices out a considerable hole in the lower part of the swaying mass. Into this hole, the end of the second alternating great tackle is then hooked so as to retain a hold upon the blubber, in order to prepare for what follows. Whereupon, this accomplished swordsman, warning all hands to stand off, once more makes a scientific dash at the mass, and with a few sidelong, desperate, lunging slicings, severs it completely in twain; so that while the short lower part is still fast, the long upper strip, called a blanket-piece,[^13] swings clear, and is all ready for lowering. The heavers forward now resume their song, and while the one tackle is peeling and hoisting a second strip from the whale, the other is slowly slackened away, and down goes the first strip through the main hatchway right beneath, into an unfurnished parlor called the blubber-room. Into this twilight apartment sundry nimble hands keep coiling away the long blanket-piece as if it were a great live mass of plaited serpents. And thus the work proceeds; the two tackles hoisting and lowering simultaneously; both whale and windlass heaving, the heavers singing, the blubber-room gentlemen coiling, the mates scarfing, the ship straining, and all hands swearing occasionally, by way of assuaging the general friction.
+One of the attending harpooneers now advances with a long, keen weapon called a boarding-sword,[^12] and watching his chance he dexterously slices out a considerable hole in the lower part of the swaying mass. Into this hole, the end of the second alternating great tackle is then hooked so as to retain a hold upon the blubber, in order to prepare for what follows. Whereupon, this accomplished swordsman, warning all hands to stand off, once more makes a scientific dash at the mass, and with a few sidelong, desperate, lunging slicings, severs it completely in twain; so that while the short lower part is still fast, the long upper strip, called a blanket-piece,[^13] swings clear, and is all ready for lowering. ![[peeling a blanket.jpeg]]
+The heavers forward now resume their song, and while the one tackle is peeling and hoisting a second strip from the whale, the other is slowly slackened away, and down goes the first strip through the main hatchway right beneath, into an unfurnished parlor called the blubber-room. Into this twilight apartment sundry nimble hands keep coiling away the long blanket-piece as if it were a great live mass of plaited serpents. And thus the work proceeds; the two tackles hoisting and lowering simultaneously; both whale and windlass heaving, the heavers singing, the blubber-room gentlemen coiling, the mates scarfing, the ship straining, and all hands swearing occasionally, by way of assuaging the general friction.
 
 
 
@@ -85,8 +53,7 @@ One of the attending harpooneers now advances with a long, keen weapon called a 
 
 I have given no small attention to that not unvexed subject, the skin of the whale. I have had controversies about it with experienced whalemen afloat, and learned naturalists ashore. My original opinion remains unchanged; but it is only an opinion.
 
-The question is, what and where is the skin of the whale? Already you know what his blubber is. That blubber is something of the consistence of firm, close-grained beef, but tougher, more elastic and compact, and ranges from eight or ten to twelve and fifteen inches in thickness.
-
+The question is, what and where is the skin of the whale? Already you know what his blubber is. That blubber is something of the consistence of firm, close-grained beef, but tougher, more elastic and compact, and ranges from eight or ten to twelve and fifteen inches in thickness.![[blanket2.jpg]]
 Now, however preposterous it may at first seem to talk of any creature’s skin as being of that sort of consistence and thickness, yet in point of fact these are no arguments against such a presumption; because you cannot raise any other dense enveloping layer from the whale’s body but that same blubber; and the outermost enveloping layer of any animal, if reasonably dense, what can that be but the skin? True, from the unmarred dead body of the whale, you may scrape off with your hand an infinitely thin, transparent substance, somewhat resembling the thinnest shreds of isinglass,[^14] only it is almost as flexible and soft as satin; that is, previous to being dried, when it not only contracts and thickens, but becomes rather hard and brittle. I have several such dried bits, which I use for marks in my whale-books. It is transparent, as I said before; and being laid upon the printed page, I have sometimes pleased myself with fancying it exerted a magnifying influence. At any rate, it is pleasant to read about whales through their own spectacles, as you may say. But what I am driving at here is this. That same infinitely thin, isinglass substance, which, I admit, invests the entire body of the whale, is not so much to be regarded as the skin of the creature, as the skin of the skin, so to speak; for it were simply ridiculous to say, that the proper skin of the tremendous whale is thinner and more tender than the skin of a new-born child. But no more of this.
 
 Assuming the blubber to be the skin of the whale; then, when this skin, as in the case of a very large Sperm Whale, will yield the bulk of one hundred barrels of oil; and, when it is considered that, in quantity, or rather weight, that oil, in its expressed state, is only three fourths, and not the entire substance of the coat; some idea may hence be had of the enormousness of that animated mass, a mere part of whose mere integument[^15] yields such a lake of liquid as that. Reckoning ten barrels to the ton, you have ten tons for the net weight of only three quarters of the stuff of the whale’s skin.
@@ -112,9 +79,13 @@ Nor is this the end. Desecrated as the body is, a vengeful ghost survives and ho
 Thus, while in life the great whale’s body may have been a real terror to his foes, in his death his ghost becomes a powerless panic to a world.
 
 Are you a believer in ghosts, my friend? There are other ghosts than the Cock-Lane one,[^27] and far deeper men than Doctor Johnson who believe in them.
+![[Pasted image 20260318231251.png]]
+*Cock Lane. Haunting in three-story bldg on right.*
 
 
 
+
+![[Pasted image 20260318231213.png]]
 ## CHAPTER 70. The Sphynx.
 
 It should not have been omitted that previous to completely stripping the body of the leviathan, he was beheaded. Now, the beheading of the Sperm Whale is a scientific anatomical feat, upon which experienced whale surgeons very much pride themselves: and not without reason.
@@ -124,7 +95,7 @@ Consider that the whale has nothing that can properly be called a neck; on the c
 When first severed, the head is dropped astern and held there by a cable till the body is stripped. That done, if it belong to a small whale it is hoisted on deck to be deliberately disposed of. But, with a full grown leviathan this is impossible; for the sperm whale’s head embraces nearly one third of his entire bulk, and completely to suspend such a burden as that, even by the immense tackles of a whaler, this were as vain a thing as to attempt weighing a Dutch barn in jewellers’ scales.[^29]
 
 The Pequod’s whale being decapitated and the body stripped, the head was hoisted against the ship’s side—about half way out of the sea, so that it might yet in great part be buoyed up by its native element. And there with the strained craft steeply leaning over to it, by reason of the enormous downward drag from the lower mast-head, and every yard-arm on that side projecting like a crane over the waves; there, that blood-dripping head hung to the Pequod’s waist like the giant Holofernes’s from the girdle of Judith.[^30]
-
+![[Pasted image 20260318225805.png]]
 When this last task was accomplished it was noon, and the seamen went below to their dinner. Silence reigned over the before tumultuous but now deserted deck. An intense copper calm, like a universal yellow lotus,[^31] was more and more unfolding its noiseless measureless leaves upon the sea.
 
 A short space elapsed, and up into this noiselessness came Ahab alone from his cabin. Taking a few turns on the quarter-deck, he paused to gaze over the side, then slowly getting into the main-chains he took Stubb’s long spade—still remaining there after the whale’s decapitation—and striking it into the lower part of the half-suspended mass, placed its other end crutch-wise under one arm, and so stood leaning over with eyes attentively fixed on this head.
