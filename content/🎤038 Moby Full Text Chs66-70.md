@@ -111,7 +111,6 @@ It was a black and hooded head; and hanging there in the midst of so intense a c
 “Better and better, man. Would now St. Paul would come along that way, and to my breezelessness bring his breeze! O Nature, and O soul of man! how far beyond all utterance are your linked analogies! not the smallest atom stirs or lives on matter, but has its cunning duplicate in mind.”
 
 ---
-
 ## FOOTNOTES
 
 [^1]: to lash the tiller so that the bow is pointed into the wind. With the sails all taken in, this would minimize the ship's motion.
