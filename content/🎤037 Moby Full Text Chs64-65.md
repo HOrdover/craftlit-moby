@@ -18,10 +18,9 @@ date modified: Monday, March 2nd 2026, 9:15:32 am
 [[#CHAPTER 65. The Whale as a Dish.]]
 [[#Footnotes]]
 
-
 ## CHAPTER 64. Stubb’s Supper.
 
-Stubb’s whale had been killed some distance from the ship. It was a calm; so, forming a tandem of three boats, we commenced the slow business of towing the trophy to the Pequod. And now, as we eighteen men with our thirty-six arms, and one hundred and eighty thumbs and fingers, slowly toiled hour after hour upon that inert, sluggish corpse in the sea; and it seemed hardly to budge at all, except at long intervals; good evidence was hereby furnished of the enormousness of the mass we moved. For, upon the great canal of Hang-Ho[^1], or whatever they call it, in China, four or five laborers on the foot-path will draw a bulky freighted junk at the rate of a mile an hour; but this grand argosy we towed heavily forged along, as if laden with pig-lead[^2] in bulk.
+Stubb’s whale had been killed some distance from the ship. It was a calm; so, forming a tandem of three boats, we commenced the slow business of towing the trophy to the Pequod. And now, as we eighteen men with our thirty-six arms, and one hundred and eighty thumbs and fingers, slowly toiled hour after hour upon that inert, sluggish corpse in the sea; and it seemed hardly to budge at all, except at long intervals; good evidence was hereby furnished of the enormousness of the mass we moved. For, upon the great canal of Hang-Ho,[^1] or whatever they call it, in China, four or five laborers on the foot-path will draw a bulky freighted junk at the rate of a mile an hour; but this grand argosy we towed heavily forged along, as if laden with pig-lead[^2] in bulk.
 
 Darkness came on; but three lights up and down in the Pequod’s main-rigging dimly guided our way; till drawing nearer we saw Ahab dropping one of several more lanterns over the bulwarks. Vacantly eyeing the heaving whale for a moment, he issued the usual orders for securing it for the night, and then handing his lantern to a seaman, went his way into the cabin, and did not come forward again until morning.
 
@@ -138,11 +137,6 @@ But Fleece had hardly got three paces off, when he was recalled.
 “Cook, give me cutlets for supper to-morrow night in the mid-watch. D’ye hear? away you sail, then.—Halloa! stop! make a bow before you go.—Avast heaving again! Whale-balls for breakfast—don’t forget.”
 
 “Wish, by gor! whale eat him, ’stead of him eat whale. I’m bressed if he ain’t more of shark dan Massa Shark hisself,” muttered the old man, limping away; with which sage ejaculation he went to his hammock.
-
-  
-  
-  
-  
 
 ## CHAPTER 65. The Whale as a Dish.
 

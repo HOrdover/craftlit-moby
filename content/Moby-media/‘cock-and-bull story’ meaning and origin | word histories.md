@@ -1,0 +1,1 @@
+[‘cock-and-bull story’: meaning and origin | word histories](https://wordhistories.net/2017/03/08/cock-and-bull/)
