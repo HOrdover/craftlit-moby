@@ -44,7 +44,6 @@ Epistemologists (the people who study this) want to know if you have **good reas
 - If you say, "It is raining," can you show me a wet umbrella? That’s asking for **justification**.
 - If you say, "I believe it's going to rain because my knee itches," that is probably not strong evidence (not justification). 
 
-
 4. Why Does It Matter?
 Epistemology helps us be careful thinkers so we don't believe everything we hear. 
 It helps us:
@@ -75,13 +74,11 @@ HOLY CRAP - whale going UNDER the Pequod!
 
 OAKUM to stuff in his boots (b/c hooves HA!)
 
-
 - Laplandish - Supernatural/Sami
 
 | right whale | sperm whale |
 | :---------- | ----------: |
 | Labord      |   starboard |
-
 
 Stubb says Soul = Silver watch (not even GOLD)
 
