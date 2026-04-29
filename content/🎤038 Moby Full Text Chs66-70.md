@@ -21,9 +21,8 @@ date modified: Monday, March 16th 2026, 10:15:32 am
 [[#CHAPTER 70. The Sphynx.]]
 [[#FOOTNOTES]]
 
-
-
 ![[Pasted image 20260318230656.png]]
+
 ## CHAPTER 66. The Shark Massacre.
 
 When in the Southern Fishery, a captured Sperm Whale, after long and weary toil, is brought alongside late at night, it is not, as a general thing at least, customary to proceed at once to the business of cutting him in. For that business is an exceedingly laborious one; is not very soon completed; and requires all hands to set about it. Therefore, the common usage is to take in all sail; lash the helm a’lee;[^1] and then send every one below to his hammock till daylight, with the reservation that, until that time, anchor-watches shall be kept; that is, two and two for an hour, each couple, the crew in rotation shall mount the deck to see that all goes well.
@@ -46,8 +45,6 @@ And now suspended in stages over the side, Starbuck and Stubb, the mates, armed 
 
 One of the attending harpooneers now advances with a long, keen weapon called a boarding-sword,[^12] and watching his chance he dexterously slices out a considerable hole in the lower part of the swaying mass. Into this hole, the end of the second alternating great tackle is then hooked so as to retain a hold upon the blubber, in order to prepare for what follows. Whereupon, this accomplished swordsman, warning all hands to stand off, once more makes a scientific dash at the mass, and with a few sidelong, desperate, lunging slicings, severs it completely in twain; so that while the short lower part is still fast, the long upper strip, called a blanket-piece,[^13] swings clear, and is all ready for lowering. ![[peeling a blanket.jpeg]]
 The heavers forward now resume their song, and while the one tackle is peeling and hoisting a second strip from the whale, the other is slowly slackened away, and down goes the first strip through the main hatchway right beneath, into an unfurnished parlor called the blubber-room. Into this twilight apartment sundry nimble hands keep coiling away the long blanket-piece as if it were a great live mass of plaited serpents. And thus the work proceeds; the two tackles hoisting and lowering simultaneously; both whale and windlass heaving, the heavers singing, the blubber-room gentlemen coiling, the mates scarfing, the ship straining, and all hands swearing occasionally, by way of assuaging the general friction.
-
-
 
 ## CHAPTER 68. The Blanket.
 
@@ -82,10 +79,8 @@ Are you a believer in ghosts, my friend? There are other ghosts than the Cock-La
 ![[Pasted image 20260318231251.png]]
 *Cock Lane. Haunting in three-story bldg on right.*
 
-
-
-
 ![[Pasted image 20260318231213.png]]
+
 ## CHAPTER 70. The Sphynx.
 
 It should not have been omitted that previous to completely stripping the body of the leviathan, he was beheaded. Now, the beheading of the Sperm Whale is a scientific anatomical feat, upon which experienced whale surgeons very much pride themselves: and not without reason.
@@ -111,6 +106,7 @@ It was a black and hooded head; and hanging there in the midst of so intense a c
 “Better and better, man. Would now St. Paul would come along that way, and to my breezelessness bring his breeze! O Nature, and O soul of man! how far beyond all utterance are your linked analogies! not the smallest atom stirs or lives on matter, but has its cunning duplicate in mind.”
 
 ---
+
 ## FOOTNOTES
 
 [^1]: to lash the tiller so that the bow is pointed into the wind. With the sails all taken in, this would minimize the ship's motion.
