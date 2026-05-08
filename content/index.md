@@ -55,6 +55,11 @@ Below please find links to the full text of each chapter with my annotations for
 - [[🎤036 Moby Full Text Chs 61-63]]
 - [[🎤037 Moby Full Text Chs64-65]]
 - [[🎤038 Moby Full Text Chs66-70]]
+- [[🎤039 Moby Full Text Ch71]]
+- [[🎤040 Moby Full Text Ch72]]
+- [[🎤042 Moby Full Text Ch74-75]]
+- [[🎤043 Moby Full Text Ch76-78]]
+- [[🎤044 Moby Full Text Ch79-80]]
 
 ---
 
