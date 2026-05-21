@@ -10,8 +10,8 @@ date created: Monday, April 27th 2026, 10:19:49 am
 date modified: Monday, April 27th 2026, 10:15:32 am
 ---
 
-| [[🎤040 Moby Full Text Ch72\|PREVIOUS]] |     |     | [[media/604180ff-3f37-49da-8b25-5c4140ca4c97.jpg\|NEXT]] |
-| --------------------------------------- | --- | --- | -------------------------------------------------------- |
+| [[🎤042 Moby Full Text Ch74-75]] |     |     | [[🎤044 Moby Full Text Ch79-80\|NEXT]] |
+| -------------------------------- | --- | --- | -------------------------------------- |
 
 [Silk Reeling](https://youtube.com/shorts/yJWg07Mm9ts?si=WH_DeyvnFeQpfyf2) video
 Where I learned how [wadding was used with a musket](https://youtu.be/xCrscZljkwc?si=KNhSDOGPOo6YjmLv)

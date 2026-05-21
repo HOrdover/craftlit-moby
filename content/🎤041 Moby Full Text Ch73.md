@@ -12,8 +12,8 @@ date created: Monday, April 6th 2026, 10:19:49 am
 date modified: Monday, April 6th 2026, 10:15:32 am
 ---
 
-| [[🎤040 Moby Full Text Ch72\|PREVIOUS]] |     |     | [[media/604180ff-3f37-49da-8b25-5c4140ca4c97.jpg\|NEXT]] |
-| --------------------------------------- | --- | --- | -------------------------------------------------------- |
+| [[🎤040 Moby Full Text Ch72\|PREVIOUS]] |     |     | [[🎤042 Moby Full Text Ch74-75\|NEXT]] |
+| --------------------------------------- | --- | --- | -------------------------------------- |
 
 JK POST IN DISCORD - re: Sperm Whale Birth
 
@@ -195,9 +195,7 @@ https://wordhistories.net/2017/03/08/cock-and-bull/
 
 **Bull" vs. "Bullshit":** The term "bull" (meaning nonsense/fraud) is much older, with roots in Middle English and Old French (_bole_, meaning fraud or deceit). It was later mistakenly, or perhaps directly, associated with the male bovine animal, according to the [Language Log](https://itre.cis.upenn.edu/myl/languagelog/archives/002404.html).
 
-
 ---
-
 
 **LOCKE /KANT - more from Melville Electronic Library:** Locke’s head . . . Kant’s: The arguments of English empiricist John Locke 1632-1704, who held that human knowledge is produced by sense experience, were challenged by German idealist Immanuel Kant 1724-1804, for whom knowledge was shaped by innate forms of mind. Ishmael suggests that one is "sorely strained" to reconcile these concepts. At the end of the following chapter, the opposition is changed to Stoicism versus the Platonism of Baruch Spinoza 1632-1677. Melville had read these philosophers and had discussed contemporary philosophy in depth with experts during his 1849–50 tour of England, Germany, and France (see NN Journals).
 

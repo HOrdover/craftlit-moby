@@ -9,8 +9,8 @@ date created: Monday, April 13th 2026, 10:19:49 am
 date modified: Monday, April 13th 2026, 10:15:32 am
 ---
 
-| [[🎤040 Moby Full Text Ch72\|PREVIOUS]] |     |     | [[media/604180ff-3f37-49da-8b25-5c4140ca4c97.jpg\|NEXT]] |
-| --------------------------------------- | --- | --- | -------------------------------------------------------- |
+| [[🎤041 Moby Full Text Ch73\|PREVIOUS]] |     |     | [[🎤043 Moby Full Text Ch76-78\|NEXT]] |
+| --------------------------------------- | --- | --- | -------------------------------------- |
 
 Back to the folio of art
 
