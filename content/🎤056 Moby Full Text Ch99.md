@@ -16,7 +16,8 @@ date modified: 2026, Aug, Tuesday, 6:05:56 pm
 
 ## Contents
 
-[[#CHAPTER 99. The Doubloon.]] [[#FOOTNOTES]]
+[[#CHAPTER 99. The Doubloon.]] 
+[[#FOOTNOTES]]
 
 ---
 

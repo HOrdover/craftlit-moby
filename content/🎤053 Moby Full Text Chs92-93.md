@@ -1,27 +1,4 @@
 ---
-aliases: []
-tags: []
-date created: 2026, Jul, Tuesday, 4:39:20 pm
-date modified: 2026, Jul, Wednesday, 1:10:58 am
-title: FOOTNOTES
----
-
-Ahab
-
-Land vs sea chapters 23-24
-
-sphinx chatper 74--tell me the secret thing that is in thee
-
-93 the castaway - pip jumps b/c he's scared - Stubb - do it again, Immna leave you. Pip is all alone. Ishmael SAYS he had this experience...
-
-WHat did he see? - God's foot on the treadle of the loom (God pulling the strings - heh - weav ing the world) 
-
-Man's Madness is heaven's sense - enlightenment/transcendance.
-
-Insanity = prophecy / god touched.
-
----
-
 tags:
 
   - ambergris

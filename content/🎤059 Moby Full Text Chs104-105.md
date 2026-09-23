@@ -1,17 +1,18 @@
------
-tags:
-  - fossil-whale
-  - whale-magnitude
-  - cetology
-  - pre-adamite
-  - geological-time
-  - extinction
-  - full-text
-  - whaling
-  - moby-dick
-  - shownotes
+---
+tags: 
+- fossil-whale
+- whale-magnitude
+- cetology
+- pre-adamite
+- geological-time
+- extinction
+- full-text
+- whaling
+- moby-dick
+- shownotes
 date created: Tuesday, September 22nd 2026, 3:58:39 pm
 date modified: Tuesday, September 22nd 2026, 7:19:23 pm
+
 ---
 
 [[🎤058 Moby Full Text Ch102-103|PREVIOUS]] | [[🎤060 Moby Full Text Ch106-108|NEXT]]
@@ -20,36 +21,8 @@ date modified: Tuesday, September 22nd 2026, 7:19:23 pm
 
 - [[#CHAPTER 104. The Fossil Whale.]]
 - [[#CHAPTER 105. Does the Whale's Magnitude Diminish?—Will He Perish?]]
+- [[#Footnotes]]
 
----
-
-A BLOCK - PRE CHAPTER TALK
-
-—CH 104 Jolly tone, read aloud is great—big beings require really big words. Listen for:  in *fossiliferous* (contains fossils), *antediluvian* (pre-Noah's flood), *pre-Adamite*  (before Adam) —and  *emprise* (a chivalric undertaking or bold venture) adds another layer of mock-heroic self-promotion
-—CH 105 also upbeat, but with hindsight, it's not as jolly
-—Orlop deck - lowest deck where ropes are coiled (Like intestines)
-—Cuvier established that species could go extinct — a revolutionary and disturbing idea. He classified the Cetacea (whales, dolphins, porpoises), determined they were not fish, and examined fossil marine mammals.--real science
-—Shem - Noah's son, so Shem, while ancient to us, is still POST-diluvian, so younger than "whales"
-—listen for a joke using the word "suburbs"
-—REMINDER: **Burton Constable** — a real Yorkshire estate. Sir Clifford Constable did possess a sperm whale skeleton, which Melville had read about. The detail is authentic local color — this isn't invented.
-—Tertiary Period: a real geological term, correctly used by Melville. The Tertiary period covered roughly 66 to 2.6 million years ago — the age of mammals following the extinction of the dinosaurs. Melville's usage is precisely current for 1851.
-—**"kine"** — archaic plural of "cow," the language of the King James Bible. Melville uses it deliberately here to invoke Pharaoh's dream in Genesis 41: "seven fat kine" and "seven lean kine" that devour them — the dream that Joseph interprets as seven years of plenty followed by seven years of famine.
-—**"[Rope Walks](https://heatherneill.com/wp-content/uploads/2018/07/the-spinning-loft.jpg) and Thames Tunnels of Whales"** — a wonderful double image. A *ropewalk* is a long, narrow building (sometimes exceeding 1,000 feet) where rope was twisted and laid — a staple of every maritime city in the age of sail. The *Thames Tunnel* (opened 1843, designed by Marc Isambard Brunel and completed by his son Isambard Kingdom Brunel) was the first tunnel under a navigable river in the world, a great engineering wonder of Melville's era, famous for its dimensions. Melville is saying: the whales swim in passages as long and narrow as ropewalks, as wide as a great tunnel. The images are precise marine-industrial measurements, not vague decoration.
-—**"pasture to expatiate in"** — Melville uses *expatiate* in its original spatial sense, from Latin *ex-* (out) + *spatiari* (to walk about freely, to roam).
-—**"whalebone whales" / "cachalot"** — Melville uses "whalebone whales" for what we now call baleen whales: *Cachalot* is the French and Portuguese word specifically for the Sperm Whale
-—"spear of man"—Melville would have been watching the transition from spear/bow and arrow hunting of buffalo transition to rifle hunting - many more died once the new technology was introduced.
-
-B BLOCK - post-chapter talk
-—Qualified to talk about fossils/geology b/c he's dug some holes. The joke is in the absurdity of the claim, but there's a real point underneath: amateur naturalists and working men often made genuine geological discoveries in the 19th century. The field was young enough that a well-read, observant person could make real contributions.
-—**"Friends, hold my arms!"** — this is vintage "hold my beer" energy. Melville is performing comic self-restraint: the subject is so vast, the temptation to go full rhetorical excess is so overwhelming, that he needs to be physically restrained.
-—Did you catch the Harry-potter-sounding creature: —*Basilosaurus* (= "king lizard," from Greek *basileus* = king + *sauros* = lizard) — he thought it was a reptile. - by 1839 they knew the Alabama find was actually a whale.
-—BTW, **The assembled skeleton / Koch's fraud** — Melville is correct that Koch's reconstruction was a composite of multiple individuals, inflating the apparent size dramatically. Koch exhibited this "sea serpent" (which he called *Hydrarchos*) as a traveling spectacle in New York and Europe before scientists identified the composite nature of the skeleton. Real SINGLE animal was 50-60 feet long.
-— Melville steps fully out of the narrative to announce what he is doing. The whale justifies the size and ambition of *Moby-Dick* itself. He is not writing a novel; he is writing a WHALE. - https://countercraft.substack.com/p/your-novel-should-be-more-like-moby
-—I LOVE the idea of the universe's suburbs where where the big words and the small facts coexist.
-—BTW - **IMPORTANT NOTE FOR HEATHER:** The Temple of Denderah that Melville references is **NOT** the Temple of Dendur now in the Metropolitan Museum of Art. These are two entirely different temples.
-—**Melville's size measurements** — largely in the right ballpark, with some inflation. The modern confirmed maximum length for a sperm whale is around 67-68 feet (a male taken in 1950). Melville's range of 60-85 feet is plausible for 1851 whaling, when the largest males had not yet been selectively hunted out. The jawbone in the Nantucket museum suggests 90-foot individuals may have existed. His weight figures (up to 90-100 tons) are higher than modern averages (35-45 tons for large males), but given that selective hunting has since removed the largest animals, Melville's era estimates may have been encountering genuinely larger specimens.
-—**Whale behavioral adaptation** — Melville is making a remarkable argument for 1851: that whales, under hunting pressure, *learned* to seek refuge in more inaccessible waters — the Polar Seas, the remote Pacific. He is describing adaptive behavioral response to human predation.
-—**"in his sunsets suns still rise"** — the whale supplies his own light (whale oil) so he brings his own "sunrise" with him...even during the "sunset" of Whale's time, there is still hope for the Whales—he's got a lot of "land" to roam in.
 
 ## CHAPTER 104. The Fossil Whale.
 

@@ -6,8 +6,8 @@ tags:
 - whaling
 - moby-dick
 - shownotes
-  date created: 2026, Jun, Sunday, 12:00:00 pm
-  date modified: 2026, Jun, Sunday, 12:00:00 pm
+date created: 2026, Jun, Sunday, 12:00:00 pm
+date modified: 2026, Jun, Sunday, 12:00:00 pm
 ---
 
 | [[🎤048 Moby Full Text Ch86\|PREVIOUS]] |     |     | [[🎤052 Moby Full Text Chs90-91\|NEXT]] |
