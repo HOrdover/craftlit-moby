@@ -2,9 +2,7 @@
 tags: [Oft' Needed References]
 ---
 
-
 [FOR LATER how to coil a dock line](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/%40the.sailing.acade/video/7356630181492297006&ved=2ahUKEwj73di0wY2RAxUgg4kEHfe7Nd04ChC3AnoECBAQAg&usg=AOvVaw22xckweMGTtKUDOrVPF_Lu   ) 
-
 
 - **[The Map of the Pequod's Journey**](http://www.powermobydick.com/images/Path_of_Pequod_full.jpg) - see Chapters 23, 29, 51, 52, 58, 87, 109, 111, 114, 118, 126
 - [[🎤012 Moby Full Text Chs26-28#fn-schematics|Shipboard Schematics]]
@@ -19,6 +17,7 @@ tags: [Oft' Needed References]
 ==Have notes to add? Email me [heather@craftlit.com](mailto:heather@craftlit.com) or call 1-206-350-1642 or use [speakpipe.com/craftlit](https://speakpipe.com/craftlit).==
 
 ```
+
 #### Links go to Episode-based Full Text notes     
 - Episode 001—[[🎤001 Moby Full Text-notes|Chapter 1]]     
 - Episode 002—[[🎤002 Moby Full Text Ch 2-notes|Chapter 2]]     
@@ -31,7 +30,7 @@ tags: [Oft' Needed References]
 - Episode 008—[[🎤008 Moby Full Text Ch16|Chapter 16]]     
 - Episode 009—[[🎤009 Moby Full Text Chs17-19|Chapters 17-19]]     
 - Episode 010—[[🎤010 Moby Full Text Chs20-22|Chapters 20-22]]
-- 	- [[🎤010 Moby Full Text Chs20-22#fn-scuttle|Episode 10, footnote 12]]  refers to “***scuttle***”, used again but differently in [[🎤013 Moby Full Text Chs29-30|Chapter 30]]
+- - [[🎤010 Moby Full Text Chs20-22#fn-scuttle|Episode 10, footnote 12]]  refers to “***scuttle***”, used again but differently in [[🎤013 Moby Full Text Chs29-30|Chapter 30]]
 - Episode 011—[[🎤011 Moby-Full Text Chs23-25|Chapters 23-25]]
 	- Ch23 Footnote 1 refers to Bulkington in [[🎤003 Moby Full Text Ch3-notes|Chapter 3]]      
 	- Ch 24 [[🎤011 Moby-Full Text Chs23-25#fn-royal|Footnote 37 re: Whales being “Royal Fish]]”, will be further examined later in ==Chapter 90==.
@@ -56,9 +55,6 @@ tags: [Oft' Needed References]
 - Episode 026—[[Clippings/Zcript-Testing-1/026 Moby Interlude-a Retrospective|Interlude—]]
 - Episode 027—[[🎤027 Moby Full Text Chs42-43|Chapter 42]]—The Whiteness of the Whale and Hark
 - Episode 028—
-
-
-
 
 ---
  <a href='https://www.free-counters.org/'>powered by Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=3a836571bf527a15ef6121fbbdda37292ed45bd9'></script>

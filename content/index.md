@@ -7,6 +7,7 @@ tags: [Welcome to the Moby Dick Companion]
 tags: [book-index, moby-dick, melville, craftlit]
 
 ---
+
 # 🐋 Moby-Dick Index
 
 > *by Herman Melville*  
@@ -14,6 +15,7 @@ tags: [book-index, moby-dick, melville, craftlit]
 > 📚 Full text: [Project Gutenberg](https://www.gutenberg.org/ebooks/2701)
 Below please find links to the full text of each chapter with my annotations for Herman Melville's *Moby Dick*.🐋 The audio version is available on several 
 ---
+
 ## 🎧 Chapters & Notes
 
 - [[🎤000-MOBY START]]
